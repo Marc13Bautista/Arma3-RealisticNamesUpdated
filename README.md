@@ -18,7 +18,7 @@ Special Thanks to all [ACE3 Contributors](https://github.com/acemod/ACE3/blob/ma
 
 # Building
 
-There is currently no automated build system. All builds are done manually. This might change in the future, however it is not planned as of the of writing.
+There is currently no automated build system. All builds are done manually. 
 
 # License
 
