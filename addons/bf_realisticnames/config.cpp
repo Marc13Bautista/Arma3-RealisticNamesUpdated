@@ -8,7 +8,7 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-    class ADDON {
+    class real_names_2035_base {
         name = COMPONENT_NAME;
         units[] = {};
         weapons[] = {};

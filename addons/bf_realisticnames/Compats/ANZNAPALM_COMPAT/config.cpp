@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class real_names_2035_vanilla_compat
 	{
-		addonRootClass="ADDON"; //Replace this with fisch's config name
+		addonRootClass="real_names_2035_base"; //Replace this with fisch's config name
 		units[]={};
 		weapons[]={};
 		requiredAddons[]=
