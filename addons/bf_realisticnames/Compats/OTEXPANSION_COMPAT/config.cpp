@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class real_names_2035_otexpansion_compat
 	{
-		addonRootClass="COMPONENT_NAME"; //Replace this with fisch's config name
+		addonRootClass="ADDON"; //Replace this with fisch's config name
 		units[]={};
 		weapons[]={};
 		requiredAddons[]=
