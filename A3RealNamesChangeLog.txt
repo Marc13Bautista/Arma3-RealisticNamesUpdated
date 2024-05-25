@@ -1,4 +1,9 @@
-CHANGELIST:
+Patch 5/24/24 Patch 3:
++ Added the (secret) NATO SOCAT Variant "B_Heli_EC_02_RF" used in Air Control mission.
+// OFP's Kozlice is modelled after the CZ 581, while Contact's Kozlice seems to be a Beretta DT11.
++ Change "Kozlice" (and sawed-off) to "Beretta DT11"
+
+WS & RF COMPAT UPDATE TLDR CHANGELIST:
 - Added Real Names for the following mods: JCA M320, Ravage, O&T Expansion, and ANZACSAS Napalm and WP Smoke marker rockets.
 - Added Western Sahara CDLC Real Names for Weapons, Attachments, and Vehicles.
 - Added Reaction Forces CDLC Real Names for Weapons, Attachments, and Vehicles.
@@ -6,10 +11,9 @@ CHANGELIST:
 - Converted ALL .cpp files to .bin for faster loading times (thanks Axle for the tip).
 
 KNOWN ISSUES:
-- Magazines will reference their usage for weapons of their fictional/Vanilla names when hovered over.
-- CDLC Icons in the editor disappear for some reason.
+- Magazines will reference their usage for weapons of their fictional/Vanilla names when hovered over. I won't make any changes to them (and neither will ace3) as files are encrypted for CDLCs and it will take exponentially more work than just renaming.
 
-FULL CHANGELIST: 
+WS & RF COMPAT UPDATE FULL CHANGELIST: 
 ADDED COMPATIBLE REALISTIC Name Changes for the Following Mods: 
 + JCA - M320 LRR Enhanced Patch by Grave
 // PRIMARY WEAPONS
@@ -288,9 +292,9 @@ ADDITIONAL EDITS (Missing/Edited from Ace3 Version)
 
 + Contact DLC by Bohemia Interactive
 // PRIMARY WEAPONS
-// A classic shotgun back from OFP... Seems to be a mix of the Beretta DT-11 and CZ-581... Keeping it Kozlice for now.
-- "Kozlice 12G" -> "Kozlice"
-- "Kozlice 12G (Sawed-Off)" -> "Kozlice (Sawed-Off)"
+// A classic shotgun back from OFP... but seems to be a remodelled after the Beretta DT11 instead of the CZ 581.
+- "Kozlice 12G" -> "Beretta DT11"
+- "Kozlice 12G (Sawed-Off)" -> "Beretta DT11 (Sawed-Off)"
 
 + Contact DLC by Bohemia Interactive
 // SECONDARY ATTACHMENTS
