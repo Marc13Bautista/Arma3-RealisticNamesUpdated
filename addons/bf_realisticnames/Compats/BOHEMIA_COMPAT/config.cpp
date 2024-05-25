@@ -45,17 +45,17 @@ class cfgWeapons
 	}
 // Contact DLC by Bohemia Interactive
 // PRIMARY WEAPONS
-// A classic shotgun back from OFP... Seems to be a mix of the Beretta DT-11 and CZ-581... Keeping it Kozlice for now.
-// "Kozlice 12G" -> "Kozlice"
+// A classic shotgun back from OFP... but seems to be a remodelled after the Beretta DT11 instead of the CZ 581.
+// "Kozlice 12G" -> "Beretta DT11"
 	class sgun_HunterShotgun_01_base_F;
 	class sgun_HunterShotgun_01_F: sgun_HunterShotgun_01_base_F
 	{
-		displayName="Kozlice";
+		displayName="Beretta DT11";
 	}
-// "Kozlice 12G (Sawed-Off)" -> "Kozlice (Sawed-Off)"
+// "Kozlice 12G (Sawed-Off)" -> "Beretta DT11 (Sawed-Off)"
 	class sgun_HunterShotgun_01_sawedoff_base_F: sgun_HunterShotgun_01_base_F
 	{
-		displayName="Kozlice (Sawed-Off)";
+		displayName="Beretta DT11 (Sawed-Off)";
 	}
 // Contact DLC by Bohemia Interactive
 // SECONDARY ATTACHMENTS

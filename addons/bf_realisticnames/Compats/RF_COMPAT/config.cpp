@@ -325,6 +325,10 @@ class cfgVehicles
 	{
 		displayName="H225M Super Cougar SOCAT";
 	}
+class B_Heli_EC_02_RF: Heli_EC_02_base_RF
+	{
+		displayName="H225M Super Cougar SOCAT";
+	}
 // Upgraded attack variants of the AW159 Wildcat.
 // "AH-11F Czapla" -> "AW159 Wildcat (UP)" [Independent- LDF]
 	class I_E_Heli_light_03_dynamicLoadout_RF: I_Heli_light_03_dynamicLoadout_RF
