@@ -1,8 +1,3 @@
-Patch 5/24/24 Patch 3:
-+ Added the (secret) NATO SOCAT Variant "B_Heli_EC_02_RF" used in Air Control mission.
-// OFP's Kozlice is modelled after the CZ 581, while Contact's Kozlice seems to be a Beretta DT11.
-+ Change "Kozlice" (and sawed-off) to "Beretta DT11"
-
 WS & RF COMPAT UPDATE TLDR CHANGELIST:
 - Added Real Names for the following mods: JCA M320, Ravage, O&T Expansion, and ANZACSAS Napalm and WP Smoke marker rockets.
 - Added Western Sahara CDLC Real Names for Weapons, Attachments, and Vehicles.
