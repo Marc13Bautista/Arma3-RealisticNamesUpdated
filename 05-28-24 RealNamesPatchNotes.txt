@@ -1,3 +1,7 @@
+Patch 5/28/24 Patch 4 Hotfix 1:
++ For WS CDLC:
+// Forgot to rename black variant of "GLX 160".
+
 Patch 5/28/24 Patch 4:
 + For Contact DLC:
 // Renamed Baretta DT11 to CZ 581 (including the sawed off). Hard to distinguish both shotguns. Changed to CZ 581 since Contact's Livonia takes place in the Czech Republic.
