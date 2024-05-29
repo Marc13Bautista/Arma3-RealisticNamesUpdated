@@ -48,7 +48,8 @@ class cfgWeapons
 	}
 // Based on the standalone configuration of the Beretta GLX 160.
 // "GLX 40 mm" -> "GLX 160"
-	class glaunch_GLX_base_lxWS: Rifle_Base_F
+	class glaunch_GLX_base_lxWS;
+	class glaunch_GLX_lxWS: glaunch_GLX_base_lxWS
 	{
 		displayName="GLX 160";
 	}
