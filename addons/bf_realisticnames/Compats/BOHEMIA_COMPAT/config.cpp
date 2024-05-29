@@ -45,17 +45,41 @@ class cfgWeapons
 	}
 // Contact DLC by Bohemia Interactive
 // PRIMARY WEAPONS
-// A classic shotgun back from OFP... but seems to be a remodelled after the Beretta DT11 instead of the CZ 581.
-// "Kozlice 12G" -> "Beretta DT11"
+// Renamed Baretta DT11 to CZ 581 (including the sawed off). Hard to distinguish both shotguns. Changed to CZ 581 since Contact Livonia takes place in the Czech Republic.
+// "Kozlice 12G" -> "CZ 581"
 	class sgun_HunterShotgun_01_base_F;
 	class sgun_HunterShotgun_01_F: sgun_HunterShotgun_01_base_F
 	{
-		displayName="Beretta DT11";
+		displayName="CZ 581";
 	}
-// "Kozlice 12G (Sawed-Off)" -> "Beretta DT11 (Sawed-Off)"
+// "Kozlice 12G (Sawed-Off)" -> "CZ 581 (Sawed-Off)"
 	class sgun_HunterShotgun_01_sawedoff_base_F: sgun_HunterShotgun_01_base_F
 	{
-		displayName="Beretta DT11 (Sawed-Off)";
+		displayName="CZ 581 (Sawed-Off)";
+	}
+// Contact DLC by Bohemia Interactive
+// PRIMARY ATTACHMENTS
+// Renamed PMS (Promet Modular Sight) variants to Grot Modular Sight. The PMS is inspired by the integrated 1.5X telescope sight for the VHS D2 Assault Rifle. In-game, it's a non-integrated sight for the MSBS Grot (translated: Modular Firearm System "Spearhead") series however. Simply renaming it as the Spearhead Modular Sight would be the middleground. 
+// "Promet Modular Sight" -> "Grot Modular Sight"
+	class optic_ico_01_base_f;
+	class optic_ico_01_f: optic_ico_01_base_f
+	{
+		displayName="Grot Modular Sight";
+	}
+// "Promet Modular Sight (Black)" -> "Grot Modular Sight (Black)"
+	class optic_ico_01_black_f: optic_ico_01_base_f
+	{
+		displayName="Grot Modular Sight (Black)";
+	}
+// "Promet Modular Sight (Sand)" -> "Grot Modular Sight (Sand)"
+	class optic_ico_01_sand_f: optic_ico_01_base_f
+	{
+		displayName="Grot Modular Sight (Sand)";
+	}
+// "Promet Modular Sight (Camo)" -> "Grot Modular Sight (Camo)"
+	class optic_ico_01_camo_f: optic_ico_01_base_f
+	{
+		displayName="Grot Modular Sight (Camo)";
 	}
 // Contact DLC by Bohemia Interactive
 // SECONDARY ATTACHMENTS

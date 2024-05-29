@@ -18,31 +18,32 @@ class cfgWeapons
 {
 // PRIMARY WEAPONS
 // Modelled after the real-world German/Austrian-made HERA H6 Rifle.
-// "HADES H6 5.56 mm (Sand)" -> "HERA H6 (Sand)"
+// Renamed "HERA H6" to "Hera H6".
+// "HADES H6 5.56 mm (Sand)" -> "Hera H6 (Sand)"
 	class srifle_h6_base_rf;
 	class srifle_h6_tan_rf: srifle_h6_base_rf
 	{
-		displayName="HERA H6 (Sand)";
+		displayName="Hera H6 (Sand)";
 	}
-// "HADES H6 5.56 mm" -> "HERA H6"
+// "HADES H6 5.56 mm" -> "Hera H6"
 	class srifle_h6_blk_rf: srifle_h6_tan_rf
 	{
-		displayName="HERA H6";
+		displayName="Hera H6";
 	}
-// "HADES H6 5.56 mm (Digital)" -> "HERA H6 (Digital)"
+// "HADES H6 5.56 mm (Digital)" -> "Hera H6 (Digital)"
 	class srifle_h6_digi_rf: srifle_h6_tan_rf
 	{
-		displayName="HERA H6 (Digital)";
+		displayName="Hera H6 (Digital)";
 	}
-// "HADES H6 5.56 mm (Gold)" -> "HERA H6 (Gold)"
+// "HADES H6 5.56 mm (Gold)" -> "Hera H6 (Gold)"
 	class srifle_h6_gold_rf: srifle_h6_tan_rf
 	{
-		displayName="HERA H6 (Gold)";
+		displayName="Hera H6 (Gold)";
 	}
-// "HADES H6 5.56 mm (Olive)" -> "HERA H6 (Olive)"
+// "HADES H6 5.56 mm (Olive)" -> "Hera H6 (Olive)"
 	class srifle_h6_oli_rf: srifle_h6_tan_rf
 	{
-		displayName="HERA H6 (Olive)";
+		displayName="Hera H6 (Olive)";
 	}
 // Black and Tan camo variants of the VS-121 prototype sniper rifle developed by Kalashnikov Concern (formerly known as IZHMASH).
 // "Rahim 7.62 mm (Black)" -> "VS-121 (Black)"
@@ -163,7 +164,7 @@ class cfgWeapons
 	{
 		displayName="Glock 19X Auto (Sand)";
 	}
-// Directly based on the real-world Desert Eagle Mk19 L5.
+// Directly based on the real-world Desert Eagle Mk19 L5 (lighter weight model).
 // "Mk26 L5 .50 AE" -> "Desert Eagle Mk19 L5"
 	class hgun_DEagle_RF: Pistol_Base_F
 	{
@@ -214,21 +215,22 @@ class cfgWeapons
 		displayName="C-More Railway (Red, Wood)";
 	}
 // Appears to be based on the Spitfire prism scopes designed by Vortex Optics.
-// "VRCO (Black)" -> "Vortex Spitfire 3x Prism (Black)"
+// Renamed "Vortex Spitfire 3x Prism" to "Vortex Spitfire Prism". Has model of the "Vortex Spitfire 3x Prism" but it oddly has a magnification of 2x in-game.
+// "VRCO (Black)" -> "Vortex Spitfire Prism (Black)"
 	class ItemCore;
 	class optic_VRCO_RF: ItemCore
 	{
-		displayName="Vortex Spitfire 3x Prism (Black)";
+		displayName="Vortex Spitfire Prism (Black)";
 	}
-// "VRCO (Khaki)" -> "Vortex Spitfire 3x Prism (Khaki)"
+// "VRCO (Khaki)" -> "Vortex Spitfire Prism (Khaki)"
 	class optic_VRCO_khk_RF: optic_VRCO_RF
 	{
-		displayName="Vortex Spitfire 3x Prism (Khaki)";
+		displayName="Vortex Spitfire Prism (Khaki)";
 	}
-// "VRCO (Sand)" -> "Vortex Spitfire 3x Prism (Sand)"
+// "VRCO (Sand)" -> "Vortex Spitfire Prism (Sand)"
 	class optic_VRCO_tan_RF: optic_VRCO_RF
 	{
-		displayName="Vortex Spitfire 3x Prism (Sand)";
+		displayName="Vortex Spitfire Prism (Sand)";
 	}
 // SECONDARY ATTACHMENTS
 // Based on the Aimpoint Micro R-1 reflex sight.
@@ -238,10 +240,11 @@ class cfgWeapons
 		displayName="Aimpoint Micro R-1";
 	}
 // Appears to be based on the Spitfire prism scopes designed by Vortex Optics. Smaller but with the same zoom.
-// "VRCO-S" -> "Vortex Spitfire 3x Prism Short"
+// Renamed "Vortex Spitfire 3x Prism Short" to "Vortex Spitfire Prism Short". Seems to be a fictional combination of Vortex sights, but still using the similar AR-BDC4 Reticle used by Vortex. 
+// "VRCO-S" -> "Vortex Spitfire Prism Short"
 	class optic_VRCO_pistol_RF: optic_VRCO_RF
 	{
-		displayName="Vortex Spitfire 3x Prism Short";
+		displayName="Vortex Spitfire Prism Short";
 	}
 // Camo variants of the EOTech MRDS.
 // "MRD (Khaki)" -> "EOTech MRDS (Khaki)"

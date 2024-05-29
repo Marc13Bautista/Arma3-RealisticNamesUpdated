@@ -17,65 +17,65 @@ class CfgPatches
 class cfgWeapons
 {
 // PRIMARY WEAPONS
-// The AA40 12G Shotgun is a fictional futurised take on the AA-12.
-// "AA40 12G" -> "AA-40"
+// Renamed AA-40 to AA-12. The shotgun is really just an AA-12 (with better performing (fictional) internal parts).
+// "AA40 12G" -> "AA-12"
 	class Rifle_Base_F;
 	class sgun_aa40_base_lxWS: Rifle_Base_F
 	{
-		displayName="AA-40";
+		displayName="AA-12";
 	}
-// "AA40 12G (Sand)" -> "AA-40 (Sand)"
+// "AA40 12G (Sand)" -> "AA-12 (Sand)"
 	class sgun_aa40_tan_lxWS: sgun_aa40_base_lxWS
 	{
-		displayName="AA-40 (Sand)";
+		displayName="AA-12 (Sand)";
 	}
-// "AA40 12G (Snake)" -> "AA-40 (Snake)"
+// "AA40 12G (Snake)" -> "AA-12 (Snake)"
 	class sgun_aa40_snake_lxWS: sgun_aa40_base_lxWS
 	{
-		displayName="AA-40 (Snake)";
+		displayName="AA-12 (Snake)";
 	}
-// Directly based on the real-world Israeli-made Galil rifle.
-// "Galat ARM 7.62 mm" -> "IMI Galil"
+// Renamed IMI Galil to Galil ARM since that is the exact variant of the Galil used.
+// "Galat ARM 7.62 mm" -> "Galil ARM"
 	class arifle_Galat_base_lxWS;
 	class arifle_Galat_lxWS: arifle_Galat_base_lxWS
 	{
-		displayName="IMI Galil";
+		displayName="Galil ARM";
 	}
 // "Galat ARM 7.62 mm (Old)" -> "IMI Galil (Old)"
 	class arifle_Galat_worn_lxWS: arifle_Galat_lxWS
 	{
-		displayName="IMI Galil (Old)";
+		displayName="Galil ARM (Old)";
 	}
-// Based on the standalone configuration of the Beretta GLX160.
-// "GLX 40 mm" -> "GLX160"
+// Based on the standalone configuration of the Beretta GLX 160.
+// "GLX 40 mm" -> "GLX 160"
 	class glaunch_GLX_base_lxWS: Rifle_Base_F
 	{
-		displayName="GLX160";
+		displayName="GLX 160";
 	}
-// "GLX 40 mm (Snake)" -> "GLX160 (Snake)"
+// "GLX 40 mm (Snake)" -> "GLX 160 (Snake)"
 	class glaunch_GLX_snake_lxWS: glaunch_GLX_base_lxWS
 	{
-		displayName="GLX160 (Snake)";
+		displayName="GLX 160 (Snake)";
 	}
-// "GLX 40 mm (Hex)" -> "GLX160 (Hex)"
+// "GLX 40 mm (Hex)" -> "GLX 160 (Hex)"
 	class glaunch_GLX_hex_lxWS: glaunch_GLX_base_lxWS
 	{
-		displayName="GLX160 (Hex)";
+		displayName="GLX 160 (Hex)";
 	}
-// "GLX 40 mm (Green Hex)" -> "GLX160 (Green Hex)"
+// "GLX 40 mm (Green Hex)" -> "GLX 160 (Green Hex)"
 	class glaunch_GLX_ghex_lxWS: glaunch_GLX_base_lxWS
 	{
-		displayName="GLX160 (Green Hex)";
+		displayName="GLX 160 (Green Hex)";
 	}
-// "GLX 40 mm (Camo)" -> "GLX160 (Camo)"
+// "GLX 40 mm (Camo)" -> "GLX 160 (Camo)"
 	class glaunch_GLX_camo_lxWS: glaunch_GLX_base_lxWS
 	{
-		displayName="GLX160 (Camo)";
+		displayName="GLX 160 (Camo)";
 	}
-// "GLX 40 mm (Sand)" -> "GLX160 (Sand)"
+// "GLX 40 mm (Sand)" -> "GLX 160 (Sand)"
 	class glaunch_GLX_tan_lxWS: glaunch_GLX_base_lxWS
 	{
-		displayName="GLX160 (Sand)";
+		displayName="GLX 160 (Sand)";
 	}
 // Black and Snake camo variants of Vanilla Mk14 Mod 1 EBR.
 // "Mk18 ABR 7.62 mm (Black)" -> "Mk14 Mod 1 EBR (Black)"
@@ -127,38 +127,38 @@ class cfgWeapons
 	{
 		displayName="Vektor SS-77 Compact (Snake)";
 	}
-// Directly based on the Belgian-made FAL rifle.
-// "SLR 7.62 mm (Wood)" -> "FN FAL (Wood)"
+// Renamed "FN FAL" variants to "FN FAL 50.00" since they closely match it.
+// "SLR 7.62 mm (Wood)" -> "FN FAL 50.00 (Wood)"
 	class DMR_06_base_F;
 	class arifle_SLR_lxWS: DMR_06_base_F
 	{
-		displayName="FN FAL (Wood)";
+		displayName="FN FAL 50.00 (Wood)";
 	}
-// "SLR 7.62 mm" -> "FN FAL"
+// "SLR 7.62 mm" -> "FN FAL 50.00"
 	class arifle_SLR_V_lxWS: arifle_SLR_lxWS
 	{
-		displayName="FN FAL";
+		displayName="FN FAL 50.00";
 	}
-// "SLR 7.62 mm (Desert)" -> "FN FAL (Desert)"
+// "SLR 7.62 mm (Desert)" -> "FN FAL 50.00 (Desert)"
 	class arifle_SLR_D_lxWS: arifle_SLR_lxWS
 	{
-		displayName="FN FAL (Desert)";
+		displayName="FN FAL 50.00 (Desert)";
 	}
-// "SLR 7.62 mm (Jungle)" -> "FN FAL (Jungle)"
+// "SLR 7.62 mm (Jungle)" -> "FN FAL 50.00 (Jungle)"
 	class arifle_SLR_V_camo_lxWS: arifle_SLR_V_lxWS
 	{
-		displayName="FN FAL (Jungle)";
+		displayName="FN FAL 50.00 (Jungle)";
 	}
 // FN FAL with a rifle grenade adapter.
-// "SLR GL 7.62 mm (Wood) -> ""FN FAL GL (Wood)"
+// "SLR GL 7.62 mm (Wood) -> "FN FAL 50.00 GL (Wood)"
 	class arifle_SLR_GL_lxWS: arifle_SLR_lxWS
 	{
-		displayName="FN FAL GL (Wood)";
+		displayName="FN FAL 50.00 GL (Wood)";
 	}
-// "SLR GL 7.62 mm" -> -> "FN FAL GL"
+// "SLR GL 7.62 mm" -> -> "FN FAL 50.00 GL"
 	class arifle_SLR_V_GL_lxWS: arifle_SLR_V_lxWS
 	{
-		displayName="FN FAL GL";
+		displayName="FN FAL 50.00 GL";
 	}
 // Directly modelled after the South African-made Vektor R4.
 // "Velko R4 5.56 mm" -> "Vektor R4"
@@ -167,27 +167,27 @@ class cfgWeapons
 	{
 		displayName="Vektor R4";
 	}
-// Velko R5 is based on the Vektor R5 Carbine derivative.
-// "Velko R5 5.56 mm" -> "Vektor R5"
+// Renamed "Vektor R5" variants to "Vektor R5 Carbine". They are Carbine variants of the Vektor R4 afterall.
+// "Velko R5 5.56 mm" -> "Vektor R5 Carbine"
 	class arifle_VelkoR5_lxWS: arifle_Velko_base_lxWS
 	{
-		displayName="Vektor R5";
+		displayName="Vektor R5 Carbine";
 	}
-// "Velko R5 5.56 mm (Snake)" -> "Vektor R5 (Snake)"
+// "Velko R5 5.56 mm (Snake)" -> "Vektor R5 Carbine (Snake)"
 	class arifle_VelkoR5_snake_lxWS: arifle_VelkoR5_lxWS
 	{
-		displayName="Vektor R5 (Snake)";
+		displayName="Vektor R5 Carbine (Snake)";
 	}
 // Underbarrel GL variant of the Vektor R5 Carbine.
-// "Velko R5 GL 5.56 mm" -> "Vektor R5 GL"
+// "Velko R5 GL 5.56 mm" -> "Vektor R5 Carbine GL"
 	class arifle_VelkoR5_GL_lxWS: arifle_VelkoR5_lxWS
 	{
-		displayName="Vektor R5 GL";
+		displayName="Vektor R5 Carbine GL";
 	}
-// "Velko R5 GL 5.56 mm (Snake)" -> "Vektor R5 GL (Snake)"
+// "Velko R5 GL 5.56 mm (Snake)" -> "Vektor R5 Carbine GL (Snake)"
 	class arifle_VelkoR5_GL_snake_lxWS: arifle_VelkoR5_GL_lxWS
 	{
-		displayName="Vektor R5 GL (Snake)";
+		displayName="Vektor R5 Carbine GL (Snake)";
 	}
 // The XMS series of rifles are a fictional hybrid of the XM8 and the VHS-2.
 // "XMS 5.56 mm" -> "XMS"
@@ -425,27 +425,28 @@ class cfgVehicles
 	{
 		displayname="Otokar ARMA (HMG)";
 	}
-// "AMV-7 Marchall (CV)" -> "Badger IFV (CV)" [BLUFOR- ION Services, NATO, NATO (Desert), NATO (Pacific), UNA]
+// Renamed "Badger IFV (CV)" to "Badger IFV (Command)".
+// "AMV-7 Marshall (CV)" -> "Badger IFV (Command)" [BLUFOR- ION Services, NATO, NATO (Desert), NATO (Pacific), UNA]
 	class APC_Wheeled_01_base_F;
 	class APC_Wheeled_01_command_base_lxWS: APC_Wheeled_01_base_F
 	{
-		displayname="Badger IFV (CV)";
+		displayname="Badger IFV (Command)";
 	}
 	class B_ION_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 	{
-		displayname="Badger IFV (CV)";
+		displayname="Badger IFV (Command)";
 	}
 	class B_D_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 	{
-		displayname="Badger IFV (CV)";
+		displayname="Badger IFV (Command)";
 	}
 	class B_T_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 	{
-		displayname="Badger IFV (CV)";
+		displayname="Badger IFV (Command)";
 	}
 	class B_UN_APC_Wheeled_01_command_lxWS: APC_Wheeled_01_command_base_lxWS
 	{
-		displayname="Badger IFV (CV)";
+		displayname="Badger IFV (Command)";
 	}
 // "AMV-7 Marshall (ATGM)" -> "Badger IFV (ATGM)" [BLUFOR- NATO, NATO (Desert), NATO (Pacific)]
 	class APC_Wheeled_01_atgm_base_lxWS: APC_Wheeled_01_base_F
