@@ -1,0 +1,20 @@
+Patch 5/28/24 Patch 4:
++ For Contact DLC:
+// Renamed Baretta DT11 to CZ 581 (including the sawed off). Hard to distinguish both shotguns. Changed to CZ 581 since Contact's Livonia takes place in the Czech Republic.
+// Renamed PMS (Promet Modular Sight) variants to Grot Modular Sight. The PMS is inspired by the integrated 1.5X telescope sight for the VHS D2 Assault Rifle. In-game, it's a non-integrated sight for the MSBS Grot (translated: Modular Firearm System "Spearhead") series however. Simply renaming it as the Spearhead Modular Sight would be the middleground. 
++ For WS CDLC:
+// Renamed AA-40 to AA-12. The shotgun is really just an AA-12 (with better performing (fictional) internal parts).
+// Renamed IMI Galil to Galil ARM since that is the exact variant of the Galil used.
+// Renamed "GLX160" to "GLX 160".
+// Renamed "FN FAL" variants to "FN FAL 50.00" since they closely match it.
+// Renamed "Vektor R5" variants to "Vektor R5 Carbine". They are Carbine variants of the Vektor R4 afterall.
+// Renamed "Badger IFV (CV)" to "Badger IFV (Command)".
++ For RF CDLC: 
+// Renamed "HERA H6" to "Hera H6".
+// Renamed "Vortex Spitfire 3x Prism" to "Vortex Spitfire Prism". Has model of the "Vortex Spitfire 3x Prism" but it  has a magnification of 2x in-game.
+// Renamed "Vortex Spitfire 3x Prism Short" to "Vortex Spitfire Prism Short". Seems to be a fictional combination of Vortex sights, but still using the similar AR-BDC4 Reticle used by Vortex. 
+(thanks to MikeMF from ace3 discord for more accurate names)
+- Did not change "Desert Eagle Mk19 L5" to "Desert Eagle Mark XIX" (since it's specifically the L5 lightweight variant). 
+
+Github Repo for the full changelog and un-binarized files can be found here:
+- https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
