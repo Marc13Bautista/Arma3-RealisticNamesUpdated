@@ -376,16 +376,16 @@
             <Turkish>HEMTT Nakil</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Truck_01_covered_Name">
-            <English>HEMTT Transport (covered)</English>
-            <German>HEMTT Transport (bedeckt)</German>
-            <Spanish>HEMTT de transporte (cubierto)</Spanish>
-            <Polish>HEMTT Transportowy (zakryty)</Polish>
-            <Czech>HEMTT (valník-krytý)</Czech>
-            <French>HEMTT Transport (bâché)</French>
+            <English>HEMTT Transport (Covered)</English>
+            <German>HEMTT Transport (Bedeckt)</German>
+            <Spanish>HEMTT de transporte (Cubierto)</Spanish>
+            <Polish>HEMTT Transportowy (Zakryty)</Polish>
+            <Czech>HEMTT (Valník-krytý)</Czech>
+            <French>HEMTT Transport (Bâché)</French>
             <Russian>HEMTT (транспортный, крытый)</Russian>
-            <Portuguese>HEMTT Transporte (coberto)</Portuguese>
-            <Hungarian>HEMTT szállítójármű (ponyvás)</Hungarian>
-            <Italian>HEMTT da trasporto (coperto)</Italian>
+            <Portuguese>HEMTT Transporte (Coberto)</Portuguese>
+            <Hungarian>HEMTT szállítójármű (Ponyvás)</Hungarian>
+            <Italian>HEMTT da trasporto (Coperto)</Italian>
             <Japanese>HEMTT 輸送 (幌)</Japanese>
             <Korean>HEMTT 수송 (덮개)</Korean>
             <Chinese>重型增程機動戰術卡車 (運輸, 棚布)</Chinese>
@@ -614,16 +614,16 @@
             <Turkish>KamAZ Nakil</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Truck_02_covered_Name">
-            <English>KamAZ Transport (covered)</English>
-            <German>KamAS Transport (bedeckt)</German>
-            <Spanish>KamAZ de transporte (cubierto)</Spanish>
-            <Polish>KamAZ Transportowy (zakryty)</Polish>
-            <Czech>KamAZ (valník-krytý)</Czech>
-            <French>KamAZ Transport (bâché)</French>
+            <English>KamAZ Transport (Covered)</English>
+            <German>KamAS Transport (Bedeckt)</German>
+            <Spanish>KamAZ de transporte (Cubierto)</Spanish>
+            <Polish>KamAZ Transportowy (Zakryty)</Polish>
+            <Czech>KamAZ (Valník-krytý)</Czech>
+            <French>KamAZ Transport (Bâché)</French>
             <Russian>КамАЗ (транспортный, крытый)</Russian>
-            <Portuguese>KamAZ Transporte (coberto)</Portuguese>
-            <Hungarian>KamAZ szállítójármű (ponyvás)</Hungarian>
-            <Italian>KamAZ da trasporto (coperto)</Italian>
+            <Portuguese>KamAZ Transporte (Coberto)</Portuguese>
+            <Hungarian>KamAZ szállítójármű (Ponyvás)</Hungarian>
+            <Italian>KamAZ da trasporto (Coperto)</Italian>
             <Japanese>KamAZ 輸送 (幌)</Japanese>
             <Korean>카마즈 수송 (덮개)</Korean>
             <Chinese>"卡瑪斯"卡車 (運輸, 棚布)</Chinese>
@@ -766,21 +766,21 @@
             <Turkish>Karatel (GMG)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_MBT_02_cannon_Name">
-            <English>T100 Black Eagle</English>
-            <German>T100 Black Eagle</German>
-            <Spanish>T100 Black Eagle</Spanish>
-            <Polish>T100 Black Eagle</Polish>
-            <Czech>Black Eagle</Czech>
-            <French>T100 Black Eagle</French>
-            <Russian>T100 Чёрный Орел</Russian>
-            <Portuguese>T100 Black Eagle</Portuguese>
-            <Hungarian>T100 Fekete Sas</Hungarian>
-            <Italian>T100 Black Eagle</Italian>
-            <Japanese>T100 ブラック イーグル</Japanese>
+            <English>T-100 Black Eagle</English>
+            <German>T-100 Black Eagle</German>
+            <Spanish>T-100 Black Eagle</Spanish>
+            <Polish>T-100 Black Eagle</Polish>
+            <Czech>T-100 Black Eagle</Czech>
+            <French>T-100 Black Eagle</French>
+            <Russian>T-100 Чёрный Орел</Russian>
+            <Portuguese>T-100 Black Eagle</Portuguese>
+            <Hungarian>T-100 Fekete Sas</Hungarian>
+            <Italian>T-100 Black Eagle</Italian>
+            <Japanese>T-100 ブラック イーグル</Japanese>
             <Korean>T-100 블랙 이글</Korean>
-            <Chinese>T100 "黑鷹"主戰坦克</Chinese>
+            <Chinese>T-100 "黑鷹"主戰坦克</Chinese>
             <Chinesesimp>T-100 "黑鹰"</Chinesesimp>
-            <Turkish>T100 Black Eagle</Turkish>
+            <Turkish>T-100 Black Eagle</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_MBT_02_arty_Name">
             <English>2S9 Sochor</English>
@@ -868,16 +868,16 @@
             <Turkish>Typhoon Nakil</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Truck_03_covered_Name">
-            <English>Typhoon Transport (covered)</English>
-            <German>Typhoon Transport (bedeckt)</German>
-            <Spanish>Typhoon de transporte (cubierto)</Spanish>
-            <Polish>Typhoon Transportowy (przykryty)</Polish>
-            <Czech>KamAZ Typhoon (valník-krytý)</Czech>
-            <French>Typhoon Transport (bâché)</French>
+            <English>Typhoon Transport (Covered)</English>
+            <German>Typhoon Transport (Bedeckt)</German>
+            <Spanish>Typhoon de transporte (Cubierto)</Spanish>
+            <Polish>Typhoon Transportowy (Przykryty)</Polish>
+            <Czech>KamAZ Typhoon (Valník-krytý)</Czech>
+            <French>Typhoon Transport (Bâché)</French>
             <Russian>Тайфун (крытый)</Russian>
-            <Portuguese>Typhoon Transporte (coberto)</Portuguese>
-            <Hungarian>Typhoon szállítójármű (ponyvás)</Hungarian>
-            <Italian>Typhoon da trasporto (coperto)</Italian>
+            <Portuguese>Typhoon Transporte (Coberto)</Portuguese>
+            <Hungarian>Typhoon szállítójármű (Ponyvás)</Hungarian>
+            <Italian>Typhoon da trasporto (Coperto)</Italian>
             <Japanese>タイフーン 輸送 (幌)</Japanese>
             <Korean>타이푼 수송 (덮개)</Korean>
             <Chinese>"颱風"卡車 (運輸, 棚布)</Chinese>

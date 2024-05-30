@@ -164,31 +164,31 @@ class cfgWeapons
 	{
 		displayName="Glock 19X Auto (Sand)";
 	}
-// Directly based on the real-world Desert Eagle Mk19 L5 (lighter weight model).
-// "Mk26 L5 .50 AE" -> "Desert Eagle Mk19 L5"
+// Directly based on the real-world Desert Eagle Mark XIX L5 (lighter weight model).
+// Renamed "Desert Eagle Mk19 L5" to "Desert Eagle Mark XIX L5"
 	class hgun_DEagle_RF: Pistol_Base_F
 	{
-		displayName="Desert Eagle Mk19 L5";
+		displayName="Desert Eagle Mark XIX L5";
 	}
-// "Mk26 L5 .50 AE (Bronze)" -> "Desert Eagle Mk19 L5 (Bronze)"
+// "Mk26 L5 .50 AE (Bronze)" -> "Desert Eagle Mark XIX L5 (Bronze)"
 	class hgun_DEagle_bronze_RF: hgun_DEagle_RF
 	{
-		displayName="Desert Eagle Mk19 L5 (Bronze)";
+		displayName="Desert Eagle Mark XIX L5 (Bronze)";
 	}
-// "Mk26 L5 .50 AE (Classic)" -> "Desert Eagle Mk19 L5 (Classic)"
+// "Mk26 L5 .50 AE (Classic)" -> "Desert Eagle Mark XIX L5 (Classic)"
 	class hgun_DEagle_classic_RF: hgun_DEagle_RF
 	{
-		displayName="Desert Eagle Mk19 L5 (Classic)";
+		displayName="Desert Eagle Mark XIX L5 (Classic)";
 	}
-// "Mk26 L5 .50 AE (Copper)" -> "Desert Eagle Mk19 L5 (Copper)"
+// "Mk26 L5 .50 AE (Copper)" -> "Desert Eagle Mark XIX L5 (Copper)"
 	class hgun_DEagle_copper_RF: hgun_DEagle_RF
 	{
-		displayName="Desert Eagle Mk19 L5 (Copper)";
+		displayName="Desert Eagle Mark XIX L5 (Copper)";
 	}
-// "Mk26 L5 .50 AE (Gold)" -> "Desert Eagle Mk19 L5 (Gold)"
+// "Mk26 L5 .50 AE (Gold)" -> "Desert Eagle Mark XIX L5 (Gold)"
 	class hgun_DEagle_gold_RF: hgun_DEagle_RF
 	{
-		displayName="Desert Eagle Mk19 L5 (Gold)";
+		displayName="Desert Eagle Mark XIX L5 (Gold)";
 	}
 // PRIMARY ATTACHMENTS
 // Camo variants of the C-More Railway.

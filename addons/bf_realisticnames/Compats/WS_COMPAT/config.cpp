@@ -252,6 +252,32 @@ class cfgWeapons
 	{
 		displayName="XMS SW (Sand)";
 	}
+// GM6 Lynx Snake camo variant introduced in WS Update 1.1.3.
+// "GM6 Lynx 12.7 mm (Snake)" -> "GM6 Lynx (Snake)"
+	class srifle_GM6_F;
+	class srifle_GM6_snake_lxWS: srifle_GM6_F
+	{
+		displayName="GM6 Lynx (Snake)";
+	}
+// FN FAL 50.00 Para Standard and Snake camo variant introduced in WS Update 1.1.3.
+// "SLR Para 7.62 mm" -> "FN FAL 50.00 Para"
+	class arifle_SLR_Para_lxWS: arifle_SLR_V_lxWS
+	{
+		displayName="FN FAL 50.00 Para";
+	}
+// "SLR Para 7.62 mm" -> "FN FAL 50.00 Para (Snake)"
+		class arifle_SLR_Para_snake_lxWS: arifle_SLR_Para_lxWS
+	{
+		displayName="FN FAL 50.00 Para (Snake)";
+	}
+// LAUNCHERS
+// RPG-32 Sand camo variant introduced in WS Update 1.1.3.
+// "RPG-42 (Sand)" -> "RPG-32 (Sand)"
+	class launch_RPG32_F;
+	class launch_RPG32_tan_lxWS: launch_RPG32_F
+	{
+		displayName="RPG-32 (Sand)";
+	}
 // PRIMARY ATTACHMENTS
 // Hex variant of ELCAN SpecterOS.
 // "ARCO (Hex)" -> "ELCAN SpecterOS (Hex)"
@@ -356,6 +382,19 @@ class cfgWeapons
 	class optic_r1_low_snake_lxWS: optic_r1_high_lxWS
 	{
 		displayName="Aimpoint Micro R-1 (Low, Snake)";
+	}
+// Burris XTR II Snake camo variant introduced in WS Update 1.1.3.
+// "DMS (Snake)" -> "Burris XTR II (Snake)"
+	class optic_DMS;
+	class optic_DMS_snake_lxWS: optic_DMS
+	{
+		displayName="Burris XTR II (Snake)";
+	}
+// Aimpoint Micro R-1 (High, Black, Sand) introduced in WS Update 1.1.3.
+// "RDS (High, Black, Sand)" -> "Aimpoint Micro R-1 (High, Black, Sand)"
+		class optic_r1_high_black_sand_lxWS: optic_r1_high_lxWS
+	{
+		displayName="Aimpoint Micro R-1 (High, Black, Sand)";
 	}
 };
 

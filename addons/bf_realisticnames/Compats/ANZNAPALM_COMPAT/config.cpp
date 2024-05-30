@@ -28,4 +28,10 @@ class cfgVehicles
 	{
 		displayName="A-10D Thunderbolt II (FAC)";
 	};
+// Renamed "FA-181 Black Wasp II - MK77" to "F/A-181 Black Wasp II (MK77)" [BLUFOR- NATO]
+	class B_Plane_Fighter_01_F;
+	class B_Plane_Fighter_01_Napalm_F: B_Plane_Fighter_01_F
+	{
+		displayName="F/A-181 Black Wasp II (MK77)";
+	};
 };

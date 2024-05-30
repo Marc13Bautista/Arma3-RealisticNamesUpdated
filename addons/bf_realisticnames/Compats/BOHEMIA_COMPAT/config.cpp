@@ -53,7 +53,8 @@ class cfgWeapons
 		displayName="CZ 581";
 	}
 // "Kozlice 12G (Sawed-Off)" -> "CZ 581 (Sawed-Off)"
-	class sgun_HunterShotgun_01_sawedoff_base_F: sgun_HunterShotgun_01_base_F
+    class sgun_HunterShotgun_01_sawedoff_base_F;
+    class sgun_HunterShotgun_01_sawedoff_F: sgun_HunterShotgun_01_sawedoff_base_F
 	{
 		displayName="CZ 581 (Sawed-Off)";
 	}
@@ -224,5 +225,18 @@ class cfgVehicles
 	class C_IDAP_Heli_Transport_02_F: Heli_Transport_02_base_F
 	{
 		displayName="EH101 Heliliner";
+	}
+// For Vanilla and Expansion Content by Bohemia Interactive
+// VEHICLES
+// Renamed "T-100X Futura" to "T-100X Black Eagle (Futura)". Same resemblance as with the standard "T-100" to the Black Eagle tank and turret, but this special variant comes with the fictional Railgun (designated by the "X" and "Futura").
+// "T-100X Futura" -> "T-100X Black Eagle (Futura) [OPFOR- CSAT, CSAT (Pacific)]"
+	class O_MBT_02_railgun_base_F;
+	class O_MBT_02_railgun_F: O_MBT_02_railgun_base_F
+	{
+		displayName="T-100X Black Eagle (Futura)";
+	}
+	class O_T_MBT_02_railgun_ghex_F: O_MBT_02_railgun_base_F
+	{
+		displayName="T-100X Black Eagle (Futura)";
 	}
 };
