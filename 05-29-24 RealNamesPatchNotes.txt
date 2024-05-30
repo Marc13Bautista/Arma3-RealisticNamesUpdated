@@ -1,0 +1,35 @@
+Patch 5/29/24 Patch 5:
++ For WS CDLC (NEW v1.1.3 Update):
+// PRIMARY WEAPONS
+// Renamed "GM6 Lynx 12.7 mm (Snake)" to "GM6 Lynx (Snake)"
+// Renamed "SLR Para 7.62 mm" to "FN FAL 50.00 Para"
+// Renamed "SLR Para 7.62 mm (Snake)" to "FN FAL 50.00 Para (Snake)"
+// LAUNCHERS
+// Renamed "RPG-42 (Sand)" to RPG-32 (Sand)"
+// PRIMARY ATTACHMENTS
+// Renamed "DMS (Snake)" to "Burris XTR II (Snake)"
+// Renamed "RDS (High, Black, Sand)" to "Aimpoint Micro R-1 (High, Black, Sand)"
+
+// For RF CDLC:
+// SECONDARY WEAPONS
+// Renamed "Desert Eagle Mk19 L5" to "Desert Eagle Mark XIX L5"
+
++ For Contact DLC:
+// PRIMARY WEAPONS
+// Forgot to apply "CZ 581 (Sawed-Off)" rename from "Kozlice 12G (Sawed-Off)". Oops.
+
+// For Vanilla and Expansion Content by Bohemia Interactive
+// VEHICLES
+// Renamed "T-100X Futura" to "T-100X Black Eagle (Futura)". Same resemblance as with the standard "T-100" to the Black Eagle chassis and turret, but this special variant comes with the fictional Railgun (designated by the "X" and "Futura").
+
++ For Ace3Module:
+// VEHICLES
+// Capitalized "(covered)" for the HEMTT, KamAZ, and Typhoon Transport variants in stringables.
+// Added missing "-" to "T100 Black Eagle" (and "T-100" to Czech translation) that ace3 forgot to add in their stringables.
+
++ For ANZACSAS Napalm and WP Smoke marker rockets:
+// VEHICLES
+// Renamed "FA-181 Black Wasp II - MK77" to "F/A-181 Black Wasp II (MK77)"
+
+Github Repo for the full changelog and un-binarized files can be found here:
+- https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
