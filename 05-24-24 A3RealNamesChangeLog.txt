@@ -262,7 +262,6 @@ REALISTIC (Vehicle) Name Changes for the Following DLCs:
 - - -
 
 ADDITIONAL EDITS (Missing/Edited from Ace3 Version)
-
 + Vanilla Assets by Bohemia Interactive 
 // SECONDARY ATTACHMENTS
 // Renamed to be uniform with Ace's edits.
