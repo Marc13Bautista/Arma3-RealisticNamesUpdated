@@ -238,7 +238,7 @@ REALISTIC (Vehicle) Name Changes for the Following DLCs:
 // Available are the fuel probe, exhaust suppressors, floatation bags. A military variant. An H225M Super Cougar, meant for general transport of 20 troops but has no weapon pylons. Only the nose-mounted radar and extra (fuel) tanks. Likely meant for SAR operations in non-combat zones.
 - "MH-245 Cougar (Unarmed)" -> "H225M Super Cougar SAR" [BLUFOR- NATO]
 // Only the exhaust suppressors are available. Still a military variant. An H225M Super Cougar, meant for general transport (or evacuation) of 20 troops/civilians but has no weapon pylons. Has no nose-mounted radar or extra (fuel) tanks. Probably meant for Humanitarian Assistance and Disaster Relief (HADR) operations.
-- "RAI-350M Cougar (Unarmed)" -> "H225M Super Cougar HADR" [BLUFOR- UNA / Independent- AAF, LDF]
+- "RAI-350M Cougar (Unarmed)" -> "H225M Super Cougar HADR" [Independent- AAF, LDF]
 // Only the exhaust suppressors are available. A very unique military variant. An H225M Super Cougar but with a nose-mounted 20mm cannon akin to the IAR 330L Puma SOCAT (which was configured for anti-tank and battlefield support operations). Has only 12 passenger seats (instead of 20) due to the cannon ammo, but 4 wing-mounted weapon pylons. Has no nose-mounted radar or extra (fuel) tanks. This variant is likely made to be a SOCAT configuration for the H225M Super Cougar, as the IAR 330L Puma SOCAT was.
 - "RAI-360M Cougar" -> "H225M Super Cougar SOCAT" [Independent- AAF, LDF]
 // Upgraded attack variants of the AW159 Wildcat.
