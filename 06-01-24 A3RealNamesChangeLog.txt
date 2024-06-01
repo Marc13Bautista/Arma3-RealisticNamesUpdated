@@ -1,11 +1,9 @@
 VEHICLES RENAME UPDATE for WS, RF, and Vanilla TLDR CHANGELIST (06/01/24):
-
 - Added more Western Sahara CDLC Real Names for Vehicles and Drones.
 - Added more Reaction Forces CDLC Real Names for Vehicles, Drones, and Statics.
 - Added (and modified some) Real Names for Vanilla, Apex, Contact, Jets, Laws of War DLC Vehicles, Statics, Drones (some that were missing or unedited from Ace3's module).
 
 VEHICLES RENAME UPDATE for WS, RF, and Vanilla FULL CHANGELIST (06/01/24):
-
 + (06/01/24 Update) Western Sahara CDLC by Rotators Collective
 // VEHICLES
 // Renamed "Zamak (Zu-23-2)" -> "KamAZ (ZU-23-2)". All research points to it being named "ZU-23-2".
