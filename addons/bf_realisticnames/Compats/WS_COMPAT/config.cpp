@@ -555,35 +555,37 @@ class cfgVehicles
 	{
 		displayname="BM-2T Stalker (Bumerang-BM)";
 	}
-// "Zamak (Zu-23-2)" -> "KamAZ (Zu-23-2)" [BLUFOR- Tura / OPFOR- SFIA, Tura / Independent- AAF, Tura]
+// (06/01/24 Update) Western Sahara CDLC by Rotators Collective
+// Renamed "Zamak (Zu-23-2)" -> "KamAZ (ZU-23-2)". All research points to it being named "ZU-23-2".
+// "Zamak (Zu-23-2)" -> "KamAZ (ZU-23-2)" [BLUFOR- Tura / OPFOR- SFIA, Tura / Independent- AAF, Tura]
 	class Truck_02_base_F;
 	class Truck_02_aa_base_lxWS: Truck_02_base_F
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class I_A_Truck_02_aa_lxWS: Truck_02_aa_base_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class I_SFIA_Truck_02_aa_lxWS: Truck_02_aa_base_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class O_SFIA_Truck_02_aa_lxWS: I_SFIA_Truck_02_aa_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class B_Tura_Truck_02_aa_lxWS: O_SFIA_Truck_02_aa_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class O_Tura_Truck_02_aa_lxWS: O_SFIA_Truck_02_aa_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 	class I_Tura_Truck_02_aa_lxWS: O_SFIA_Truck_02_aa_lxWS
 	{
-		displayname="KamAZ (Zu-23-2)";
+		displayname="KamAZ (ZU-23-2)";
 	}
 // "Zamak Cargo" -> "KamAZ Cargo" [OPFOR- CSAT, SFIA / Independent- AAF, LDF / Civilian- Civilians]
 	class Truck_02_cargo_base_lxWS: Truck_02_base_F
@@ -726,5 +728,205 @@ class cfgVehicles
 	class O_SFIA_Truck_02_covered_lxWS: I_SFIA_Truck_02_covered_lxWS
 	{
 		displayname="KamAZ Transport (Covered)";
+	}
+// (06/01/24 Update) Western Sahara CDLC by Rotators Collective
+// VEHICLES
+// Renamed "Offroad (Desert)" variants to "Q7/F-150D Offroad". Still the same fusion Offroad modelled after two real vehicles, the Audi Q7 (front) and the Ford F-150 (rear). However, this desert variant ("designated with the "D") comes with a unique desert intake Snorkel system.
+// "Offroad (Desert)" -> "Q7/F-150D Offroad"
+	class Offroad_01_base_lxWS;
+	class B_ION_Offroad_lxWS: Offroad_01_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+	class B_UN_Offroad_lxWS: Offroad_01_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+	class I_SFIA_Offroad_lxWS: Offroad_01_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+	class O_SFIA_Offroad_lxWS: I_SFIA_Offroad_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+	class C_Offroad_lxWS: Offroad_01_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+	class C_IDAP_Offroad_lxWS: Offroad_01_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad";
+	}
+// "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (HMG)". HMG variant of the Q7/F-150D Offroad.
+// "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (HMG)" [BLUFOR- ION Services / OPFOR- SFIA / Independent- SFIA]
+	class Offroad_01_armed_lxWS;
+	class B_ION_Offroad_armed_lxWS: Offroad_01_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (HMG)";
+	}
+	class I_SFIA_Offroad_armed_lxWS: Offroad_01_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (HMG)";
+	}
+	class O_SFIA_Offroad_armed_lxWS: I_SFIA_Offroad_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (HMG)";
+	}
+// "Offroad (Desert, AT)" -> "Q7/F-150D Offroad (SPG-9)". SPG-9 variant of the Q7/F-150D Offroad.
+// "Offroad (Desert, AT)" -> "Q7/F-150D Offroad (SPG-9)" [OPFOR- SFIA / Independent- SFIA]
+	class Offroad_01_AT_lxWS;
+	class I_SFIA_Offroad_AT_lxWS: Offroad_01_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (SPG-9)";
+	}
+	class O_SFIA_Offroad_AT_lxWS: I_SFIA_Offroad_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (SPG-9)";
+	}
+// Renamed "Offroad (UP)" variants to "Q7/F-150D Offroad (UP)". These are upgraded/up-armored versions of the Q7/F-150D Offroad and can also install the unique desert intake Snorkel system.
+// "Offroad (UP)" -> "Q7/F-150D Offroad (UP)" [BLUFOR- FIA, TURA, UNA / OPFOR- FIA, SFIA / Independent- FIA, SFIA / Independent- FIA, Tura]
+	class Offroad_01_armor_base_lxWS;
+	class I_G_Offroad_01_armor_base_lxWS: Offroad_01_armor_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class B_G_Offroad_01_armor_base_lxWS: I_G_Offroad_01_armor_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class I_Tura_Offroad_armor_lxWS: Offroad_01_armor_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class B_Tura_Offroad_armor_lxWS: I_Tura_Offroad_armor_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class B_UN_Offroad_Armor_lxWS: Offroad_01_armor_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class O_Tura_Offroad_armor_lxWS: I_Tura_Offroad_armor_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+	class O_G_Offroad_01_armor_base_lxWS: I_G_Offroad_01_armor_base_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP)";
+	}
+// "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, HMG)". HMG variant of the Q7/F-150D Offroad (UP). 
+// "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, HMG)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
+	class Offroad_01_armor_armed_lxWS;
+	class I_G_Offroad_01_armor_armed_lxWS: Offroad_01_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+	class B_G_Offroad_01_armor_armed_lxWS: I_G_Offroad_01_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+	class I_Tura_Offroad_armor_armed_lxWS: Offroad_01_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+	class B_Tura_Offroad_armor_armed_lxWS: I_Tura_Offroad_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+	class O_G_Offroad_01_armor_armed_lxWS: I_G_Offroad_01_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+		class O_Tura_Offroad_armor_armed_lxWS: I_Tura_Offroad_armor_armed_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, HMG)";
+	}
+// "Offroad (UP, AT)" -> "Q7/F-150D Offroad (UP, SPG-9)". SPG-9 variant of the Q7/F-150D Offroad (UP). 
+// "Offroad (UP, AT)" -> "Q7/F-150D Offroad (UP, SPG-9)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
+	class Offroad_01_armor_AT_lxWS;
+	class I_G_Offroad_01_armor_AT_lxWS: Offroad_01_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+	class B_G_Offroad_01_armor_AT_lxWS: I_G_Offroad_01_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+	class I_Tura_Offroad_armor_AT_lxWS: Offroad_01_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+	class B_Tura_Offroad_armor_AT_lxWS: I_Tura_Offroad_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+	class O_G_Offroad_01_armor_AT_lxWS: I_G_Offroad_01_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+	class O_Tura_Offroad_armor_AT_lxWS: I_Tura_Offroad_armor_AT_lxWS
+	{
+		displayname="Q7/F-150D Offroad (UP, SPG-9)";
+	}
+// Renamed "Quad Bike" to "Grizzly 450 ATV". Western Sahara added variant of the Grizzly 450 ATV.
+// "Quad Bike" -> "Grizzly 450 ATV" [BLUFOR- ION Services, NATO]
+	class B_Quadbike_01_F;
+	class B_ION_Quadbike_01_lxWS: B_Quadbike_01_F
+	{
+		displayname="Grizzly 450 ATV";
+	}
+	class B_D_Quadbike_01_lxWS: B_Quadbike_01_F
+	{
+		displayname="Grizzly 450 ATV";
+	}
+// DRONES
+// Renamed "IED UAV" to "AP-5X Bustard (IED)". Fictional concept hexacopter drone made by Bohemia Interactive. Renamed to match with the other AP-5 variants. Comes with "X" to designate it's experimental/modified, as the in-game manual says it was self-made from looted AP-5 Bustard gun drones and turned into grenade carriers. Western Sahara added variant.
+// "IED UAV" -> "AP-5X Bustard (IED)" [BLUFOR- FIA, Tura / OPFOR- FIA, Tura / Independent- FIA, Tura ]
+	class UAV_02_IED_Base_lxWS;
+	class B_G_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+	class B_Tura_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+	class O_G_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+	class O_Tura_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+	class I_G_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+	class I_Tura_UAV_02_IED_lxWS: UAV_02_IED_Base_lxWS
+	{
+		displayname="AP-5X Bustard (IED)";
+	}
+// Renamed "Drone" to "AR-2U Darter". Western Sahara added variant of the AR-2U Darter.
+// "Drone" -> "AR-2U Darter" [Civilian- Civlians]
+	class UAV_01_base_F;
+	class CIV_UAV_01_lxWS: UAV_01_base_F
+	{
+		displayname="AR-2U Darter";
+	}
+// Renamed "UGV Stomper" to "Crusher UGCV". Western Sahara added variant of the Crusher UGCV.
+// "UGV Stomper" -> "Crusher UGCV" [BLUFOR- NATO (Desert)]
+	class B_UGV_01_F;
+	class B_D_UGV_01_lxWS: B_UGV_01_F
+	{
+		displayname="Crusher UGCV";
+	}
+// Renamed "UGV Stomper RCWS" to "Crusher UGCV (RCWS)". Western Sahara added variant of the Crusher UGCV (RCWS).
+// "UGV Stomper RCWS" -> "Crusher UGCV (RCWS)" [BLUFOR- NATO (Desert)]
+	class B_UGV_01_rcws_F;
+	class B_D_UGV_01_rcws_lxWS: B_UGV_01_rcws_F
+	{
+		displayname="Crusher UGCV (RCWS)";
 	}
 };

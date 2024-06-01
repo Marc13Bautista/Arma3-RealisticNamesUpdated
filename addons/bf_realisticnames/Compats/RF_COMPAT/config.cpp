@@ -260,6 +260,49 @@ class cfgWeapons
 	}
 };
 
+class CfgMagazines 
+{
+// (06/01/24 Update) Reaction Forces CDLC by Rotators Collective
+// MAGAZINES
+// Renamed "RC40" "magazine" variants to "Drone40" (Scout, HE, Smoke). The RC40 drones are modelled after DefendTex's Drone40.
+// "RC-40 Scout" -> "Drone40 Scout"
+// "RC-40 HE" -> "Drone40 HE"
+// "RC-40 Smoke (Blue)" -> "Drone40 Smoke (Blue)"
+// "RC-40 Smoke (Green)" -> "Drone40 Smoke (Green)"
+// "RC-40 Smoke (Orange)" -> "Drone40 Smoke (Orange)"
+// "RC-40 Smoke (Red)" -> "Drone40 Smoke (Red)"
+// "RC-40 Smoke (White)" -> "Drone40 Smoke (White)"
+    class CA_Magazine;
+    class 1Rnd_RC40_shell_RF: CA_Magazine 
+	{
+        displayName = "Drone40 Scout";
+    };
+    class 1Rnd_RC40_HE_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 HE";
+    };
+    class 1Rnd_RC40_SmokeBlue_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 Smoke (Blue)";
+    };
+    class 1Rnd_RC40_SmokeGreen_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 Smoke (Green)";
+    };
+    class 1Rnd_RC40_SmokeOrange_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 Smoke (Orange)";
+    };
+    class 1Rnd_RC40_SmokeRed_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 Smoke (Red)";
+    };
+    class 1Rnd_RC40_SmokeWhite_shell_RF: 1Rnd_RC40_shell_RF 
+	{
+        displayName = "Drone40 Smoke (White)";
+    };
+};
+
 class cfgVehicles
 {
 // VEHICLES
@@ -307,7 +350,7 @@ class cfgVehicles
 		displayName="H225M Super Cougar SAR";
 	}
 // Only the exhaust suppressors are available. Still a military variant. An H225M Super Cougar, meant for general transport (or evacuation) of 20 troops/civilians but has no weapon pylons. Has no nose-mounted radar or extra (fuel) tanks. Probably meant for Humanitarian Assistance and Disaster Relief (HADR) operations.
-// "RAI-350M Cougar (Unarmed)" -> "H225M Super Cougar HADR" [BLUFOR- UNA / Independent- AAF, LDF]
+// "RAI-350M Cougar (Unarmed)" -> "H225M Super Cougar HADR" [Independent- AAF, LDF]
 	class Heli_EC_01A_military_base_RF;
 	class I_Heli_EC_01A_military_RF: Heli_EC_01A_military_base_RF
 	{
@@ -318,7 +361,7 @@ class cfgVehicles
 		displayName="H225M Super Cougar HADR";
 	}
 // Only the exhaust suppressors are available. A very unique military variant. An H225M Super Cougar but with a nose-mounted 20mm cannon akin to the IAR 330L Puma SOCAT (which was configured for anti-tank and battlefield support operations). Has only 12 passenger seats (instead of 20) due to the cannon ammo, but 4 wing-mounted weapon pylons. Has no nose-mounted radar or extra (fuel) tanks. This variant is likely made to be a SOCAT configuration for the H225M Super Cougar, as the IAR 330L Puma SOCAT was.
-// "RAI-360M Cougar" -> "H225M Super Cougar SOCAT" [OPFOR- SFIA / Independent- AAF, LDF]
+// "RAI-360M Cougar" -> "H225M Super Cougar SOCAT" [Independent- AAF, LDF]
 	class Heli_EC_02_base_RF;
 	class I_Heli_EC_02_RF: Heli_EC_02_base_RF
 	{
@@ -374,5 +417,352 @@ class B_Heli_EC_02_RF: Heli_EC_02_base_RF
 	class C_Heli_EC_04_rescue_RF: Heli_EC_04_rescue_base_RF
 	{
 		displayname="H225 Super Puma SAR";
+	}
+// (06/01/24 Update) Reaction Forces CDLC by Rotators Collective
+// Renamed "Pickup" variants to "Ram 1500". The Pickup is modelled after the Ram 1500.
+// "Pickup (MRL)" -> "Ram 1500 (MRL)" [BLUFOR- FIA / OPFOR- FIA / Independent - FIA]
+	class Pickup_01_mrl_base_rf;
+	class B_G_Pickup_mrl_rf: Pickup_01_mrl_base_rf
+	{
+		displayname="Ram 1500 (MRL)";
+	}
+	class O_G_Pickup_mrl_rf: B_G_Pickup_mrl_rf
+	{
+		displayname="Ram 1500 (MRL)";
+	}
+	class I_C_Pickup_mrl_rf: Pickup_01_mrl_base_rf
+	{
+		displayname="Ram 1500 (MRL)";
+	}
+// "Pickup (Fuel)" -> "Ram 1500 (Fuel)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA / Civilian- IDAP]
+	class Pickup_fuel_base_rf;
+	class B_G_Pickup_fuel_rf: Pickup_fuel_base_rf
+	{
+		displayname="Ram 1500 (Fuel)";
+	}
+	class O_G_Pickup_fuel_rf: B_G_Pickup_fuel_rf
+	{
+		displayname="Ram 1500 (Fuel)";
+	}
+	class I_G_Pickup_fuel_rf: B_G_Pickup_fuel_rf
+	{
+		displayname="Ram 1500 (Fuel)";
+	}
+	class C_IDAP_Pickup_fuel_rf: Pickup_fuel_base_rf
+	{
+		displayname="Ram 1500 (Fuel)";
+	}
+// "Pickup (HMG)" -> "Ram 1500 (HMG)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, Syndikat]
+	class Pickup_01_hmg_base_rf;
+	class B_G_Pickup_hmg_rf: Pickup_01_hmg_base_rf
+	{
+		displayname="Ram 1500 (HMG)";
+	}
+	class O_G_Pickup_hmg_rf: B_G_Pickup_hmg_rf
+	{
+		displayname="Ram 1500 (HMG)";
+	}
+	class I_Pickup_hmg_rf: Pickup_01_hmg_base_rf
+	{
+		displayname="Ram 1500 (HMG)";
+	}
+	class I_G_Pickup_hmg_rf: B_G_Pickup_hmg_rf
+	{
+		displayname="Ram 1500 (HMG)";
+	}
+	class I_C_Pickup_hmg_rf: Pickup_01_hmg_base_rf
+	{
+		displayname="Ram 1500 (HMG)";
+	}
+// "Pickup (Repair)" -> "Ram 1500 (Repair)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+	class Pickup_repair_ig_base_rf;
+	class B_G_Pickup_repair_rf: Pickup_repair_ig_base_rf
+	{
+		displayname="Ram 1500 (Repair)";
+	}
+	class O_G_Pickup_repair_rf: B_G_Pickup_repair_rf
+	{
+		displayname="Ram 1500 (Repair)";
+	}
+	class I_G_Pickup_repair_rf: B_G_Pickup_repair_rf
+	{
+		displayname="Ram 1500 (Repair)";
+	}
+// "Pickup (Covered)" -> "Ram 1500 (Covered)" [BLUFOR- Gendarmerie / Independent- LDF / Civilian- Civilians, IDAP]
+	class Pickup_covered_base_rf;
+	class B_GEN_Pickup_covered_rf: Pickup_covered_base_rf
+	{
+		displayname="Ram 1500 (Covered)";
+	}
+	class I_E_Pickup_Covered_rf: Pickup_covered_base_rf
+	{
+		displayname="Ram 1500 (Covered)";
+	}
+	class C_Pickup_covered_rf: Pickup_covered_base_rf
+	{
+		displayname="Ram 1500 (Covered)";
+	}
+	class C_IDAP_Pickup_covered_rf: Pickup_covered_base_rf
+	{
+		displayname="Ram 1500 (Covered)";
+	}
+// An anti-air variant of the Ram 1500, with a fictional boxed quad mounted system that fires FIM-92F stinger missiles.
+// "Pickup (AA)" -> "Ram 1500 (FIM-92F)" [BLUFOR- NATO, NATO (Pacific) / Independent- AAF]
+	class Pickup_01_aat_base_rf;
+	class B_Pickup_aat_rf: Pickup_01_aat_base_rf
+	{
+		displayname="Ram 1500 (FIM-92F)";
+	}
+	class B_T_Pickup_aat_rf: B_Pickup_aat_rf
+	{
+		displayname="Ram 1500 (FIM-92F)";
+	}
+	class I_Pickup_aat_rf: Pickup_01_aat_base_rf
+	{
+		displayname="Ram 1500 (FIM-92F)";
+	}
+// "Pickup (Comms)" -> "Ram 1500 (Comms)" [BLUFOR- NATO, NATO (Pacific) / OPFOR- CSAT, CSAT (Pacific) / Independent- AAF, LDF]
+	class Pickup_comms_base_rf;
+	class B_Pickup_Comms_rf: Pickup_comms_base_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+	class B_T_Pickup_Comms_rf: B_Pickup_Comms_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+	class O_Pickup_Comms_rf: Pickup_comms_base_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+	class O_T_Pickup_Comms_rf: O_Pickup_Comms_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+	class I_Pickup_Comms_rf: Pickup_comms_base_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+	class I_E_Pickup_Comms_rf: Pickup_comms_base_rf
+	{
+		displayname="Ram 1500 (Comms)";
+	}
+// "Pickup (MMG)" -> "Ram 1500 (MMG)" [BLUFOR- NATO, NATO (Pacific)]
+	class Pickup_01_mmg_base_rf;
+	class B_Pickup_mmg_rf: Pickup_01_mmg_base_rf
+	{
+		displayname="Ram 1500 (MMG)";
+	}
+	class B_T_Pickup_mmg_rf: B_Pickup_mmg_rf
+	{
+		displayname="Ram 1500 (MMG)";
+	}
+// "Pickup" -> ""Ram 1500" [BLUFOR- FIA, NATO, NATO (Pacific) / OPFOR- CSAT, CSAT (Pacific), FIA / Independent- AAF, FIA, LDF, Syndikat / Civilian- Civilians, IDAP]
+	class Pickup_01_base_rf;
+	class B_G_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class B_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class B_T_Pickup_rf: B_Pickup_rf
+	{
+		displayname="Ram 1500";
+	}
+	class O_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class O_T_Pickup_rf: O_Pickup_rf
+	{
+		displayname="Ram 1500";
+	}
+	class O_G_Pickup_rf: B_G_Pickup_rf
+	{
+		displayname="Ram 1500";
+	}
+	class I_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class I_G_Pickup_rf: B_G_Pickup_rf
+	{
+		displayname="Ram 1500";
+	}
+	class I_E_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class I_C_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class C_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+	class C_IDAP_Pickup_rf: Pickup_01_base_rf
+	{
+		displayname="Ram 1500";
+	}
+// "Pickup (Water)" -> "Ram 1500 (Water)" [Civilian- IDAP]
+	class C_IDAP_Pickup_water_rf: C_IDAP_Pickup_rf
+	{
+		displayname="Ram 1500 (Water)";
+	}
+// "Pickup (Services)" -> "Ram 1500 (Services)" [Civilian- Civilians]
+	class Pickup_repair_base_rf;
+	class C_Pickup_repair_rf: Pickup_repair_base_rf
+	{
+		displayname="Ram 1500 (Services)";
+	}
+// DRONES
+// Renamed "RC40" variants to "Drone40" (Scout, HE, Smoke). The RC40 drones are modelled after DefendTex's Drone40.
+// "RC-40 Scout" -> "Drone40 Scout" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_Sensor_RF;
+	class B_UAV_RC40_SENSOR_RF: UAV_RC40_Base_Sensor_RF
+	{
+		displayname="Drone40 Scout";
+	}
+	class O_UAV_RC40_SENSOR_RF: UAV_RC40_Base_Sensor_RF
+	{
+		displayname="Drone40 Scout";
+	}
+	class I_UAV_RC40_SENSOR_RF: UAV_RC40_Base_Sensor_RF
+	{
+		displayname="Drone40 Scout";
+	}
+// "RC-40 HE" -> "Drone40 HE" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_HE_RF;
+	class B_UAV_RC40_HE_RF: UAV_RC40_Base_HE_RF
+	{
+		displayname="Drone40 HE";
+	}
+	class O_UAV_RC40_HE_RF: UAV_RC40_Base_HE_RF
+	{
+		displayname="Drone40 HE";
+	}
+	class I_UAV_RC40_HE_RF: UAV_RC40_Base_HE_RF
+	{
+		displayname="Drone40 HE";
+	}
+// "RC-40 Smoke (Blue)" -> "Drone40 Smoke (Blue)" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_SmokeBlue_RF;
+	class B_UAV_RC40_SmokeBlue_RF: UAV_RC40_Base_SmokeBlue_RF
+	{
+		displayname="Drone40 Smoke (Blue)";
+	}
+	class O_UAV_RC40_SmokeBlue_RF: UAV_RC40_Base_SmokeBlue_RF
+	{
+		displayname="Drone40 Smoke (Blue)";
+	}
+	class I_UAV_RC40_SmokeBlue_RF: UAV_RC40_Base_SmokeBlue_RF
+	{
+		displayname="Drone40 Smoke (Blue)";
+	}
+// "RC-40 Smoke (Green)" -> "Drone40 Smoke (Green)" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_SmokeGreen_RF;
+	class B_UAV_RC40_SmokeGreen_RF: UAV_RC40_Base_SmokeGreen_RF
+	{
+		displayname="Drone40 Smoke (Green)";
+	}
+	class O_UAV_RC40_SmokeGreen_RF: UAV_RC40_Base_SmokeGreen_RF
+	{
+		displayname="Drone40 Smoke (Green)";
+	}
+	class I_UAV_RC40_SmokeGreen_RF: UAV_RC40_Base_SmokeGreen_RF
+	{
+		displayname="Drone40 Smoke (Green)";
+	}
+// "RC-40 Smoke (Orange)" -> "Drone40 Smoke (Orange)" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_SmokeOrange_RF;
+	class B_UAV_RC40_SmokeOrange_RF: UAV_RC40_Base_SmokeOrange_RF
+	{
+		displayname="Drone40 Smoke (Orange)";
+	}
+	class O_UAV_RC40_SmokeOrange_RF: UAV_RC40_Base_SmokeOrange_RF
+	{
+		displayname="Drone40 Smoke (Orange)";
+	}
+	class I_UAV_RC40_SmokeOrange_RF: UAV_RC40_Base_SmokeOrange_RF
+	{
+		displayname="Drone40 Smoke (Orange)";
+	}
+// "RC-40 Smoke (Red)" -> "Drone40 Smoke (Red)" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_SmokeRed_RF;
+	class B_UAV_RC40_SmokeRed_RF: UAV_RC40_Base_SmokeRed_RF
+	{
+		displayname="Drone40 Smoke (Red)";
+	}
+	class O_UAV_RC40_SmokeRed_RF: UAV_RC40_Base_SmokeRed_RF
+	{
+		displayname="Drone40 Smoke (Red)";
+	}
+	class I_UAV_RC40_SmokeRed_RF: UAV_RC40_Base_SmokeRed_RF
+	{
+		displayname="Drone40 Smoke (Red)";
+	}
+// "RC-40 Smoke (White)" -> "Drone40 Smoke (White)" [BLUFOR- NATO / OPFOR- CSAT / Independent- AAF]
+	class UAV_RC40_Base_SmokeWhite_RF;
+	class B_UAV_RC40_SmokeWhite_RF: UAV_RC40_Base_SmokeWhite_RF
+	{
+		displayname="Drone40 Smoke (White)";
+	}
+	class O_UAV_RC40_SmokeWhite_RF: UAV_RC40_Base_SmokeWhite_RF
+	{
+		displayname="Drone40 Smoke (White)";
+	}
+	class I_UAV_RC40_SmokeWhite_RF: UAV_RC40_Base_SmokeWhite_RF
+	{
+		displayname="Drone40 Smoke (White)";
+	}
+// STATICS
+// Renamed "Commando Mortar" to "RSG60". The Commando Mortar are modelled after Rheinmetall's RSG60 light mortar.
+// "Commando Mortar" -> "RSG60" [BLUFOR- FIA, NATO / OPFOR- CSAT, FIA / Independent- AAF, FIA, LDF]
+	class CommandoMortar_base_RF;
+	class B_CommandoMortar_RF: CommandoMortar_base_RF
+	{
+		displayname="RSG60";
+	}
+	class B_G_CommandoMortar_RF: B_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+	class O_CommandoMortar_RF: B_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+	class O_G_CommandoMortar_RF: O_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+	class I_CommandoMortar_RF: B_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+	class I_G_CommandoMortar_RF: I_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+	class I_E_CommandoMortar_RF: I_CommandoMortar_RF
+	{
+		displayname="RSG60";
+	}
+// Renamed "Twin Mortar 120 mm" to "Patria AMOS Container". The Twin Mortar is modelled after the AMOS (Advanced Mortar System), a Finno-Swedish 120 mm semi-automatic twin barrelled, breech loaded mortar turret. However, the turret design and container itself is based on the Patria NEMO Container. Confirmed by Lexx to be some sort of fusion to both.
+// "Twin Mortar 120 mm" -> "Patria AMOS Container" [BLUFOR- NATO, NATO (Pacific) / Independent- AAF]
+	class TwinMortar_base_RF;
+	class B_TwinMortar_RF: TwinMortar_base_RF
+	{
+		displayname="Patria AMOS Container";
+	}
+	class B_T_TwinMortar_RF: B_TwinMortar_RF
+	{
+		displayname="Patria AMOS Container";
+	}
+	class I_TwinMortar_RF: TwinMortar_base_RF
+	{
+		displayname="Patria AMOS Container";
 	}
 };

@@ -14,8 +14,8 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"cba_main"};
-        author = "blackfisch";
-        authors[] = {"blackfisch","KoffeinFlummi","TaoSensai","commy2"};
+        author = "Marc";
+        authors[] = {"Marc","Axle","Mike","Baer","blackfisch","KoffeinFlummi","TaoSensai","commy2"};
         // url = ECSTRING(main,URL);
         VERSION_CONFIG;
 
@@ -32,7 +32,7 @@ class CfgMods {
         hidePicture = "true";
         hideName = "true";
         actionName = "Github";
-        action = "https://github.com/blackfisch/Arma3-RealisticNames";
+        action = "https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated";
         description = "Special Thanks to ACE3, the project this mod is based on.";
     };
 };

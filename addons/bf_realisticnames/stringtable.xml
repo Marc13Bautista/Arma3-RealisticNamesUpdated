@@ -138,38 +138,38 @@
             <Turkish>Mini-Spike Launcher (AA)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_UAV_02_Name">
-            <English>YABHON-R3</English>
-            <German>YABHON-R3</German>
-            <Spanish>YABHON-R3</Spanish>
-            <Polish>YABHON-R3</Polish>
-            <Czech>YABHON-R3</Czech>
-            <French>YABHON-R3</French>
-            <Russian>YABHON-R3</Russian>
-            <Portuguese>YABHON-R3</Portuguese>
-            <Hungarian>YABHON-R3</Hungarian>
-            <Italian>YABHON-R3</Italian>
-            <Japanese>YABHON-R3</Japanese>
-            <Korean>YABHON-R3</Korean>
-            <Chinese>"亞伯罕-R3型"空中無人載具</Chinese>
-            <Chinesesimp>"联合"-R3</Chinesesimp>
-            <Turkish>YABHON-R3</Turkish>
+            <English>MQ-9X Dragonfly</English>
+            <German>MQ-9X Dragonfly</German>
+            <Spanish>MQ-9X Dragonfly</Spanish>
+            <Polish>MQ-9X Dragonfly</Polish>
+            <Czech>MQ-9X Dragonfly</Czech>
+            <French>MQ-9X Dragonfly</French>
+            <Russian>MQ-9X Dragonfly</Russian>
+            <Portuguese>MQ-9X Dragonfly</Portuguese>
+            <Hungarian>MQ-9X Dragonfly</Hungarian>
+            <Italian>MQ-9X Dragonfly</Italian>
+            <Japanese>MQ-9X Dragonfly</Japanese>
+            <Korean>MQ-9X Dragonfly</Korean>
+            <Chinese>MQ-9X Dragonfly</Chinese>
+            <Chinesesimp>MQ-9X Dragonfly</Chinesesimp>
+            <Turkish>MQ-9X Dragonfly</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_UAV_02_CAS_Name">
-            <English>YABHON-R3 (CAS)</English>
-            <German>YABHON-R3 (Luftnahunterstützung)</German>
-            <Spanish>YABHON-R3 (CAS)</Spanish>
-            <Polish>YABHON-R3 (CAS)</Polish>
-            <Czech>YABHON-R3 (CAS)</Czech>
-            <Russian>YABHON-R3 (штурмовик)</Russian>
-            <French>YABHON-R3 (CAS)</French>
-            <Hungarian>YABHON-R3 (Légitámogató)</Hungarian>
-            <Italian>YABHON-R3 (CAS)</Italian>
-            <Portuguese>YABHON-R3 (CAS)</Portuguese>
-            <Japanese>YABHON-R3 (CAS)</Japanese>
-            <Korean>YABHON-R3 (근접지원)</Korean>
-            <Chinese>"亞伯罕-R3型"空中無人載具 (近空支援)</Chinese>
-            <Chinesesimp>"联合"-R3（近空支援）</Chinesesimp>
-            <Turkish>YABHON-R3 (CAS)</Turkish>
+            <English>MQ-9X Dragonfly (CAS)</English>
+            <German>MQ-9X Dragonfly (Luftnahunterstützung)</German>
+            <Spanish>MQ-9X Dragonfly (CAS)</Spanish>
+            <Polish>MQ-9X Dragonfly (CAS)</Polish>
+            <Czech>MQ-9X Dragonfly (CAS)</Czech>
+            <Russian>MQ-9X Dragonfly (штурмовик)</Russian>
+            <French>MQ-9X Dragonfly (CAS)</French>
+            <Hungarian>MQ-9X Dragonfly (Légitámogató)</Hungarian>
+            <Italian>MQ-9X Dragonfly (CAS)</Italian>
+            <Portuguese>MQ-9X Dragonfly (CAS)</Portuguese>
+            <Japanese>MQ-9X Dragonfly (CAS)</Japanese>
+            <Korean>MQ-9X Dragonfly (근접지원)</Korean>
+            <Chinese>MQ-9X Dragonfly (近空支援)</Chinese>
+            <Chinesesimp>MQ-9X Dragonfly（近空支援）</Chinesesimp>
+            <Turkish>MQ-9X Dragonfly (CAS)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_MRAP_01_Name">
             <English>M-ATV</English>
@@ -1038,21 +1038,21 @@
             <Turkish>CH-47I Chinook</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Heli_Transport_03_unarmed_Name">
-            <English>CH-47I Chinook (unarmed)</English>
-            <German>CH-47I Chinook (unbewaffnet)</German>
+            <English>CH-47I Chinook (Unarmed)</English>
+            <German>CH-47I Chinook (Unbewaffnet)</German>
             <Spanish>CH-47I Chinnok (Desarmado)</Spanish>
-            <Polish>CH-47I Chinook (nieuzbrojony)</Polish>
+            <Polish>CH-47I Chinook (Nieuzbrojony)</Polish>
             <Russian>CH-47I Chinook (невооруженный)</Russian>
-            <Czech>CH-47I Chinook (neozbrojený)</Czech>
-            <French>CH-47I Chinook (non-armé)</French>
-            <Hungarian>CH-47I Chinook (fegyvertelen)</Hungarian>
-            <Italian>CH-47I Chinook (disarmato)</Italian>
-            <Portuguese>CH-47I Chinook (desarmado)</Portuguese>
+            <Czech>CH-47I Chinook (Neozbrojený)</Czech>
+            <French>CH-47I Chinook (Non-armé)</French>
+            <Hungarian>CH-47I Chinook (Fegyvertelen)</Hungarian>
+            <Italian>CH-47I Chinook (Disarmato)</Italian>
+            <Portuguese>CH-47I Chinook (Desarmado)</Portuguese>
             <Japanese>CH-47I チヌーク (非武装)</Japanese>
             <Korean>CH-47I 치누크 (비무장)</Korean>
             <Chinese>CH-47I"契努克"運輸直升機 (無武裝)</Chinese>
             <Chinesesimp>CH-47I "支努干"（无武装）</Chinesesimp>
-            <Turkish>CH-47I Chinook (silahsız)</Turkish>
+            <Turkish>CH-47I Chinook (Silahsız)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Plane_CAS_01_Name">
             <English>A-10D Thunderbolt II</English>
@@ -1089,21 +1089,21 @@
             <Turkish>AW159 Wildcat</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Heli_light_03_unarmed_Name">
-            <English>AW159 Wildcat (unarmed)</English>
-            <German>AW159 Wildcat (unbewaffnet)</German>
-            <Spanish>AW159 Wildcat (desarmado)</Spanish>
-            <Polish>AW159 Wildcat (nieuzbrojony)</Polish>
-            <Czech>AW159 Wildcat (neozbrojený)</Czech>
-            <French>AW159 Wildcat (non-armé)</French>
+            <English>AW159 Wildcat (Unarmed)</English>
+            <German>AW159 Wildcat (Unbewaffnet)</German>
+            <Spanish>AW159 Wildcat (Desarmado)</Spanish>
+            <Polish>AW159 Wildcat (Nieuzbrojony)</Polish>
+            <Czech>AW159 Wildcat (Neozbrojený)</Czech>
+            <French>AW159 Wildcat (Non-armé)</French>
             <Russian>AW159 Wildcat (невооруженный)</Russian>
-            <Portuguese>AW159 Wildcat (desarmado)</Portuguese>
-            <Hungarian>AW159 Wildcat (fegyvertelen)</Hungarian>
-            <Italian>AW159 Wildcat (disarmato)</Italian>
+            <Portuguese>AW159 Wildcat (Desarmado)</Portuguese>
+            <Hungarian>AW159 Wildcat (Fegyvertelen)</Hungarian>
+            <Italian>AW159 Wildcat (Disarmato)</Italian>
             <Japanese>AW159 ワイルドキャット (非武装)</Japanese>
             <Korean>AW159 와일드캣 (비무장)</Korean>
             <Chinese>AW159 "野貓"直升機 (無武裝)</Chinese>
             <Chinesesimp>AW159 "野猫"（无武装）</Chinesesimp>
-            <Turkish>AW159 Wildcat (silahsız)</Turkish>
+            <Turkish>AW159 Wildcat (Silahsız)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Heli_Transport_02_Name">
             <English>AW101 Merlin</English>
@@ -1223,16 +1223,16 @@
             <Turkish>Ka-60 Kasatka (Siyah &amp; Beyaz)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_Heli_Light_02_unarmed_Name">
-            <English>Ka-60 Kasatka (unarmed)</English>
-            <German>Ka-60 Kasatka (unbewaffnet)</German>
-            <Spanish>Ka-60 Kasatka (desarmado)</Spanish>
-            <Polish>Ka-60 Kasatka (nieuzbrojony)</Polish>
-            <Czech>Ka-60 Kasatka (neozbrojený)</Czech>
-            <French>Ka-60 Kasatka (non-armé)</French>
+            <English>Ka-60 Kasatka (Unarmed)</English>
+            <German>Ka-60 Kasatka (Unbewaffnet)</German>
+            <Spanish>Ka-60 Kasatka (Desarmado)</Spanish>
+            <Polish>Ka-60 Kasatka (Nieuzbrojony)</Polish>
+            <Czech>Ka-60 Kasatka (Neozbrojený)</Czech>
+            <French>Ka-60 Kasatka (Non-armé)</French>
             <Russian>Ka-60 Касатка (невооруженный)</Russian>
-            <Portuguese>Ka-60 Kasatka (desarmado)</Portuguese>
-            <Hungarian>Ka-60 Kasatka (fegyvertelen)</Hungarian>
-            <Italian>Ka-60 Kasatka (disarmato)</Italian>
+            <Portuguese>Ka-60 Kasatka (Desarmado)</Portuguese>
+            <Hungarian>Ka-60 Kasatka (Fegyvertelen)</Hungarian>
+            <Italian>Ka-60 Kasatka (Disarmato)</Italian>
             <Japanese>Ka-60 カサートカ (非武装)</Japanese>
             <Korean>Ka-60 카사트카 (비무장)</Korean>
             <Chinese>Ka-60 "逆戟鯨"直升機 (無武裝)</Chinese>
@@ -3040,21 +3040,21 @@
             <Turkish>Cessna TTx (Racing)</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_O_T_UAV_04_CAS">
-            <English>Burraq UCAV</English>
-            <Czech>Burraq UCAV</Czech>
-            <French>Burraq UCAV</French>
-            <Spanish>Burraq UCAV</Spanish>
-            <Russian>Burraq UCAV</Russian>
-            <Polish>Burraq UCAV</Polish>
-            <German>Burraq UCAV</German>
-            <Italian>Burraq UCAV</Italian>
-            <Hungarian>Burraq UCAV</Hungarian>
-            <Portuguese>Burraq UCAV</Portuguese>
-            <Japanese>ブラク UCAV</Japanese>
-            <Korean>부라크 UCAV</Korean>
-            <Chinese>"柏拉格"空中無人戰鬥載具</Chinese>
-            <Chinesesimp>"柏拉格" 战斗无人机</Chinesesimp>
-            <Turkish>Burraq UCAV</Turkish>
+            <English>CH-3A Rainbow</English>
+            <Czech>CH-3A Rainbow</Czech>
+            <French>CH-3A Rainbow</French>
+            <Spanish>CH-3A Rainbow</Spanish>
+            <Russian>CH-3A Rainbow</Russian>
+            <Polish>CH-3A Rainbow</Polish>
+            <German>CH-3A Rainbow</German>
+            <Italian>CH-3A Rainbow</Italian>
+            <Hungarian>CH-3A Rainbow</Hungarian>
+            <Portuguese>CH-3A Rainbow</Portuguese>
+            <Japanese>CH-3A Rainbow</Japanese>
+            <Korean>CH-3A Rainbow</Korean>
+            <Chinese>CH-3A Rainbow</Chinese>
+            <Chinesesimp>CH-3A Rainbow</Chinesesimp>
+            <Turkish>CH-3A Rainbow</Turkish>
         </Key>
         <Key ID="STR_BF_RealisticNames_arifle_CTAR_blk">
             <English>QBZ-95-1 (Black)</English>
@@ -3665,52 +3665,52 @@
             <Korean>폴라리스 DAGOR (경량)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_lsv_02_armed">
-            <English>LSV Mk. II (M134)</English>
-            <German>LSV Mk. II (M134)</German>
+            <English>LSV Mk II (M134)</English>
+            <German>LSV Mk II (M134)</German>
             <Chinese>輕型突擊車2式 (M134迷你機炮)</Chinese>
             <Chinesesimp>轻型突击车二型（M134）</Chinesesimp>
-            <Japanese>LSV Mk. II (M134)</Japanese>
-            <Italian>LSV Mk. II (M134)</Italian>
-            <Polish>LSV Mk. II (M134)</Polish>
-            <Russian>LSV Mk. II (M134)</Russian>
-            <Portuguese>LSV Mk. II (M134)</Portuguese>
-            <French>LSV Mk. II (M134)</French>
-            <Czech>LSV Mk. II (M134)</Czech>
-            <Turkish>LSV Mk. II (M134)</Turkish>
-            <Spanish>LSV Mk. II (M134)</Spanish>
-            <Korean>LSV Mk.II (M134)</Korean>
+            <Japanese>LSV Mk II (M134)</Japanese>
+            <Italian>LSV Mk II (M134)</Italian>
+            <Polish>LSV Mk II (M134)</Polish>
+            <Russian>LSV Mk II (M134)</Russian>
+            <Portuguese>LSV Mk II (M134)</Portuguese>
+            <French>LSV Mk II (M134)</French>
+            <Czech>LSV Mk II (M134)</Czech>
+            <Turkish>LSV Mk II (M134)</Turkish>
+            <Spanish>LSV Mk II (M134)</Spanish>
+            <Korean>LSV Mk II (M134)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_lsv_02_at">
-            <English>LSV Mk. II (Metis-M)</English>
-            <German>LSV Mk. II (Metis-M)</German>
+            <English>LSV Mk II (Metis-M)</English>
+            <German>LSV Mk II (Metis-M)</German>
             <Chinesesimp>轻型突击车二型（"麦士蒂索"-M）</Chinesesimp>
             <Chinese>輕型突擊車2式 ("麥士蒂索人"-M型反坦克導彈)</Chinese>
-            <Japanese>LSV Mk. II (メチス-M)</Japanese>
-            <Italian>LSV Mk. II (Metis-M)</Italian>
-            <Polish>LSV Mk. II (Metis-M)</Polish>
-            <Russian>LSV Mk. II (Метис-M)</Russian>
-            <Portuguese>LSV Mk. II (Metis-M)</Portuguese>
-            <French>LSV Mk. II (Metis-M)</French>
-            <Czech>LSV Mk. II (Metis-M)</Czech>
-            <Turkish>LSV Mk. II (Metis-M)</Turkish>
-            <Spanish>LSV Mk. II (Metis-M)</Spanish>
-            <Korean>LSV Mk.II (메티스-M)</Korean>
+            <Japanese>LSV Mk II (メチス-M)</Japanese>
+            <Italian>LSV Mk II (Metis-M)</Italian>
+            <Polish>LSV Mk II (Metis-M)</Polish>
+            <Russian>LSV Mk II (Метис-M)</Russian>
+            <Portuguese>LSV Mk II (Metis-M)</Portuguese>
+            <French>LSV Mk II (Metis-M)</French>
+            <Czech>LSV Mk II (Metis-M)</Czech>
+            <Turkish>LSV Mk II (Metis-M)</Turkish>
+            <Spanish>LSV Mk II (Metis-M)</Spanish>
+            <Korean>LSV Mk II (메티스-M)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_lsv_02_unarmed">
-            <English>LSV Mk. II</English>
-            <German>LSV Mk. II</German>
+            <English>LSV Mk II</English>
+            <German>LSV Mk II</German>
             <Chinese>輕型突擊車2式</Chinese>
             <Chinesesimp>轻型突击车二型</Chinesesimp>
-            <Japanese>LSV Mk. II</Japanese>
-            <Italian>LSV Mk. II</Italian>
-            <Polish>LSV Mk. II</Polish>
-            <Russian>LSV Mk. II</Russian>
-            <Portuguese>LSV Mk. II</Portuguese>
-            <French>LSV Mk. II</French>
-            <Czech>LSV Mk. II</Czech>
-            <Turkish>LSV Mk. II</Turkish>
-            <Spanish>LSV Mk. II</Spanish>
-            <Korean>LSV Mk.II</Korean>
+            <Japanese>LSV Mk II</Japanese>
+            <Italian>LSV Mk II</Italian>
+            <Polish>LSV Mk II</Polish>
+            <Russian>LSV Mk II</Russian>
+            <Portuguese>LSV Mk II</Portuguese>
+            <French>LSV Mk II</French>
+            <Czech>LSV Mk II</Czech>
+            <Turkish>LSV Mk II</Turkish>
+            <Spanish>LSV Mk II</Spanish>
+            <Korean>LSV Mk II</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_afv_wheeled_01">
             <English>Rooikat 120</English>
