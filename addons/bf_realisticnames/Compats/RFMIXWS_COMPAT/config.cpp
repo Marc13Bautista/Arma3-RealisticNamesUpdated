@@ -55,11 +55,12 @@ class cfgVehicles
 	{
 		displayName="Ram 1500 (Fuel)";
 	}
-// "Pickup (AA)" -> "Ram 1500 (AA)" [BLUFOR- ION Services]
+// An anti-air variant of the Ram 1500, with a fictional boxed quad mounted system that fires FIM-92F stinger missiles.
+// "Pickup (AA)" -> "Ram 1500 (FIM-92F)" [BLUFOR- ION Services]
 	class Pickup_01_aat_base_rf;
 	class B_ION_Pickup_aat_rf: Pickup_01_aat_base_rf
 	{
-		displayName="Ram 1500 (AA)";
+		displayName="Ram 1500 (FIM-92F)";
 	}
 // "Pickup (HMG)" -> "Ram 1500 (HMG)" [BLUFOR- Tura / OPFOR- Tura / Independent- Tura]
 	class Pickup_01_hmg_base_rf;
