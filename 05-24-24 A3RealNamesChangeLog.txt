@@ -1,4 +1,5 @@
 WS & RF COMPAT UPDATE TLDR CHANGELIST:
+
 - Added Real Names for the following mods: JCA M320, Ravage, O&T Expansion, and ANZACSAS Napalm and WP Smoke marker rockets.
 - Added Western Sahara CDLC Real Names for Weapons, Attachments, and Vehicles.
 - Added Reaction Forces CDLC Real Names for Weapons, Attachments, and Vehicles.
@@ -6,9 +7,11 @@ WS & RF COMPAT UPDATE TLDR CHANGELIST:
 - Converted ALL .cpp files to .bin for faster loading times (thanks Axle for the tip).
 
 KNOWN ISSUES:
+
 - Magazines will reference their usage for weapons of their fictional/Vanilla names when hovered over. I won't make any changes to them (and neither will ace3) as files are encrypted for CDLCs and it will take exponentially more work than just renaming.
 
 WS & RF COMPAT UPDATE FULL CHANGELIST: 
+
 ADDED COMPATIBLE REALISTIC Name Changes for the Following Mods: 
 + JCA - M320 LRR Enhanced Patch by Grave
 // PRIMARY WEAPONS
