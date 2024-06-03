@@ -45,18 +45,18 @@ class cfgWeapons
 	}
 // Contact DLC by Bohemia Interactive
 // PRIMARY WEAPONS
-// Renamed Baretta DT11 to CZ 581 (including the sawed off). Hard to distinguish both shotguns. Changed to CZ 581 since Contact Livonia takes place in the Czech Republic.
-// "Kozlice 12G" -> "CZ 581"
+// Renamed "CZ 581" to "CZ/DT11 Drake". *This shotgun is a fusion that is modelled after the Beretta DT-11 but with elements from the CZ Drake. Specifically the design of the top lever (being straight (Drake) than slanted (DT11)), the 11 gaps for the ventilated rib above the barell (Drake). However, the action's (curved) concave on the wood (above, right of the trigger) is directly from the DT11 (the Drake is sharp).
+// "CZ 581" -> "CZ/DT11 Drake"
 	class sgun_HunterShotgun_01_base_F;
 	class sgun_HunterShotgun_01_F: sgun_HunterShotgun_01_base_F
 	{
-		displayName="CZ 581";
+		displayName="CZ/DT11 Drake";
 	}
-// "Kozlice 12G (Sawed-Off)" -> "CZ 581 (Sawed-Off)"
+// "CZ 581 (Sawed-Off)" -> "CZ/DT11 Drake (Sawed-Off)"
     class sgun_HunterShotgun_01_sawedoff_base_F;
     class sgun_HunterShotgun_01_sawedoff_F: sgun_HunterShotgun_01_sawedoff_base_F
 	{
-		displayName="CZ 581 (Sawed-Off)";
+		displayName="CZ/DT11 Drake (Sawed-Off)";
 	}
 // Contact DLC by Bohemia Interactive
 // PRIMARY ATTACHMENTS

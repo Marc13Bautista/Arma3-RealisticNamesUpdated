@@ -16,6 +16,14 @@ class CfgPatches
 
 class cfgWeapons
 {
+// VEHICLE WEAPONS
+// Renamed to change the "SPMG .338" turret mount for RF Pickup to "LWMMG".
+// "SPMG .338" -> "LWMMG"
+	class LMG_RCWS;
+	class MMG_02_vehicle: LMG_RCWS
+	{
+		displayName="LWMMG";
+	}
 // PRIMARY WEAPONS
 // Modelled after the real-world German/Austrian-made HERA H6 Rifle.
 // Renamed "HERA H6" to "Hera H6".
