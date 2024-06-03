@@ -1,0 +1,58 @@
+Patch 06/02/24 Patch 6:
+- All vehicles and static "HMG"s (that use a visible M2HB) were renamed to "M2HB" as that is what the HMG is directly modelled after.
+* The RCWS (Remote Controlled Weapon Station) turrets on specific armored vehicles (ex: M-ATV, Fennek, Karatel, Crusher UGCV) are left unedited since it is a fictional turret created by Bohemia Interactive that utilize either an HMG (M2HB), GMG (HKGMG?), or both.
+
++ For Western Sahara CDLC by Rotators Collective:
+// VEHICLES
+// Renamed "MSE-3 Marid (HMG)" to "Otokar ARMA (M2HB)".
+- "MSE-3 Marid (HMG)" -> "Otokar ARMA (M2HB)" [BLUFOR- Gendarmerie, ION Services, UNA, / OPFOR- CSAT, CSAT (Pacific), Gendarmerie, SFIA]
+// Renamed "Offroad (Desert, HMG)" to "Q7/F-150D Offroad (M2HB)". M2HB variant of the Q7/F-150D Offroad.
+- "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (M2HB)" [BLUFOR- ION Services / OPFOR- SFIA / Independent- SFIA]
+// Renamed "Offroad (UP, HMG)" to "Q7/F-150D Offroad (UP, M2HB)". M2HB variant of the Q7/F-150D Offroad (UP). 
+- "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, M2HB)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
+
+// STATICS
+// Added "Zu-23-2" static variant for proper capitalization to "ZU-23-2".
+- "Zu-23-2" -> "ZU-23-2" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+// Renamed "M2 HMG .50" turret variants to "M2HB".
+// Renamed "M2 HMG .50" -> "M2HB".
+- "M2 HMG .50" -> "M2HB" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+// Renamed "M2 HMG .50 (Raised)" -> "M2HB (Raised)".
+- "M2 HMG .50 (Raised)" -> "M2HB (Raised)" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+
++ For Reaction Forces CDLC by Rotators Collective:
+// VEHICLES
+// Renamed "Ram 1500 (HMG)" to "Ram 1500 (M2HB)".
+- "Pickup (HMG)" -> "Ram 1500 (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, Syndikat]
+// Renamed "Ram 1500 (AA)" to "Ram 1500 (VAMPIRE/AA)". The anti-air system used on the RF Pickup is based on L3Harris’ Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE).
+- "Pickup (AA)" -> "Ram 1500 (VAMPIRE/AA)" [BLUFOR- NATO, NATO (Pacific) / Independent- AAF]
+// Renamed "Ram 1500 (MMG)" to "Ram 1500 (LWMMG)".
+// "Pickup (MMG)" -> "Ram 1500 (LWMMG)" [BLUFOR- NATO, NATO (Pacific)]
+
++ For Reaction Forces + Western Sahara CDLC by Rotators Collective (If both CDLCs are loaded)
+// VEHICLES
+// Renamed "Ram 1500 (AA)" to "Ram 1500 (VAMPIRE/AA)". The anti-air system used on the RF Pickup is based on L3Harris’ Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE).
+- "Pickup (AA)" -> "Ram 1500 (VAMPIRE/AA)" [BLUFOR- ION Services]
+// Renamed "Ram 1500 (HMG)" to "Ram 1500 (M2HB)".
+- "Pickup (HMG)" -> "Ram 1500 (M2HB)" [BLUFOR- Tura / OPFOR- Tura / Independent- Tura]
+// Renamed "Ram 1500 (MMG)" to "Ram 1500 (LWMMG)".
+- "Pickup (MMG)" -> "Ram 1500 (LWMMG)" [BLUFOR- ION Services, UNA]
+
++ For Vanilla, Apex, Contact, Jets, Laws of War Assets by Bohemia Interactive:
+// VEHICLES
+// Renamed "Offroad (HMG)" to "Q7/F-150 Offroad (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+- "Offroad (HMG)" -> "Q7/F-150 Offroad (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+
+// STATICS
+// Renamed "M2 HMG .50" turret variants to "M2HB".
+// Renamed "M2 HMG .50" -> "M2HB".
+- "M2 HMG .50" -> "M2HB" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, LDF, Syndikat]
+// Renamed "M2 HMG .50 (Raised)" -> "M2HB (Raised)".
+- "M2 HMG .50 (Raised)" -> "M2HB (Raised)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, LDF, Syndikat]
+
++ For Ace3's stringtable.xml
+// Renamed "Wiesel 2 Ozelot (AA)" to "Wiesel 2 Ozelot (ASRAD/AA)". The Wiesel 2 Ozelot's AA model is based on the Advanced Short Range Air Defence System (ASRAD). Thanks Axle!
+// Renamed "Jeep Wrangler (LMG)" to "Jeep Wrangler (FN Minimi SPW)"
+
+Github Repo for the full changelog and un-binarized files can be found here:
+- https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
