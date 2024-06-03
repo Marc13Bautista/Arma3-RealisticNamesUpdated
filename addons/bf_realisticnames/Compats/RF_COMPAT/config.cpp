@@ -452,27 +452,28 @@ class B_Heli_EC_02_RF: Heli_EC_02_base_RF
 	{
 		displayname="Ram 1500 (Fuel)";
 	}
-// "Pickup (HMG)" -> "Ram 1500 (HMG)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, Syndikat]
+// Renamed "Ram 1500 (HMG)" to "Ram 1500 (M2HB)".
+// "Pickup (HMG)" -> "Ram 1500 (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, Syndikat]
 	class Pickup_01_hmg_base_rf;
 	class B_G_Pickup_hmg_rf: Pickup_01_hmg_base_rf
 	{
-		displayname="Ram 1500 (HMG)";
+		displayname="Ram 1500 (M2HB)";
 	}
 	class O_G_Pickup_hmg_rf: B_G_Pickup_hmg_rf
 	{
-		displayname="Ram 1500 (HMG)";
+		displayname="Ram 1500 (M2HB)";
 	}
 	class I_Pickup_hmg_rf: Pickup_01_hmg_base_rf
 	{
-		displayname="Ram 1500 (HMG)";
+		displayname="Ram 1500 (M2HB)";
 	}
 	class I_G_Pickup_hmg_rf: B_G_Pickup_hmg_rf
 	{
-		displayname="Ram 1500 (HMG)";
+		displayname="Ram 1500 (M2HB)";
 	}
 	class I_C_Pickup_hmg_rf: Pickup_01_hmg_base_rf
 	{
-		displayname="Ram 1500 (HMG)";
+		displayname="Ram 1500 (M2HB)";
 	}
 // "Pickup (Repair)" -> "Ram 1500 (Repair)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
 	class Pickup_repair_ig_base_rf;
@@ -506,20 +507,20 @@ class B_Heli_EC_02_RF: Heli_EC_02_base_RF
 	{
 		displayname="Ram 1500 (Covered)";
 	}
-// An anti-air variant of the Ram 1500, with a fictional boxed quad mounted system that fires FIM-92F stinger missiles.
-// "Pickup (AA)" -> "Ram 1500 (FIM-92F)" [BLUFOR- NATO, NATO (Pacific) / Independent- AAF]
+// Renamed "Ram 1500 (AA)" to "Ram 1500 (VAMPIRE/AA)". The anti-air system used on the RF Pickup is based on L3Harris’ Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE).
+// "Pickup (AA)" -> "Ram 1500 (VAMPIRE/AA)" [BLUFOR- NATO, NATO (Pacific) / Independent- AAF]
 	class Pickup_01_aat_base_rf;
 	class B_Pickup_aat_rf: Pickup_01_aat_base_rf
 	{
-		displayname="Ram 1500 (FIM-92F)";
+		displayname="Ram 1500 (VAMPIRE/AA)";
 	}
 	class B_T_Pickup_aat_rf: B_Pickup_aat_rf
 	{
-		displayname="Ram 1500 (FIM-92F)";
+		displayname="Ram 1500 (VAMPIRE/AA)";
 	}
 	class I_Pickup_aat_rf: Pickup_01_aat_base_rf
 	{
-		displayname="Ram 1500 (FIM-92F)";
+		displayname="Ram 1500 (VAMPIRE/AA)";
 	}
 // "Pickup (Comms)" -> "Ram 1500 (Comms)" [BLUFOR- NATO, NATO (Pacific) / OPFOR- CSAT, CSAT (Pacific) / Independent- AAF, LDF]
 	class Pickup_comms_base_rf;
@@ -547,15 +548,16 @@ class B_Heli_EC_02_RF: Heli_EC_02_base_RF
 	{
 		displayname="Ram 1500 (Comms)";
 	}
-// "Pickup (MMG)" -> "Ram 1500 (MMG)" [BLUFOR- NATO, NATO (Pacific)]
+// Renamed "Ram 1500 (MMG)" to "Ram 1500 (LWMMG)".
+// "Pickup (MMG)" -> "Ram 1500 (LWMMG)" [BLUFOR- NATO, NATO (Pacific)]
 	class Pickup_01_mmg_base_rf;
 	class B_Pickup_mmg_rf: Pickup_01_mmg_base_rf
 	{
-		displayname="Ram 1500 (MMG)";
+		displayname="Ram 1500 (LWMMG)";
 	}
 	class B_T_Pickup_mmg_rf: B_Pickup_mmg_rf
 	{
-		displayname="Ram 1500 (MMG)";
+		displayname="Ram 1500 (LWMMG)";
 	}
 // "Pickup" -> ""Ram 1500" [BLUFOR- FIA, NATO, NATO (Pacific) / OPFOR- CSAT, CSAT (Pacific), FIA / Independent- AAF, FIA, LDF, Syndikat / Civilian- Civilians, IDAP]
 	class Pickup_01_base_rf;

@@ -429,19 +429,20 @@ class cfgVehicles
 	{
 		displayName="Q7/F-150 Offroad (SPG-9)";
 	}
-// "Offroad (HMG)" -> "Q7/F-150 Offroad (HMG)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+// Renamed "Offroad (HMG)" to "Q7/F-150 Offroad (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+// "Offroad (HMG)" -> "Q7/F-150 Offroad (M2HB)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
 	class Offroad_01_armed_base_F;
 	class I_G_Offroad_01_armed_F: Offroad_01_armed_base_F
 	{
-		displayName="Q7/F-150 Offroad (HMG)";
+		displayName="Q7/F-150 Offroad (M2HB)";
 	}
 	class B_G_Offroad_01_armed_F: I_G_Offroad_01_armed_F
 	{
-		displayName="Q7/F-150 Offroad (HMG)";
+		displayName="Q7/F-150 Offroad (M2HB)";
 	}
 	class O_G_Offroad_01_armed_F: I_G_Offroad_01_armed_F
 	{
-		displayName="Q7/F-150 Offroad (HMG)";
+		displayName="Q7/F-150 Offroad (M2HB)";
 	}
 // "Offroad (Repair)" -> "Q7/F-150 Offroad (Repair)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
 	class Offroad_01_repair_military_base_F;
@@ -919,5 +920,60 @@ class cfgVehicles
 	class O_SAM_System_04_F: SAM_System_04_base_F
 	{
 		displayName="S-400 Triumf";
+	}
+// Renamed "M2 HMG .50" turret variants to "M2HB".
+// Renamed "M2 HMG .50" -> "M2HB".
+// "M2 HMG .50" -> "M2HB" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, LDF, Syndikat]
+	class HMG_02_base_F;
+	class B_G_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+	class O_G_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+	class I_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+	class I_G_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+	class I_E_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+	class I_C_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	}
+// Renamed "M2 HMG .50 (Raised)" -> "M2HB (Raised)".
+// "M2 HMG .50 (Raised)" -> "M2HB (Raised)" [BLUFOR- FIA / OPFOR- FIA / Independent- AAF, FIA, LDF, Syndikat]
+	class HMG_02_high_base_F;
+	class B_G_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	}
+	class O_G_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	}
+	class I_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	}
+	class I_G_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	}
+	class I_E_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	}
+	class I_C_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
 	}
 };

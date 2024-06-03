@@ -55,36 +55,38 @@ class cfgVehicles
 	{
 		displayName="Ram 1500 (Fuel)";
 	}
-// An anti-air variant of the Ram 1500, with a fictional boxed quad mounted system that fires FIM-92F stinger missiles.
-// "Pickup (AA)" -> "Ram 1500 (FIM-92F)" [BLUFOR- ION Services]
+// Renamed "Ram 1500 (AA)" to "Ram 1500 (VAMPIRE/AA)". The anti-air system used on the RF Pickup is based on L3Harris’ Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE).
+// "Pickup (AA)" -> "Ram 1500 (VAMPIRE/AA)" [BLUFOR- ION Services]
 	class Pickup_01_aat_base_rf;
 	class B_ION_Pickup_aat_rf: Pickup_01_aat_base_rf
 	{
-		displayName="Ram 1500 (FIM-92F)";
+		displayName="Ram 1500 (VAMPIRE/AA)";
 	}
-// "Pickup (HMG)" -> "Ram 1500 (HMG)" [BLUFOR- Tura / OPFOR- Tura / Independent- Tura]
+// Renamed "Ram 1500 (HMG)" to "Ram 1500 (M2HB)".
+// "Pickup (HMG)" -> "Ram 1500 (M2HB)" [BLUFOR- Tura / OPFOR- Tura / Independent- Tura]
 	class Pickup_01_hmg_base_rf;
 	class I_Tura_Pickup_01_hmg_rf: Pickup_01_hmg_base_rf
 	{
-		displayName="Ram 1500 (HMG)";
+		displayName="Ram 1500 (M2HB)";
 	}
 	class B_Tura_Pickup_01_hmg_RF: I_Tura_Pickup_01_hmg_rf
 	{
-		displayName="Ram 1500 (HMG)";
+		displayName="Ram 1500 (M2HB)";
 	}
 	class O_Tura_Pickup_01_hmg_RF: I_Tura_Pickup_01_hmg_rf
 	{
-		displayName="Ram 1500 (HMG)";
+		displayName="Ram 1500 (M2HB)";
 	}
-// "Pickup (MMG)" -> "Ram 1500 (MMG)" [BLUFOR- ION Services, UNA]
+// Renamed "Ram 1500 (MMG)" to "Ram 1500 (LWMMG)".
+// "Pickup (MMG)" -> "Ram 1500 (LWMMG)" [BLUFOR- ION Services, UNA]
 	class Pickup_01_mmg_base_rf;
 	class B_ION_Pickup_mmg_rf: Pickup_01_mmg_base_rf
 	{
-		displayName="Ram 1500 (MMG)";
+		displayName="Ram 1500 (LWMMG)";
 	}
 	class B_UN_Pickup_mmg_rf: Pickup_01_mmg_base_rf
 	{
-		displayName="Ram 1500 (MMG)";
+		displayName="Ram 1500 (LWMMG)";
 	}
 // "Pickup" -> ""Ram 1500" [BLUFOR- ION Services, Tura, UNA / OPFOR- Tura / Independent- Tura]
 	class Pickup_01_base_rf;

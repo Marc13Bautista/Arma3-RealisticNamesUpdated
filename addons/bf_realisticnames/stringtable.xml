@@ -2990,19 +2990,19 @@
             <Korean>지프 랭글러 (SPG-9)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_C_Offroad_02_lmg">
-            <English>Jeep Wrangler (LMG)</English>
-            <German>Jeep Wrangler (LMG)</German>
-            <Chinesesimp>"牧马人"吉普车（轻机枪）</Chinesesimp>
-            <Chinese>"牧馬人"吉普車 (輕機槍)</Chinese>
-            <Japanese>ジープ ラングラー (LMG)</Japanese>
-            <Italian>Jeep Wrangler (LMG)</Italian>
-            <Polish>Jeep Wrangler (LMG)</Polish>
-            <Russian>Jeep Wrangler (с пулемётом)</Russian>
-            <Portuguese>Jeep Wrangler (LMG)</Portuguese>
-            <French>Jeep Wrangler (LMG)</French>
-            <Czech>Jeep Wrangler (LMG)</Czech>
-            <Turkish>Jeep Wrangler (LMG)</Turkish>
-            <Spanish>Jeep Wrangler (LMG)</Spanish>
+            <English>Jeep Wrangler (FN Minimi SPW)</English>
+            <German>Jeep Wrangler (FN Minimi SPW)</German>
+            <Chinesesimp>"牧马人"吉普车（FN Minimi SPW）</Chinesesimp>
+            <Chinese>"牧馬人"吉普車 (FN Minimi SPW)</Chinese>
+            <Japanese>ジープ ラングラー (FN Minimi SPW)</Japanese>
+            <Italian>Jeep Wrangler (FN Minimi SPW)</Italian>
+            <Polish>Jeep Wrangler (FN Minimi SPW)</Polish>
+            <Russian>Jeep Wrangler (FN Minimi SPW)</Russian>
+            <Portuguese>Jeep Wrangler (FN Minimi SPW)</Portuguese>
+            <French>Jeep Wrangler (FN Minimi SPW)</French>
+            <Czech>Jeep Wrangler (FN Minimi SPW)</Czech>
+            <Turkish>Jeep Wrangler (FN Minimi SPW)</Turkish>
+            <Spanish>Jeep Wrangler (FN Minimi SPW)</Spanish>
             <Korean>지프 랭글러 (경기관총)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_C_Plane_Civil_01">
@@ -3777,20 +3777,20 @@
             <Korean>T-14K 아르마타</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_LT_01_AA">
-            <English>Wiesel 2 Ozelot (AA)</English>
-            <German>Wiesel 2 Ozelot (LeFlaSys)</German>
-            <Chinesesimp>"鼬鼠"2（防空）</Chinesesimp>
-            <Chinese>"鼬鼠"2裝甲車 (防空)</Chinese>
-            <Japanese>ウィーゼル 2 オゼロット (対空)</Japanese>
-            <Italian>Wiesel 2 Ozelot (AA)</Italian>
-            <Polish>Wiesel 2 Ozelot (AA)</Polish>
-            <Russian>Wiesel 2 Ozelot (ЗРК)</Russian>
-            <Portuguese>Wiesel 2 Ozelot (AA)</Portuguese>
-            <French>Wiesel 2 Ozelot (AA)</French>
-            <Czech>Wiesel 2 Ozelot (AA)</Czech>
-            <Turkish>Wiesel 2 Ozelot (AA)</Turkish>
-            <Spanish>Wiesel 2 Ozelot (AA)</Spanish>
-            <Korean>비젤 2 오셀롯 (대공)</Korean>
+            <English>Wiesel 2 Ozelot (ASRAD/AA)</English>
+            <German>Wiesel 2 Ozelot (ASRAD/AA)</German>
+            <Chinesesimp>"鼬鼠"2（ASRAD/AA）</Chinesesimp>
+            <Chinese>"鼬鼠"2裝甲車 (ASRAD/AA)</Chinese>
+            <Japanese>ウィーゼル 2 オゼロット (ASRAD/AA)</Japanese>
+            <Italian>Wiesel 2 Ozelot (ASRAD/AA)</Italian>
+            <Polish>Wiesel 2 Ozelot (ASRAD/AA)</Polish>
+            <Russian>Wiesel 2 Ozelot (ASRAD/AA)</Russian>
+            <Portuguese>Wiesel 2 Ozelot (ASRAD/AA)</Portuguese>
+            <French>Wiesel 2 Ozelot (ASRAD/AA)</French>
+            <Czech>Wiesel 2 Ozelot (ASRAD/AA)</Czech>
+            <Turkish>Wiesel 2 Ozelot (ASRAD/AA)</Turkish>
+            <Spanish>Wiesel 2 Ozelot (ASRAD/AA)</Spanish>
+            <Korean>비젤 2 오셀롯 (ASRAD/AA)</Korean>
         </Key>
         <Key ID="STR_BF_RealisticNames_LT_01_AT">
             <English>Wiesel 2 (ATGM)</English>

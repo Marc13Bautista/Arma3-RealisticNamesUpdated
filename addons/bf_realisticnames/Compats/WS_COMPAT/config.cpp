@@ -428,42 +428,43 @@ class cfgVehicles
 	{
 		displayname="Otokar ARMA (Unarmed)";
 	}
-// "MSE-3 Marid (HMG)" -> "Otokar ARMA (HMG)" [BLUFOR- Gendarmerie, ION Services, UNA, / OPFOR- CSAT, CSAT (Pacific), Gendarmerie, SFIA]
+// Renamed "MSE-3 Marid (HMG)" to "Otokar ARMA (M2HB)".
+// "MSE-3 Marid (HMG)" -> "Otokar ARMA (M2HB)" [BLUFOR- Gendarmerie, ION Services, UNA, / OPFOR- CSAT, CSAT (Pacific), Gendarmerie, SFIA]
 	class APC_Wheeled_02_hmg_base_lxws: APC_Wheeled_02_base_v2_F
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class I_SFIA_APC_Wheeled_02_hmg_lxWS: APC_Wheeled_02_hmg_base_lxws
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class O_SFIA_APC_Wheeled_02_hmg_lxWS: I_SFIA_APC_Wheeled_02_hmg_lxWS
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class O_GEN_APC_Wheeled_02_hmg_lxWS: O_SFIA_APC_Wheeled_02_hmg_lxWS
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class B_GEN_APC_Wheeled_02_hmg_lxWS: O_GEN_APC_Wheeled_02_hmg_lxWS
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class B_ION_APC_Wheeled_02_hmg_lxWS: APC_Wheeled_02_hmg_base_lxws
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class B_UNA_APC_Wheeled_02_hmg_lxWS: APC_Wheeled_02_hmg_base_lxws
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class O_APC_Wheeled_02_hmg_lxWS: APC_Wheeled_02_hmg_base_lxws
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 	class O_T_APC_Wheeled_02_hmg_lxWS: O_APC_Wheeled_02_hmg_lxWS
 	{
-		displayname="Otokar ARMA (HMG)";
+		displayname="Otokar ARMA (M2HB)";
 	}
 // Renamed "Badger IFV (CV)" to "Badger IFV (Command)".
 // "AMV-7 Marshall (CV)" -> "Badger IFV (Command)" [BLUFOR- ION Services, NATO, NATO (Desert), NATO (Pacific), UNA]
@@ -758,20 +759,20 @@ class cfgVehicles
 	{
 		displayname="Q7/F-150D Offroad";
 	}
-// "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (HMG)". HMG variant of the Q7/F-150D Offroad.
-// "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (HMG)" [BLUFOR- ION Services / OPFOR- SFIA / Independent- SFIA]
+// Renamed "Offroad (Desert, HMG)" to "Q7/F-150D Offroad (M2HB)". M2HB variant of the Q7/F-150D Offroad.
+// "Offroad (Desert, HMG)" -> "Q7/F-150D Offroad (M2HB)" [BLUFOR- ION Services / OPFOR- SFIA / Independent- SFIA]
 	class Offroad_01_armed_lxWS;
 	class B_ION_Offroad_armed_lxWS: Offroad_01_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (HMG)";
+		displayname="Q7/F-150D Offroad (M2HB)";
 	}
 	class I_SFIA_Offroad_armed_lxWS: Offroad_01_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (HMG)";
+		displayname="Q7/F-150D Offroad (M2HB)";
 	}
 	class O_SFIA_Offroad_armed_lxWS: I_SFIA_Offroad_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (HMG)";
+		displayname="Q7/F-150D Offroad (M2HB)";
 	}
 // "Offroad (Desert, AT)" -> "Q7/F-150D Offroad (SPG-9)". SPG-9 variant of the Q7/F-150D Offroad.
 // "Offroad (Desert, AT)" -> "Q7/F-150D Offroad (SPG-9)" [OPFOR- SFIA / Independent- SFIA]
@@ -815,32 +816,32 @@ class cfgVehicles
 	{
 		displayname="Q7/F-150D Offroad (UP)";
 	}
-// "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, HMG)". HMG variant of the Q7/F-150D Offroad (UP). 
-// "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, HMG)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
+// Renamed "Offroad (UP, HMG)" to "Q7/F-150D Offroad (UP, M2HB)". M2HB variant of the Q7/F-150D Offroad (UP). 
+// "Offroad (UP, HMG)" -> "Q7/F-150D Offroad (UP, M2HB)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
 	class Offroad_01_armor_armed_lxWS;
 	class I_G_Offroad_01_armor_armed_lxWS: Offroad_01_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 	class B_G_Offroad_01_armor_armed_lxWS: I_G_Offroad_01_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 	class I_Tura_Offroad_armor_armed_lxWS: Offroad_01_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 	class B_Tura_Offroad_armor_armed_lxWS: I_Tura_Offroad_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 	class O_G_Offroad_01_armor_armed_lxWS: I_G_Offroad_01_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 		class O_Tura_Offroad_armor_armed_lxWS: I_Tura_Offroad_armor_armed_lxWS
 	{
-		displayname="Q7/F-150D Offroad (UP, HMG)";
+		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
 // "Offroad (UP, AT)" -> "Q7/F-150D Offroad (UP, SPG-9)". SPG-9 variant of the Q7/F-150D Offroad (UP). 
 // "Offroad (UP, AT)" -> "Q7/F-150D Offroad (UP, SPG-9)" [BLUFOR- FIA, Tura, UNA / OPFOR- SFIA / Independent- FIA, Tura, SFIA / Independent- FIA, Tura]
@@ -928,5 +929,75 @@ class cfgVehicles
 	class B_D_UGV_01_rcws_lxWS: B_UGV_01_rcws_F
 	{
 		displayname="Crusher UGCV (RCWS)";
+	}
+// STATICS
+// Added "Zu-23-2" static variant for proper capitalization to "ZU-23-2".
+// "Zu-23-2" -> "ZU-23-2" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+	class zu23_base_lxWS;
+	class I_SFIA_ZU23_lxWS: zu23_base_lxWS
+	{
+		displayname="ZU-23-2";
+	}
+	class O_SFIA_ZU23_lxWS: I_SFIA_ZU23_lxWS
+	{
+		displayname="ZU-23-2";
+	}
+	class B_Tura_ZU23_lxWS: O_SFIA_ZU23_lxWS
+	{
+		displayname="ZU-23-2";
+	}
+	class O_Tura_ZU23_lxWS: O_SFIA_ZU23_lxWS
+	{
+		displayname="ZU-23-2";
+	}
+	class I_Tura_ZU23_lxWS: O_SFIA_ZU23_lxWS
+	{
+		displayname="ZU-23-2";
+	}
+// Renamed "M2 HMG .50" turret variants to "M2HB".
+// "M2 HMG .50" -> "M2HB" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+	class I_G_HMG_02_F;
+	class I_SFIA_HMG_02_lxWS: I_G_HMG_02_F
+	{
+		displayname="M2HB";
+	}
+	class I_Tura_HMG_02_lxWS: I_SFIA_HMG_02_lxWS
+	{
+		displayname="M2HB";
+	}
+	class B_Tura_HMG_02_lxWS: I_Tura_HMG_02_lxWS
+	{
+		displayname="M2HB";
+	}
+	class O_SFIA_HMG_02_lxWS: I_SFIA_HMG_02_lxWS
+	{
+		displayname="M2HB";
+	}
+		class O_Tura_HMG_02_lxWS: I_Tura_HMG_02_lxWS
+	{
+		displayname="M2HB";
+	}
+// Renamed "M2 HMG .50 (Raised)" -> "M2HB (Raised)".
+// "M2 HMG .50 (Raised)" -> "M2HB (Raised)" [BLUFOR- Tura / OPFOR- SFIA, Tura, / Independent- SFIA, Tura]
+	class I_G_HMG_02_high_F;
+	class I_SFIA_HMG_02_high_lxWS: I_G_HMG_02_high_F
+	{
+		displayname="M2HB (Raised)";
+	}
+	class I_Tura_HMG_02_high_lxWS: I_SFIA_HMG_02_high_lxWS
+	{
+		displayname="M2HB (Raised)";
+	}
+	class B_Tura_HMG_02_high_lxWS: I_Tura_HMG_02_high_lxWS
+	{
+		displayname="M2HB (Raised)";
+	}
+	class O_SFIA_HMG_02_high_lxWS: I_SFIA_HMG_02_high_lxWS
+	{
+		displayname="M2HB (Raised)";
+	}
+	class O_Tura_HMG_02_high_lxWS: I_Tura_HMG_02_high_lxWS
+	{
+		displayname="M2HB (Raised)";
 	}
 };
