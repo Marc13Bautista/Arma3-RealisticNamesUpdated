@@ -881,6 +881,20 @@ class cfgVehicles
 	{
 		displayname="Grizzly 450 ATV";
 	}
+// Renamed "AMV-7 Marshall" to "Badger IFV". Forgot to rename the default cannon variants for ION and UNA.
+// "AMV-7 Marshall" -> "Badger IFV" [BLUFOR- ION Services, UNA]
+	class B_APC_Wheeled_01_cannon_lxWS: APC_Wheeled_01_base_F
+	{
+		displayname="Badger IFV";
+	}
+	class B_UN_APC_Wheeled_01_cannon_lxWS: B_APC_Wheeled_01_cannon_lxWS
+	{
+		displayname="Badger IFV";
+	}	
+	class B_ION_APC_Wheeled_01_cannon_lxWS: B_APC_Wheeled_01_cannon_lxWS
+	{
+		displayname="Badger IFV";
+	}
 // DRONES
 // Renamed "IED UAV" to "AP-5X Bustard (IED)". Fictional concept hexacopter drone made by Bohemia Interactive. Renamed to match with the other AP-5 variants. Comes with "X" to designate it's experimental/modified, as the in-game manual says it was self-made from looted AP-5 Bustard gun drones and turned into grenade carriers. Western Sahara added variant.
 // "IED UAV" -> "AP-5X Bustard (IED)" [BLUFOR- FIA, Tura / OPFOR- FIA, Tura / Independent- FIA, Tura ]
