@@ -473,10 +473,10 @@ class CfgMagazines {
         displayName = "AGM-114R Hellfire X"; // [vanilla: Scalpel - missiles_SCALPEL]
     };
     class PylonRack_3Rnd_LG_scalpel: PylonRack_1Rnd_LG_scalpel {
-        displayName = "AGM-114R Hellfire X"; // [vanilla: Scalpel 3x - missiles_SCALPEL]
+        displayName = "AGM-114R Hellfire X 3x"; // [vanilla: Scalpel 3x - missiles_SCALPEL]
     };
     class PylonRack_4Rnd_LG_scalpel: PylonRack_1Rnd_LG_scalpel {
-        displayName = "AGM-114R Hellfire X"; // [vanilla: Scalpel 4x - missiles_SCALPEL]
+        displayName = "AGM-114R Hellfire X 4x"; // [vanilla: Scalpel 4x - missiles_SCALPEL]
     };
     class PylonRack_7Rnd_Rocket_04_HE_F: 7Rnd_Rocket_04_HE_F {
         displayName = "Hydra 70 7x HE"; // [vanilla: Shrieker 7x HE - Rocket_04_HE_Plane_CAS_01_F]
