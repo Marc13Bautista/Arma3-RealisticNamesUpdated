@@ -491,8 +491,8 @@ class CfgWeapons {
         displayName = "AIM-120A AMRAAM";
     };
 
-    class missiles_SCALPEL: RocketPods { // according to zGuba, this is what it's based on
-        displayName = "9K121 Vikhr";
+    class missiles_SCALPEL: RocketPods { // according to zGuba, this is what it's based on. - but resembles Hellfire missile more (Marc)
+        displayName = "AGM-114R Hellfire X";
     };
 
     // bomb
