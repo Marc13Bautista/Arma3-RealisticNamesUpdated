@@ -323,25 +323,25 @@ class cfgVehicles
 		displayName="H225M Super Cougar Transport";
 	}
 // NATO variants for the AW159 Wildcat.
-// "AH-11F Hellcat" -> "AW159 Wildcat" [BLUFOR- NATO]
+// "AH-11F Hellcat" -> "AW159 Wildcat (UP)" [BLUFOR- NATO]
 	class Heli_light_03_dynamicLoadout_base_F;
 	class B_Heli_light_03_dynamicLoadout_RF: Heli_light_03_dynamicLoadout_base_F
 	{
-		displayName="AW159 Wildcat";
+		displayName="AW159 Wildcat (UP)";
 	}
 	class I_Heli_light_03_dynamicLoadout_RF: B_Heli_light_03_dynamicLoadout_RF
 	{
-		displayName="AW159 Wildcat";
+		displayName="AW159 Wildcat (UP)";
 	}
-// "AH-11F Hellcat (Unarmed)" -> "AW159 Wildcat (Unarmed)" [BLUFOR- NATO]
+// "AH-11F Hellcat (Unarmed)" -> "AW159 Wildcat (UP, Unarmed)" [BLUFOR- NATO]
 	class Heli_light_03_unarmed_base_F;
 	class B_Heli_light_03_unarmed_RF: Heli_light_03_unarmed_base_F
 	{
-		displayName="AW159 Wildcat (Unarmed)";
+		displayName="AW159 Wildcat (UP, Unarmed)";
 	}
 	class I_Heli_light_03_unarmed_RF: B_Heli_light_03_unarmed_RF
 	{
-		displayName="AW159 Wildcat (Unarmed)";
+		displayName="AW159 Wildcat (UP, Unarmed)";
 	}
 // Available are the fuel probe, exhaust suppressors, and floatation bags. A military variant. An H225M Super Cougar, meant for general transport of 20 passengers but also has 2 wing-mounted weapon pylons and a nose-mounted radar. Has no extra (fuel) tanks. Probably meant for Combat Search & Rescue (CSAR) operations in combat zones.
 // "MH-245 Cougar" -> "H225M Super Cougar CSAR" [BLUFOR- NATO]

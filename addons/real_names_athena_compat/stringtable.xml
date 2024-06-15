@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3Aegis">
+	<Package name="Language_Arc">
+		<Container name="Characters_F">
+			<Key ID="STR_A3_A_CfgVehicles_B_W_ghillie_arc_F0">
+				<Original>Sniper (Arctic)</Original>
+				<Chinese>狙擊手（極區）</Chinese>
+				<French>Sniper (arctique)</French>
+				<Spanish>Francotirador (ártico)</Spanish>
+				<Italian>Cecchino (artico)</Italian>
+				<Polish>Snajper (region polarny)</Polish>
+				<Russian>Снайпер (Арктика)</Russian>
+				<German>Scharfschütze (Arktisch)</German>
+				<Czech>Odstřelovač (arktické oblasti)</Czech>
+				<English>Sniper (Arctic)</English>
+				<Portuguese>Franco-atirador (Ártico)</Portuguese>
+				<Korean>저격수 (북극)</Korean>
+				<Chinesesimp>狙击兵（北极）</Chinesesimp>
+				<Japanese>狙撃兵（北極）</Japanese>
+				<Turkish>Keskin Nişancı (Buzul)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_B_W_ghillie_spotter_arc_F0">
+				<Original>Spotter (Arctic)</Original>
+				<Chinese>偵查員（極區）</Chinese>
+				<French>Repéreur (arctique)</French>
+				<Spanish>Observador (ártico)</Spanish>
+				<Italian>Osservatore (artico)</Italian>
+				<Polish>Obserwator (region polarny)</Polish>
+				<Russian>Корректировщик (Арктика)</Russian>
+				<German>Spotter (Arktisch)</German>
+				<Czech>Pozorovatel (arktické oblasti)</Czech>
+				<English>Spotter (Arctic)</English>
+				<Portuguese>Observador (Ártico)</Portuguese>
+				<Korean>감적수 (북극)</Korean>
+				<Chinesesimp>观察员（北极）</Chinesesimp>
+				<Japanese>スポッター（北極）</Japanese>
+				<Turkish>Gözetleyici (Buzul)</Turkish>
+			</Key>
+			<Container name="Headgear">
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_plain_greece0">
+					<Original>Combat Helmet [Greece]</Original>
+					<Chinese>Combat Helmet [Greece]</Chinese>
+					<French>Combat Helmet [Greece]</French>
+					<Spanish>Combat Helmet [Greece]</Spanish>
+					<Italian>Combat Helmet [Greece]</Italian>
+					<Polish>Combat Helmet [Greece]</Polish>
+					<Russian>Combat Helmet [Greece]</Russian>
+					<German>Combat Helmet [Greece]</German>
+					<Czech>Combat Helmet [Greece]</Czech>
+					<English>Combat Helmet [Greece]</English>
+					<Portuguese>Combat Helmet [Greece]</Portuguese>
+					<Korean>Combat Helmet [Greece]</Korean>
+					<Chinesesimp>Combat Helmet [Greece]</Chinesesimp>
+					<Japanese>Combat Helmet [Greece]</Japanese>
+					<Turkish>Combat Helmet [Greece]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_greece0">
+					<Original>Combat Helmet [Greece] (Enhanced)</Original>
+					<Chinese>Combat Helmet [Greece] (Enhanced)</Chinese>
+					<French>Combat Helmet [Greece] (Enhanced)</French>
+					<Spanish>Combat Helmet [Greece] (Enhanced)</Spanish>
+					<Italian>Combat Helmet [Greece] (Enhanced)</Italian>
+					<Polish>Combat Helmet [Greece] (Enhanced)</Polish>
+					<Russian>Combat Helmet [Greece] (Enhanced)</Russian>
+					<German>Combat Helmet [Greece] (Enhanced)</German>
+					<Czech>Combat Helmet [Greece] (Enhanced)</Czech>
+					<English>Combat Helmet [Greece] (Enhanced)</English>
+					<Portuguese>Combat Helmet [Greece] (Enhanced)</Portuguese>
+					<Korean>Combat Helmet [Greece] (Enhanced)</Korean>
+					<Chinesesimp>Combat Helmet [Greece] (Enhanced)</Chinesesimp>
+					<Japanese>Combat Helmet [Greece] (Enhanced)</Japanese>
+					<Turkish>Combat Helmet [Greece] (Enhanced)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_light_greece0">
+					<Original>Light Combat Helmet [Greece]</Original>
+					<Chinese>Light Combat Helmet [Greece]</Chinese>
+					<French>Light Combat Helmet [Greece]</French>
+					<Spanish>Light Combat Helmet [Greece]</Spanish>
+					<Italian>Light Combat Helmet [Greece]</Italian>
+					<Polish>Light Combat Helmet [Greece]</Polish>
+					<Russian>Light Combat Helmet [Greece]</Russian>
+					<German>Light Combat Helmet [Greece]</German>
+					<Czech>Light Combat Helmet [Greece]</Czech>
+					<English>Light Combat Helmet [Greece]</English>
+					<Portuguese>Light Combat Helmet [Greece]</Portuguese>
+					<Korean>Light Combat Helmet [Greece]</Korean>
+					<Chinesesimp>Light Combat Helmet [Greece]</Chinesesimp>
+					<Japanese>Light Combat Helmet [Greece]</Japanese>
+					<Turkish>Light Combat Helmet [Greece]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_light_greece0">
+					<Original>Light Combat Helmet [Greece] (Enhanced)</Original>
+					<Chinese>Light Combat Helmet [Greece] (Enhanced)</Chinese>
+					<French>Light Combat Helmet [Greece] (Enhanced)</French>
+					<Spanish>Light Combat Helmet [Greece] (Enhanced)</Spanish>
+					<Italian>Light Combat Helmet [Greece] (Enhanced)</Italian>
+					<Polish>Light Combat Helmet [Greece] (Enhanced)</Polish>
+					<Russian>Light Combat Helmet [Greece] (Enhanced)</Russian>
+					<German>Light Combat Helmet [Greece] (Enhanced)</German>
+					<Czech>Light Combat Helmet [Greece] (Enhanced)</Czech>
+					<English>Light Combat Helmet [Greece] (Enhanced)</English>
+					<Portuguese>Light Combat Helmet [Greece] (Enhanced)</Portuguese>
+					<Korean>Light Combat Helmet [Greece] (Enhanced)</Korean>
+					<Chinesesimp>Light Combat Helmet [Greece] (Enhanced)</Chinesesimp>
+					<Japanese>Light Combat Helmet [Greece] (Enhanced)</Japanese>
+					<Turkish>Light Combat Helmet [Greece] (Enhanced)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_light_raider0">
+					<Original>Light Combat Helmet [Greek-R]</Original>
+					<Chinese>Light Combat Helmet [Greek-R]</Chinese>
+					<French>Light Combat Helmet [Greek-R]</French>
+					<Spanish>Light Combat Helmet [Greek-R]</Spanish>
+					<Italian>Light Combat Helmet [Greek-R]</Italian>
+					<Polish>Light Combat Helmet [Greek-R]</Polish>
+					<Russian>Light Combat Helmet [Greek-R]</Russian>
+					<German>Light Combat Helmet [Greek-R]</German>
+					<Czech>Light Combat Helmet [Greek-R]</Czech>
+					<English>Light Combat Helmet [Greek-R]</English>
+					<Portuguese>Light Combat Helmet [Greek-R]</Portuguese>
+					<Korean>Light Combat Helmet [Greek-R]</Korean>
+					<Chinesesimp>Light Combat Helmet [Greek-R]</Chinesesimp>
+					<Japanese>Light Combat Helmet [Greek-R]</Japanese>
+					<Turkish>Light Combat Helmet [Greek-R]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_light_raider0">
+					<Original>Light Combat Helmet [Greek-R] (Enhanced)</Original>
+					<Chinese>Light Combat Helmet [Greek-R] (Enhanced)</Chinese>
+					<French>Light Combat Helmet [Greek-R] (Enhanced)</French>
+					<Spanish>Light Combat Helmet [Greek-R] (Enhanced)</Spanish>
+					<Italian>Light Combat Helmet [Greek-R] (Enhanced)</Italian>
+					<Polish>Light Combat Helmet [Greek-R] (Enhanced)</Polish>
+					<Russian>Light Combat Helmet [Greek-R] (Enhanced)</Russian>
+					<German>Light Combat Helmet [Greek-R] (Enhanced)</German>
+					<Czech>Light Combat Helmet [Greek-R] (Enhanced)</Czech>
+					<English>Light Combat Helmet [Greek-R] (Enhanced)</English>
+					<Portuguese>Light Combat Helmet [Greek-R] (Enhanced)</Portuguese>
+					<Korean>Light Combat Helmet [Greek-R] (Enhanced)</Korean>
+					<Chinesesimp>Light Combat Helmet [Greek-R] (Enhanced)</Chinesesimp>
+					<Japanese>Light Combat Helmet [Greek-R] (Enhanced)</Japanese>
+					<Turkish>Light Combat Helmet [Greek-R] (Enhanced)</Turkish>
+				</Key>
+			</Container>
+			<Container name="Uniforms">
+				<Key ID="STR_A3_A_CfgWeapons_U_O_R_Gorka_arctic_F0">
+					<Original>Granit-S Suit</Original>
+					<Chinese>Granit-S Suit</Chinese>
+					<French>Granit-S Suit</French>
+					<Spanish>Granit-S Suit</Spanish>
+					<Italian>Granit-S Suit</Italian>
+					<Polish>Granit-S Suit</Polish>
+					<Russian>Granit-S Suit</Russian>
+					<German>Granit-S Suit</German>
+					<Czech>Granit-S Suit</Czech>
+					<English>Granit-S Suit</English>
+					<Portuguese>Granit-S Suit</Portuguese>
+					<Korean>Granit-S Suit</Korean>
+					<Chinesesimp>Granit-S Suit</Chinesesimp>
+					<Japanese>Granit-S Suit</Japanese>
+					<Turkish>Granit-S Suit</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_O_R_FullGhillie_arc_F0">
+					<Original>Full Ghillie (Arctic) [Russia]</Original>
+					<Chinese>Full Ghillie (Arctic) [Russia]</Chinese>
+					<French>Full Ghillie (Arctic) [Russia]</French>
+					<Spanish>Full Ghillie (Arctic) [Russia]</Spanish>
+					<Italian>Full Ghillie (Arctic) [Russia]</Italian>
+					<Polish>Full Ghillie (Arctic) [Russia]</Polish>
+					<Russian>Full Ghillie (Arctic) [Russia]</Russian>
+					<German>Full Ghillie (Arctic) [Russia]</German>
+					<Czech>Full Ghillie (Arctic) [Russia]</Czech>
+					<English>Full Ghillie (Arctic) [Russia]</English>
+					<Portuguese>Full Ghillie (Arctic) [Russia]</Portuguese>
+					<Korean>Full Ghillie (Arctic) [Russia]</Korean>
+					<Chinesesimp>Full Ghillie (Arctic) [Russia]</Chinesesimp>
+					<Japanese>Full Ghillie (Arctic) [Russia]</Japanese>
+					<Turkish>Full Ghillie (Arctic) [Russia]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_arc_f0">
+					<Original>Combat Fatigues (Arctic)</Original>
+					<Chinese>Combat Fatigues (Arctic)</Chinese>
+					<French>Combat Fatigues (Arctic)</French>
+					<Spanish>Combat Fatigues (Arctic)</Spanish>
+					<Italian>Combat Fatigues (Arctic)</Italian>
+					<Polish>Combat Fatigues (Arctic)</Polish>
+					<Russian>Combat Fatigues (Arctic)</Russian>
+					<German>Combat Fatigues (Arctic)</German>
+					<Czech>Combat Fatigues (Arctic)</Czech>
+					<English>Combat Fatigues (Arctic)</English>
+					<Portuguese>Combat Fatigues (Arctic)</Portuguese>
+					<Korean>Combat Fatigues (Arctic)</Korean>
+					<Chinesesimp>Combat Fatigues (Arctic)</Chinesesimp>
+					<Japanese>Combat Fatigues (Arctic)</Japanese>
+					<Turkish>Combat Fatigues (Arctic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_GhillieSuit_arc_f0">
+					<Original>Ghillie Suit (Arctic) [NATO]</Original>
+					<Chinese>Ghillie Suit (Arctic) [NATO]</Chinese>
+					<French>Ghillie Suit (Arctic) [NATO]</French>
+					<Spanish>Ghillie Suit (Arctic) [NATO]</Spanish>
+					<Italian>Ghillie Suit (Arctic) [NATO]</Italian>
+					<Polish>Ghillie Suit (Arctic) [NATO]</Polish>
+					<Russian>Ghillie Suit (Arctic) [NATO]</Russian>
+					<German>Ghillie Suit (Arctic) [NATO]</German>
+					<Czech>Ghillie Suit (Arctic) [NATO]</Czech>
+					<English>Ghillie Suit (Arctic) [NATO]</English>
+					<Portuguese>Ghillie Suit (Arctic) [NATO]</Portuguese>
+					<Korean>Ghillie Suit (Arctic) [NATO]</Korean>
+					<Chinesesimp>Ghillie Suit (Arctic) [NATO]</Chinesesimp>
+					<Japanese>Ghillie Suit (Arctic) [NATO]</Japanese>
+					<Turkish>Ghillie Suit (Arctic) [NATO]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_FullGhillie_arc_f0">
+					<Original>Full Ghillie (Arctic) [NATO]</Original>
+					<Chinese>Full Ghillie (Arctic) [NATO]</Chinese>
+					<French>Full Ghillie (Arctic) [NATO]</French>
+					<Spanish>Full Ghillie (Arctic) [NATO]</Spanish>
+					<Italian>Full Ghillie (Arctic) [NATO]</Italian>
+					<Polish>Full Ghillie (Arctic) [NATO]</Polish>
+					<Russian>Full Ghillie (Arctic) [NATO]</Russian>
+					<German>Full Ghillie (Arctic) [NATO]</German>
+					<Czech>Full Ghillie (Arctic) [NATO]</Czech>
+					<English>Full Ghillie (Arctic) [NATO]</English>
+					<Portuguese>Full Ghillie (Arctic) [NATO]</Portuguese>
+					<Korean>Full Ghillie (Arctic) [NATO]</Korean>
+					<Chinesesimp>Full Ghillie (Arctic) [NATO]</Chinesesimp>
+					<Japanese>Full Ghillie (Arctic) [NATO]</Japanese>
+					<Turkish>Full Ghillie (Arctic) [NATO]</Turkish>
+				</Key>
+			</Container>
+			<Container name="Vests">
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierIA1_greece0">
+					<Original>GA Carrier Lite [Greece]</Original>
+					<Chinese>GA 輕型負載背心 [Greece]</Chinese>
+					<French>Gilet léger AV [Greece]</French>
+					<Spanish>Cartuchera de AAF ligera [Greece]</Spanish>
+					<Italian>Gilet leggero aviazione [Greece]</Italian>
+					<Polish>Lekka kamizelka GA [Greece]</Polish>
+					<Russian>GA облегченный жилет [Greece]</Russian>
+					<German>Leichter Boden-Luft-Tragegurt [Greece]</German>
+					<Czech>GA nosič plátů - lehký [Greece]</Czech>
+					<English>GA Carrier Lite [Greece]</English>
+					<Portuguese>Transportador leve de GA [Greece]</Portuguese>
+					<Korean>GA 캐리어 라이트 [Greece]</Korean>
+					<Chinesesimp>GA 轻便背心 [Greece]</Chinesesimp>
+					<Japanese>GAキャリア・ライト [Greece]</Japanese>
+					<Turkish>GA Hafif Taşıyıcı [Greece]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierIA2_greece0">
+					<Original>GA Carrier Rig [Greece]</Original>
+					<Chinese>GA 負載外掛 [Greece]</Chinese>
+					<French>Gilet modulable léger AV [Greece]</French>
+					<Spanish>Cartuchera de AAF [Greece]</Spanish>
+					<Italian>Gilet Rig aviazione [Greece]</Italian>
+					<Polish>Kamizelka GA [Greece]</Polish>
+					<Russian>GA жилет [Greece]</Russian>
+					<German>Boden-Luft-Tragegurt [Greece]</German>
+					<Czech>GA Nosič plátů [Greece]</Czech>
+					<English>GA Carrier Rig [Greece]</English>
+					<Portuguese>Suporte de transportador de GA [Greece]</Portuguese>
+					<Korean>GA 캐리어 리그 [Greece]</Korean>
+					<Chinesesimp>GA 背心装备 [Greece]</Chinesesimp>
+					<Japanese>GAキャリアリグ [Greece]</Japanese>
+					<Turkish>GA Taşıyıcı Yelek [Greece]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrierIAGL_greece0">
+					<Original>GA Carrier GL Rig [Greece]</Original>
+					<Chinese>GA GL 負載外掛 [Greece]</Chinese>
+					<French>Gilet modulable pour grenadier [Greece]</French>
+					<Spanish>Cartuchera de AAF independiente [Greece]</Spanish>
+					<Italian>Gilet GL Rig aviazione [Greece]</Italian>
+					<Polish>Kamizelka GA grenadiera [Greece]</Polish>
+					<Russian>GA жилет гранатометчика [Greece]</Russian>
+					<German>Boden-Luft-Granatwerfer-Tragegurt [Greece]</German>
+					<Czech>GA GL Nosič plátů [Greece]</Czech>
+					<English>GA Carrier GL Rig [Greece]</English>
+					<Portuguese>Suporte de LG de transportador de GA [Greece]</Portuguese>
+					<Korean>GA 캐리어 GL 리그 [Greece]</Korean>
+					<Chinesesimp>GA 背心 GL 装备 [Greece]</Chinesesimp>
+					<Japanese>GAキャリアGLリグ [Greece]</Japanese>
+					<Turkish>GA Taşıyıcı GL Yelek [Greece]</Turkish>
+				</Key>
+		</Container>
+		<Container name="Data_F">
+			<Container name="Faction_Classes">
+				<Key ID="STR_A3_A_CfgFactionClasses_BLU_W_arc_F0">
+					<Original>NATO (Arctic)</Original>
+					<Chinese>NATO (極區)</Chinese>
+					<French>OTAN (arctique)</French>
+					<Spanish>OTAN (ártico)</Spanish>
+					<Italian>OTAN (artico)</Italian>
+					<Polish>NATO (region polarny)</Polish>
+					<Russian>НАТО (Арктика)</Russian>
+					<German>NATO (Arktisch)</German>
+					<Czech>NATO (arktické oblasti)</Czech>
+					<English>NATO (Arctic)</English>
+					<Portuguese>OTAN (Ártico)</Portuguese>
+					<Korean>NATO(북극)</Korean>
+					<Chinesesimp>NATO (北极)</Chinesesimp>
+					<Japanese>NATO（北極）</Japanese>
+					<Turkish>NATO (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_IND_G_arc_F0">
+					<Original>Armed Forces of Gotland</Original>
+					<Chinese>Armed Forces of Gotland</Chinese>
+					<French>Armed Forces of Gotland</French>
+					<Spanish>Armed Forces of Gotland</Spanish>
+					<Italian>Armed Forces of Gotland</Italian>
+					<Polish>Armed Forces of Gotland</Polish>
+					<Russian>Armed Forces of Gotland</Russian>
+					<German>Armed Forces of Gotland</German>
+					<Czech>Armed Forces of Gotland</Czech>
+					<English>Armed Forces of Gotland</English>
+					<Portuguese>Armed Forces of Gotland</Portuguese>
+					<Korean>Armed Forces of Gotland</Korean>
+					<Chinesesimp>NATO (北极)</Chinesesimp>
+					<Japanese>Armed Forces of Gotland</Japanese>
+					<Turkish>Armed Forces of Gotland</Turkish>
+				</Key>
+			</Container>
+		</Container>
+		<Container name="ContentLicensing">
+			<Key ID="STR_A3_A_CfgMods_Arctic_overview0">
+				<Original>**TO TRANSLATE**</Original>
+				<Chinese>**TO TRANSLATE**</Chinese>
+				<French>**TO TRANSLATE**</French>
+				<Spanish>**TO TRANSLATE**</Spanish>
+				<Italian>**TO TRANSLATE**</Italian>
+				<Polish>**TO TRANSLATE**</Polish>
+				<Russian>**TO TRANSLATE**</Russian>
+				<German>**TO TRANSLATE**</German>
+				<Czech>**TO TRANSLATE**</Czech>
+				<English>**TO TRANSLATE**</English>
+				<Portuguese>**TO TRANSLATE**</Portuguese>
+				<Korean>**TO TRANSLATE**</Korean>
+				<Chinesesimp>**TO TRANSLATE**</Chinesesimp>
+				<Japanese>**TO TRANSLATE**</Japanese>
+				<Turkish>**TO TRANSLATE**</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgMods_Arctic_name0">
+				<Original>Arma 3 Cold Front</Original>
+				<Chinese>Arma 3 Cold Front</Chinese>
+				<French>Arma 3 Cold Front</French>
+				<Spanish>Arma 3 Cold Front</Spanish>
+				<Italian>Arma 3 Cold Front</Italian>
+				<Polish>Arma 3 Cold Front</Polish>
+				<Russian>Arma 3 Cold Front</Russian>
+				<German>Arma 3 Cold Front</German>
+				<Czech>Arma 3 Cold Front</Czech>
+				<English>Arma 3 Cold Front</English>
+				<Portuguese>Arma 3 Cold Front</Portuguese>
+				<Korean>Arma 3 Cold Front</Korean>
+				<Chinesesimp>Arma 3 Cold Front</Chinesesimp>
+				<Japanese>Arma 3 Cold Front</Japanese>
+				<Turkish>Arma 3 Cold Front</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_CfgMods_Arctic_nameShort0">
+				<Original>Cold Front</Original>
+				<Chinese>Cold Front</Chinese>
+				<French>Cold Front</French>
+				<Spanish>Cold Front</Spanish>
+				<Italian>Cold Front</Italian>
+				<Polish>Cold Front</Polish>
+				<Russian>Cold Front</Russian>
+				<German>Cold Front</German>
+				<Czech>Cold Front</Czech>
+				<English>Cold Front</English>
+				<Portuguese>Cold Front</Portuguese>
+				<Korean>Cold Front</Korean>
+				<Chinesesimp>Cold Front</Chinesesimp>
+				<Japanese>Cold Front</Japanese>
+				<Turkish>Cold Front</Turkish>
+			</Key>
+		</Container>
+		<Container name="VhC">
+			<Key ID="STR_A3_A_TEXTURESOURCES_OLIVEARCTIC0">
+				<Original>Olive (Arctic Camo Net)</Original>
+				<Chinese>橄欖色（迷彩網，極區）</Chinese>
+				<French>Olive (filet camouflage arctique)</French>
+				<Spanish>Oliva (red de camuflaje de ártico)</Spanish>
+				<Italian>Verde oliva (rete mimetica artico)</Italian>
+				<Polish>Oliwkowy (siatka maskująca, region polarny)</Polish>
+				<Russian>Oлива (арктика камуфляжная сетка)</Russian>
+				<German>Oliv (Arktisch-Tarnnetz)</German>
+				<Czech>Olivová (arktické oblasti maskovací síť)</Czech>
+				<English>Olive (Arctic Camo Net)</English>
+				<Portuguese>Verde-oliva (rede de ártico camuflada)</Portuguese>
+				<Korean>올리브(북극 위장망)</Korean>
+				<Chinesesimp>橄榄色（北极伪装网）</Chinesesimp>
+				<Japanese>Olive（北極迷彩ネット）</Japanese>
+				<Turkish>Zeytin Yeşili (Buzul Kamf Ağ)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_TEXTURESOURCES_GREENARCTIC0">
+				<Original>Green (Arctic Camo Net)</Original>
+				<Chinese>綠色（迷彩網，極區）</Chinese>
+				<French>Vert (filet camouflage arctique)</French>
+				<Spanish>Verde (red de camuflaje de ártico)</Spanish>
+				<Italian>Verde (rete mimetica artico)</Italian>
+				<Polish>Zielony (siatka maskująca, region polarny)</Polish>
+				<Russian>Зеленый (арктика камуфляжная сетка)</Russian>
+				<German>Grün (Arktisch-Tarnnetz)</German>
+				<Czech>Zelená (arktické oblasti maskovací síť)</Czech>
+				<English>Green (Arctic Camo Net)</English>
+				<Portuguese>Verde (rede de ártico camuflada)</Portuguese>
+				<Korean>녹색(북극 위장망)</Korean>
+				<Chinesesimp>绿色（北极伪装网）</Chinesesimp>
+				<Japanese>緑（北極迷彩ネット）</Japanese>
+				<Turkish>Yeşil (Buzul Kamf Ağ)</Turkish>
+			</Key>
+			<Key ID="STR_A3_A_TEXTURESOURCES_Greece0">
+				<Original>Greece</Original>
+				<Chinese>Greece</Chinese>
+				<French>Greece</French>
+				<Spanish>Greece</Spanish>
+				<Italian>Greece</Italian>
+				<Polish>Greece</Polish>
+				<Russian>Greece</Russian>
+				<German>Greece</German>
+				<Czech>Greece</Czech>
+				<English>Greece</English>
+				<Portuguese>Greece</Portuguese>
+				<Korean>Greece</Korean>
+				<Chinesesimp>Greece</Chinesesimp>
+				<Japanese>Greece</Japanese>
+				<Turkish>Greece</Turkish>
+			</Key>
+		</Container>
+		<Container name="Supplies_F">
+			<Container name="Bags">
+				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_arc_F0">
+					<Original>Assault Pack (Arctic)</Original>
+					<Chinese>突擊背包（極區）</Chinese>
+					<French>Paquetage d'assaut (arctique)</French>
+					<Spanish>Mochila de asalto (ártico)</Spanish>
+					<Italian>Pacco da assalto (artico)</Italian>
+					<Polish>Plecak szturmowy (region polarny)</Polish>
+					<Russian>Штурмовой ранец (Арктика)</Russian>
+					<German>Angriffspack (Arktisch)</German>
+					<Czech>Průzkumnický batoh (arktické oblasti)</Czech>
+					<English>Assault Pack (Arctic)</English>
+					<Portuguese>Mochila de assalto (Ártico)</Portuguese>
+					<Korean>강습군장(북극)</Korean>
+					<Chinesesimp>突击包 (北极)</Chinesesimp>
+					<Japanese>アサルトパック（北極）</Japanese>
+					<Turkish>Saldırı Paketi (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_arc_F0">
+					<Original>Kitbag (Arctic)</Original>
+					<Chinese>背包（極區）</Chinese>
+					<French>Paquetage de terrain (arctique)</French>
+					<Spanish>Petate (ártico)</Spanish>
+					<Italian>Zaino militare (artico)</Italian>
+					<Polish>Plecak panelowy (region polarny)</Polish>
+					<Russian>Вещмешок (Арктика)</Russian>
+					<German>Ranzen (Arktisch)</German>
+					<Czech>Tlumok (arktické oblasti)</Czech>
+					<English>Kitbag (Arctic)</English>
+					<Portuguese>Bornal (Ártico)</Portuguese>
+					<Korean>잡낭(북극)</Korean>
+					<Chinesesimp>行军包（北极）</Chinesesimp>
+					<Japanese>雑嚢（北極）</Japanese>
+					<Turkish>Alet Çantası (Buzul)</Turkish>
+				</Key>
+			</Container>
+		</Container>
+		<Container name="Weapons_F">
+			<Container name="Binoculars">
+				<Key ID="STR_A3_A_CfgWeapons_NVGoggles_arc_F0">
+					<Original>NV Goggles (Arctic)</Original>
+					<Chinese>夜視鏡（極區）</Chinese>
+					<French>JVN (arctique)</French>
+					<Spanish>Sistema de visión nocturna (ártico)</Spanish>
+					<Italian>Occhiali notturni (artico)</Italian>
+					<Polish>Gogle noktowizyjne (region polarny)</Polish>
+					<Russian>ПНВ (Арктика)</Russian>
+					<German>NS-Brille (Arktisch)</German>
+					<Czech>Noktovizor (arktické oblasti)</Czech>
+					<English>NV Goggles (Arctic)</English>
+					<Portuguese>Óculos de visão noturna (Ártico)</Portuguese>
+					<Korean>야시경(북극)</Korean>
+					<Chinesesimp>夜视镜（北极）</Chinesesimp>
+					<Japanese>NVゴーグル（北極）</Japanese>
+					<Turkish>GG Gözlüğü (Buzul)</Turkish>
+				</Key>
+			</Container>
+			<Container name="LongRangeRifles">
+				<Key ID="STR_A3_A_CfgWeapons_srifle_DMR_03_arctic_F0">
+					<Original>SIG 556 (Arctic)</Original>
+					<Chinese>SIG 556（極區）</Chinese>
+					<French>SIG 556 (arctique)</French>
+					<Spanish>SIG 556 (ártico)</Spanish>
+					<Italian>SIG 556 (artico)</Italian>
+					<Polish>SIG 556 (region polarny)</Polish>
+					<Russian>SIG 556 (Арктика)</Russian>
+					<German>SIG 556 (Arktisch)</German>
+					<Czech>SIG 556 (arktické oblasti)</Czech>
+					<English>SIG 556 (Arctic)</English>
+					<Portuguese>SIG 556 (Ártico)</Portuguese>
+					<Korean>SIG 556 (북극)</Korean>
+					<Chinesesimp>SIG 556（北极）</Chinesesimp>
+					<Japanese>SIG 556（北極）</Japanese>
+					<Turkish>SIG 556 (Buzul)</Turkish>
+				</Key>
+			</Container>
+			<Container name="Rifles">
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12_arctic_F0">
+					<Original>AK-15 (Artic)</Original>
+					<Chinese>AK-15 (Artic)</Chinese>
+					<French>AK-15 (Artic)</French>
+					<Spanish>AK-15 (Artic)</Spanish>
+					<Italian>AK-15 (Artic)</Italian>
+					<Polish>AK-15 (Artic)</Polish>
+					<Russian>AK-15 (Artic)</Russian>
+					<German>AK-15 (Artic)</German>
+					<Czech>AK-15 (Artic)</Czech>
+					<English>AK-15 (Artic)</English>
+					<Portuguese>AK-15 (Artic)</Portuguese>
+					<Korean>AK-15 (Artic)</Korean>
+					<Chinesesimp>AK-15 (Artic)</Chinesesimp>
+					<Japanese>AK-15 (Artic)</Japanese>
+					<Turkish>AK-15 (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12_GL_arctic_F0">
+					<Original>AK-15 GL (Artic)</Original>
+					<Chinese>AK-15 GL (Artic)</Chinese>
+					<French>AK-15 GL (Artic)</French>
+					<Spanish>AK-15 GL (Artic)</Spanish>
+					<Italian>AK-15 GL (Artic)</Italian>
+					<Polish>AK-15 GL (Artic)</Polish>
+					<Russian>AK-15 GL (Artic)</Russian>
+					<German>AK-15 GL (Artic)</German>
+					<Czech>AK-15 GL (Artic)</Czech>
+					<English>AK-15 GL (Artic)</English>
+					<Portuguese>AK-15 GL (Artic)</Portuguese>
+					<Korean>AK-15 GL (Artic)</Korean>
+					<Chinesesimp>AK-15 GL (Artic)</Chinesesimp>
+					<Japanese>AK-15 GL (Artic)</Japanese>
+					<Turkish>AK-15 GL (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12U_arctic_F0">
+					<Original>AK-15K (Artic)</Original>
+					<Chinese>AK-15K (Artic)</Chinese>
+					<French>AK-15K (Artic)</French>
+					<Spanish>AK-15K (Artic)</Spanish>
+					<Italian>AK-15K (Artic)</Italian>
+					<Polish>AK-15K (Artic)</Polish>
+					<Russian>AK-15K (Artic)</Russian>
+					<German>AK-15K (Artic)</German>
+					<Czech>AK-15K (Artic)</Czech>
+					<English>AK-15K (Artic)</English>
+					<Portuguese>AK-15K (Artic)</Portuguese>
+					<Korean>AK-15K (Artic)</Korean>
+					<Chinesesimp>AK-15K (Artic)</Chinesesimp>
+					<Japanese>AK-15K (Artic)</Japanese>
+					<Turkish>AK-15K (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_RPK12_arctic_F0">
+					<Original>RPK-12 (Artic)</Original>
+					<Chinese>RPK-12 (Artic)</Chinese>
+					<French>RPK-12 (Artic)</French>
+					<Spanish>RPK-12 (Artic)</Spanish>
+					<Italian>RPK-12 (Artic)</Italian>
+					<Polish>RPK-12 (Artic)</Polish>
+					<Russian>RPK-12 (Artic)</Russian>
+					<German>RPK-12 (Artic)</German>
+					<Czech>RPK-12 (Artic)</Czech>
+					<English>RPK-12 (Artic)</English>
+					<Portuguese>RPK-12 (Artic)</Portuguese>
+					<Korean>RPK-12 (Artic)</Korean>
+					<Chinesesimp>RPK-12 (Artic)</Chinesesimp>
+					<Japanese>RPK-12 (Artic)</Japanese>
+					<Turkish>RPK-12 (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12_545_arctic_F0">
+					<Original>AK-12 (Artic)</Original>
+					<Chinese>AK-12 (Artic)</Chinese>
+					<French>AK-12 (Artic)</French>
+					<Spanish>AK-12 (Artic)</Spanish>
+					<Italian>AK-12 (Artic)</Italian>
+					<Polish>AK-12 (Artic)</Polish>
+					<Russian>AK-12 (Artic)</Russian>
+					<German>AK-12 (Artic)</German>
+					<Czech>AK-12 (Artic)</Czech>
+					<English>AK-12 (Artic)</English>
+					<Portuguese>AK-12 (Artic)</Portuguese>
+					<Korean>AK-12 (Artic)</Korean>
+					<Chinesesimp>AK-12 (Artic)</Chinesesimp>
+					<Japanese>AK-12 (Artic)</Japanese>
+					<Turkish>AK-12 (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12_545_GL_arctic_F0">
+					<Original>AK-12 GL (Artic)</Original>
+					<Chinese>AK-12 GL (Artic)</Chinese>
+					<French>AK-12 GL (Artic)</French>
+					<Spanish>AK-12 GL (Artic)</Spanish>
+					<Italian>AK-12 GL (Artic)</Italian>
+					<Polish>AK-12 GL (Artic)</Polish>
+					<Russian>AK-12 GL (Artic)</Russian>
+					<German>AK-12 GL (Artic)</German>
+					<Czech>AK-12 GL (Artic)</Czech>
+					<English>AK-12 GL (Artic)</English>
+					<Portuguese>AK-12 GL (Artic)</Portuguese>
+					<Korean>AK-12 GL (Artic)</Korean>
+					<Chinesesimp>AK-12 GL (Artic)</Chinesesimp>
+					<Japanese>AK-12 GL (Artic)</Japanese>
+					<Turkish>AK-12 GL (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_AK12U_545_arctic_F0">
+					<Original>AK-12K (Artic)</Original>
+					<Chinese>AK-12K (Artic)</Chinese>
+					<French>AK-12K (Artic)</French>
+					<Spanish>AK-12K (Artic)</Spanish>
+					<Italian>AK-12K (Artic)</Italian>
+					<Polish>AK-12K (Artic)</Polish>
+					<Russian>AK-12K (Artic)</Russian>
+					<German>AK-12K (Artic)</German>
+					<Czech>AK-12K (Artic)</Czech>
+					<English>AK-12K (Artic)</English>
+					<Portuguese>AK-12K (Artic)</Portuguese>
+					<Korean>AK-12K (Artic)</Korean>
+					<Chinesesimp>AK-12K (Artic)</Chinesesimp>
+					<Japanese>AK-12K (Artic)</Japanese>
+					<Turkish>AK-12K (Artic)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_SPAR_01_arc_F0">
+					<Original>HK416A5 11 " (Arctic)</Original>
+					<Chinese>HK416A5 11 "（極區）</Chinese>
+					<French>HK416A5 11 " (arctique)</French>
+					<Spanish>HK416A5 11 " (ártico)</Spanish>
+					<Italian>HK416A5 11 " (artico)</Italian>
+					<Polish>HK416A5 11 " (region polarny)</Polish>
+					<Russian>HK416A5 11 " (Арктика)</Russian>
+					<German>HK416A5 11 " (Arktisch)</German>
+					<Czech>HK416A5 11 " (arktické oblasti)</Czech>
+					<English>HK416A5 11 " (Arctic)</English>
+					<Portuguese>HK416A5 11 " (Ártico)</Portuguese>
+					<Korean>HK416A5 11 " (북극)</Korean>
+					<Chinesesimp>HK416A5 11 "（北极）</Chinesesimp>
+					<Japanese>HK416A5 11 "（北極）</Japanese>
+					<Turkish>HK416A5 11 " (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_SPAR_01_C_arc_F0">
+					<Original>HK416A5 11 " (Arctic)</Original>
+					<Chinese>HK416A5 11 "（極區）</Chinese>
+					<French>HK416A5 11 " (arctique)</French>
+					<Spanish>HK416A5 11 " (ártico)</Spanish>
+					<Italian>HK416A5 11 " (artico)</Italian>
+					<Polish>HK416A5 11 " (region polarny)</Polish>
+					<Russian>HK416A5 11 " (Арктика)</Russian>
+					<German>HK416A5 11 " (Arktisch)</German>
+					<Czech>HK416A5 11 " (arktické oblasti)</Czech>
+					<English>HK416A5 11 " (Arctic)</English>
+					<Portuguese>HK416A5 11 " (Ártico)</Portuguese>
+					<Korean>HK416A5 11 " (북극)</Korean>
+					<Chinesesimp>HK416A5 11 "（北极）</Chinesesimp>
+					<Japanese>HK416A5 11 "（北極）</Japanese>
+					<Turkish>HK416A5 11 " (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_SPAR_01_GL_arc_F0">
+					<Original>HK416A5 11 " G (Arctic)</Original>
+					<Chinese>HK416A5 11 " G（極區）</Chinese>
+					<French>HK416A5 11 " G (arctique)</French>
+					<Spanish>HK416A5 11 " G (ártico)</Spanish>
+					<Italian>HK416A5 11 " G (artico)</Italian>
+					<Polish>HK416A5 11 " G (region polarny)</Polish>
+					<Russian>HK416A5 11 " G (Арктика)</Russian>
+					<German>HK416A5 11 " G (Arktisch)</German>
+					<Czech>HK416A5 11 " G (arktické oblasti)</Czech>
+					<English>HK416A5 11 " G (Arctic)</English>
+					<Portuguese>HK416A5 11 " G (Ártico)</Portuguese>
+					<Korean>HK416A5 11 " G (북극)</Korean>
+					<Chinesesimp>HK416A5 11 " G（北极）</Chinesesimp>
+					<Japanese>HK416A5 11 " G（北極）</Japanese>
+					<Turkish>HK416A5 11 " G (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_SPAR_02_arc_F0">
+					<Original>HK416A5 14.5 " (Arctic)</Original>
+					<Chinese>HK416A5 14.5 "（極區）</Chinese>
+					<French>HK416A5 14.5 " (arctique)</French>
+					<Spanish>HK416A5 14.5 " (ártico)</Spanish>
+					<Italian>HK416A5 14.5 " (artico)</Italian>
+					<Polish>HK416A5 14.5 " (region polarny)</Polish>
+					<Russian>HK416A5 14.5 " (Арктика)</Russian>
+					<German>HK416A5 14.5 " (Arktisch)</German>
+					<Czech>HK416A5 14.5 " (arktické oblasti)</Czech>
+					<English>HK416A5 14.5 " (Arctic)</English>
+					<Portuguese>HK416A5 14.5 " (Ártico)</Portuguese>
+					<Korean>HK416A5 14.5 " (북극)</Korean>
+					<Chinesesimp>HK416A5 14.5 "（北极）</Chinesesimp>
+					<Japanese>HK416A5 14.5 "（北極）</Japanese>
+					<Turkish>HK416A5 14.5 " (Buzul)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_arifle_SPAR_03_arc_F0">
+					<Original>HK417A2 20 " (Arctic)</Original>
+					<Chinese>HK417A2 20 "（極區）</Chinese>
+					<French>HK417A2 20 " (arctique)</French>
+					<Spanish>HK417A2 20 " (ártico)</Spanish>
+					<Italian>HK417A2 20 " (artico)</Italian>
+					<Polish>HK417A2 20 " (region polarny)</Polish>
+					<Russian>HK417A2 20 " (Арктика)</Russian>
+					<German>HK417A2 20 " (Arktisch)</German>
+					<Czech>HK417A2 20 " (arktické oblasti)</Czech>
+					<English>HK417A2 20 " (Arctic)</English>
+					<Portuguese>HK417A2 20 " (Ártico)</Portuguese>
+					<Korean>HK417A2 20 " (북극)</Korean>
+					<Chinesesimp>HK417A2 20 "（北极）</Chinesesimp>
+					<Japanese>HK417A2 20 "（北極）</Japanese>
+					<Turkish>HK417A2 20 " (Buzul)</Turkish>
+				</Key>
+			</Container>
+		</Container>
+	</Package>
+</Project>

@@ -890,7 +890,7 @@ class cfgVehicles
 	class B_UN_APC_Wheeled_01_cannon_lxWS: B_APC_Wheeled_01_cannon_lxWS
 	{
 		displayname="Badger IFV";
-	}	
+	}
 	class B_ION_APC_Wheeled_01_cannon_lxWS: B_APC_Wheeled_01_cannon_lxWS
 	{
 		displayname="Badger IFV";

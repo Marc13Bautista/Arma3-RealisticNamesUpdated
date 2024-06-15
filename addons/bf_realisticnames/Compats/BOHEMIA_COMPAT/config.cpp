@@ -58,6 +58,33 @@ class cfgWeapons
 	{
 		displayName="CZ/DT11 Drake (Sawed-Off)";
 	}
+// Renamed "RPK" (variants) to "RPK-15" from Contact
+//  "RPK" (variants) -> "RPK-15"
+	class arifle_RPK12_base_F;
+	class arifle_RPK12_F: arifle_RPK12_base_F
+	{
+		displayName="RPK-15";
+	}
+		class arifle_RPK12_arid_F: arifle_RPK12_base_F
+	{
+		displayName="RPK-15";
+	}
+		class arifle_RPK12_lush_F: arifle_RPK12_base_F
+	{
+		displayName="RPK-15";
+	}
+// Vanilla Assets by Bohemia Interactive 
+// PRIMARY ATTACHMENTS
+// "TWS" -> "LILY-S TWS" *For short-range use for assault rifles and sub-machine guns.
+	class optic_tws: ItemCore
+	{
+		displayName="LILY-S TWS";
+	}
+// "TWS MG" -> "LILY-M TWS" *For medium-range use for machine guns.
+	class optic_tws_mg: ItemCore
+	{
+		displayName="LILY-M TWS";
+	}
 // Contact DLC by Bohemia Interactive
 // PRIMARY ATTACHMENTS
 // Renamed PMS (Promet Modular Sight) variants to Grot Modular Sight. The PMS is inspired by the integrated 1.5X telescope sight for the VHS D2 Assault Rifle. In-game, it's a non-integrated sight for the MSBS Grot (translated: Modular Firearm System "Spearhead") series however. Simply renaming it as the Spearhead Modular Sight would be the middleground. 
@@ -88,6 +115,19 @@ class cfgWeapons
 	class optic_MRD_black: optic_MRD
 	{
 		displayName="EOTech MRDS (Black)";
+	}
+// Contact DLC by Bohemia Interactive
+// LAUNCHERS
+// "RPG-42 (Camo)" -> "RPG-32 (Camo)"
+	class launch_RPG32_F;
+	class launch_RPG32_camo_F: launch_RPG32_F
+	{
+		displayName="RPG-32 (Camo)";
+	}
+// "RPG-42 (Green)" -> "RPG-32 (Green)"
+	class launch_RPG32_green_F: launch_RPG32_F
+	{
+		displayName="RPG-32 (Green)";
 	}
 };
 
@@ -131,6 +171,24 @@ class cfgVehicles
 	class O_T_Truck_02_F: Truck_02_base_F
 	{
 		displayName="KamAZ Transport (Covered)";
+	}
+// "V-44 X Blackfish (Armed)" -> "ACV-44 Blackfish" [BLUFOR- NATO (Pacific)]
+	class VTOL_01_armed_base_F;
+	class B_T_VTOL_01_armed_F: VTOL_01_armed_base_F
+	{
+		displayName="ACV-44 Blackfish";
+	}
+// "V-44 X Blackfish (Infantry Transport)" -> "CV-44 Blackfish (Infantry Transport)" [BLUFOR- NATO (Pacific)]
+	class VTOL_01_infantry_base_F;
+	class B_T_VTOL_01_infantry_F: VTOL_01_infantry_base_F
+	{
+		displayName="CV-44 Blackfish (Infantry Transport)";
+	}
+// "V-44 X Blackfish (Vehicle Transport)" -> "CV-44 Blackfish (Vehicle Transport)" [BLUFOR- NATO (Pacific)]
+	class VTOL_01_vehicle_base_F;
+	class B_T_VTOL_01_vehicle_F: VTOL_01_vehicle_base_F
+	{
+		displayName="CV-44 Blackfish (Vehicle Transport)";
 	}
 // Contact DLC by Bohemia Interactive
 // VEHICLES
