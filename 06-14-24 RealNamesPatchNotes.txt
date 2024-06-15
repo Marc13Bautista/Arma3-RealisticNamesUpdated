@@ -1,0 +1,33 @@
+6/14/24 AEGIS SUITE MOD COMPATIBILITY PATCHES ADDED
+*These compatibility patches will be applied if you have these mods loaded. HOWEVER!!! Make sure to load Realistic Names mod LAST (at the very bottom) of your Arma 3 Addon Launcher (after Aegis), as Aegis can overwrite the realistic names again.
+
+> Added Realistic Names compatbility to the following AEGIS mods:
+- Arma 3 Aegis, Aegis - Marines, Aegis - Police, Athena, Atlas, Atlas - Opposing Forces, Revolución
+*Changed fictional 2035 naming for weapons, attachments, and vehicles to their real-life counterpart.
+- Added Compat Patch for "Campaign Compatible ACE (works w Old Man too !)"
+*Made a compat patch to overwrite the old ace realisticnames module that this version still uses.
+
+> Other Changes:
+- Renamed "RPK" (variants) to "RPK-15" from Contact
+- Renamed "RPG-42 (Camo)" to "RPG-32 (Camo)" from Contact
+- Renamed "RPG-42 (Green)" -> "RPG-32 (Green)" from Contact
+- Renamed NATO "AW159 Wildcat" to "AW159 Wildcat (UP)" from RF
+- Renamed NATO "AW159 Wildcat (Unarmed)" to "AW159 Wildcat (UP, Unarmed)" from RF
+- Renamed "AV-44X Blackfish" to "ACV-44 Blackfish" 
+- Renamed "MV-44 X Blackfish (Infantry Transport)" to "CV-44 Blackfish (Infantry Transport)"
+- Renamed "MV-44 X Blackfish (Vehicle Transport)" to "CV-44 Blackfish (Vehicle Transport)"
+*Using US Forces Enhanced 2025 mod naming logic.
+- Renamed "TWS" to "LILY-S TWS" for Vanilla scopes
+*For short-range use for assault rifles and sub-machine guns
+- Renamed "TWS MG" to "LILY-M TWS" for Vanilla scopes
+*For medium-range use for machine guns
+- Renamed "TWS Sniper" to "LILY-L TWS" for AEGIS.
+*The third member of the family, the LILY-L, is a cooled Thermal Imager for long range use for snipers.
+*Based on this: https://www.army-guide.com/eng/article/article_961.html
+
+Github Repo for the full changelog and un-binarized files can be found here:
+- https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
+
+
+
+
