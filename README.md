@@ -35,7 +35,7 @@ In accordance with the license, every modified file has a disclaimer added. The 
 - [stringtable.xml], => added new translations and latest CUP compat fix
 
 # Notes
-- This mod also renames content in the following mods: JCA M320, Ravage, O&T Expansion, ANZACSAS Napalm and WP Smoke marker rockets
+- This mod also renames content in the following mods: JCA M320, Ravage, O&T Expansion, ANZACSAS Napalm and WP Smoke marker rockets, Arma 3 Aegis 
 - Axle has already created Real Names mods for SOG Prairie Fire, Global Mobilization, and CSLA:
 > SOG PF: https://steamcommunity.com/sharedfiles/filedetails/?id=3197933562
 > GM: https://steamcommunity.com/sharedfiles/filedetails/?id=3197921323
