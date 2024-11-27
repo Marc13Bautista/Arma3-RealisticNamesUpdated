@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BF">
+    <Package name="RealisticNames_EF">
+        <Key ID="STR_EF_AH99J">
+			<Original>RAH-66J Comanche</Original>
+		</Key>
+		<Key ID="STR_EF_COMBATBOAT_UNARMED_DN">
+			<Original>CB90 HSM</Original>
+		</Key>
+        <Key ID="STR_EF_COMBATBOAT_HMG_DN">
+			<Original>CB90 HSM (HMG)</Original>
+		</Key>
+        <Key ID="STR_EF_COMBATBOAT_AT_DN">
+			<Original>CB90 HSM (AT)</Original>
+		</Key>
+		<Key ID="STR_EF_LCC_BASE">
+			<Original>LCC-1</Original>
+		</Key>
+		<Key ID="STR_EF_LCC_SIDELOAD_BASE">
+			<Original>LCC-1 (Side Load)</Original>
+		</Key>
+        <Key ID="STR_EF_Hunter_LAAD_DN">
+			<Original>M-ATV (LAAD)</Original>
+		</Key>
+        <Key ID="STR_EF_Hunter_FSV_DN">
+			<Original>M-ATV (FSV)</Original>
+		</Key>
+        <Key ID="STR_EF_Hunter_AT_DN">
+			<Original>M-ATV (AT)</Original>
+		</Key>
+        <Key ID="STR_EF_AAV9_DN">
+			<Original>EFV</Original>
+		</Key>
+        <Key ID="STR_EF_AAV9_50mm_DN">
+			<Original>EFVA1</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_DN">
+			<Original>MXAR</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_GL_DN">
+			<Original>MXAR 3GL</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_Black_DN">
+			<Original>MXAR (Black)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_GL_Black_DN">
+			<Original>MXAR 3GL (Black)</Original>
+		</Key>
+         <Key ID="STR_EF_arifle_MXAR_khk_DN">
+			<Original>MXAR (Khaki)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_GL_khk_DN">
+			<Original>MXAR 3GL (Khaki)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_Coy_DN">
+			<Original>MXAR (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXAR_gl_Coy_DN">
+			<Original>MXAR 3GL (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXC_Coy_DN">
+			<Original>MXC (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MX_Coy_DN">
+			<Original>MX (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MX_GL_Coy_DN">
+			<Original>MX 3GL (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MX_SW_Coy_DN">
+			<Original>MX LSW (Coyote)</Original>
+		</Key>
+        <Key ID="STR_EF_arifle_MXM_Coy_DN">
+			<Original>MXM (Coyote)</Original>
+		</Key>
+        <Key ID="STR_ef_hgun_Pistol_heavy_01_coy">
+			<Original>FNX-45 Tactical (Coyote)</Original>
+		</Key>
+        <Key ID="STR_ef_hgun_P07_coy">
+			<Original>P99 (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_Holosight_coy">
+			<Original>EOTech XPS3 (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_Holosight_smg_coy">
+			<Original>EOTech XPS3 SMG (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_LPNVG_DN">
+			<Original>AN/PVS-21 (Black)</Original>
+		</Key>
+		<Key ID="STR_EF_LPNVG_T_DN">
+			<Original>AN/PVS-21-T (Black)</Original>
+		</Key>
+		<Key ID="STR_EF_LPNVG_Tan_DN">
+			<Original>AN/PVS-21 (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_LPNVG_T_Tan_DN">
+			<Original>AN/PVS-21-T (Coyote)</Original>
+		</Key>
+    </Package>
+</Project>
