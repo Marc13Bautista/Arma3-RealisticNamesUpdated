@@ -43,8 +43,17 @@ Added support for Expeditionary Forces CDLC:
 - COMBAT BOAT (UNARMED) > CB90 HSM
 - COMBAT BOAT (HMG) > CB90 HSM (HMG)
 - COMBAT BOAT (AT) > CB90 HSM (AT)
-- LCC-1 > LCC-1 *Likely fictional
-- LCC-1 (SIDE LOAD) > LCC-1 (Side Load)
+- LCC-1 > L-CAT
+- LCC-1 (SIDE LOAD) > L-CAT (Side Load)
 
 (AIR)
 - AH99J > RAH-66J Comanche
+
+(TURRETS)
+- Mk66 50 mm Cannon > MK 46 (GWS)
+
+*HOTFIX 1 (Thanks again Axle!)
+- LCC-1 is based off the real world L-CAT
+- Added turret rename for Mk66 to real world Mk 46 (GWS)
+- Added missing renames for Pickup Variants from Reaction Forces
+- Unknown if the MBS and MicroSights are based on real sights. Likely fictional like the MOS sight though.
