@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="BF">
     <Package name="RealisticNames_EF">
+		<Key ID="STR_EF_LPD_Turret_1">
+			<Original>MK 46 (GWS)</Original>
+		</Key>
         <Key ID="STR_EF_AH99J">
 			<Original>RAH-66J Comanche</Original>
 		</Key>
@@ -14,10 +17,10 @@
 			<Original>CB90 HSM (AT)</Original>
 		</Key>
 		<Key ID="STR_EF_LCC_BASE">
-			<Original>LCC-1</Original>
+			<Original>L-CAT</Original>
 		</Key>
 		<Key ID="STR_EF_LCC_SIDELOAD_BASE">
-			<Original>LCC-1 (Side Load)</Original>
+			<Original>L-CAT (Side Load)</Original>
 		</Key>
         <Key ID="STR_EF_Hunter_LAAD_DN">
 			<Original>M-ATV (LAAD)</Original>
@@ -97,5 +100,114 @@
 		<Key ID="STR_EF_LPNVG_T_Tan_DN">
 			<Original>AN/PVS-21-T (Coyote)</Original>
 		</Key>
+		<Key ID="STR_LXRF_Pickup_base">
+        <Original>Ram 1500</Original>
+        <English>Ram 1500</English>
+        <French>Pick-up</French>
+        <Polish>Ram 1500</Polish>
+        <German>Ram 1500</German>
+        <Spanish>Camioneta</Spanish>
+        <Russian>Пикап</Russian>
+        <Chinesesimp>皮卡</Chinesesimp>
+        <Portuguese>Picape</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_fuel">
+        <Original>Ram 1500 (Fuel)</Original>
+        <English>Ram 1500 (Fuel)</English>
+        <French>Pick-up (carburant)</French>
+        <Polish>Ram 1500 (paliwo)</Polish>
+        <German>Ram 1500 (Treibstoff)</German>
+        <Spanish>Camioneta (combustible)</Spanish>
+        <Russian>Пикап (с топливным баком)</Russian>
+        <Chinesesimp>皮卡（燃料）</Chinesesimp>
+        <Portuguese>Picape (Combustível)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_hmg">
+        <Original>Ram 1500 (M2HB)</Original>
+        <English>Ram 1500 (M2HB)</English>
+        <French>Ram 1500 (M2HB)</French>
+        <Polish>Ram 1500 (M2HB)</Polish>
+        <German>Ram 1500 (M2HB)</German>
+        <Spanish>Ram 1500 (M2HB)</Spanish>
+        <Russian>Ram 1500 (M2HB)</Russian>
+        <Chinesesimp>Ram 1500 (M2HB)</Chinesesimp>
+        <Portuguese>Ram 1500 (M2HB)</Portuguese>
+    <Key ID="STR_LXRF_Pickup_mmg">
+        <Original>Ram 1500 (LWMMG)</Original>
+        <English>Ram 1500 (LWMMG)</English>
+        <French>Ram 1500 (LWMMG)</French>
+        <Polish>Ram 1500 (LWMMG)</Polish>
+        <German>Ram 1500 (LWMMG)</German>
+        <Spanish>Ram 1500 (LWMMG)</Spanish>
+        <Russian>Ram 1500 (LWMMG)</Russian>
+        <Chinesesimp>Ram 1500 (LWMMG)</Chinesesimp>
+        <Portuguese>Ram 1500 (LWMMG)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_aa">
+        <Original>Ram 1500 (VAMPIRE/AA)</Original>
+        <English>Ram 1500 (VAMPIRE/AA)</English>
+        <French>Ram 1500 (VAMPIRE/AA)</French>
+        <Polish>Ram 1500 (VAMPIRE/AA)</Polish>
+        <German>Ram 1500 (VAMPIRE/AA)</German>
+        <Spanish>Ram 1500 (VAMPIRE/AA)</Spanish>
+        <Russian>Ram 1500 (VAMPIRE/AA)</Russian>
+        <Chinesesimp>Ram 1500 (VAMPIRE/AA)</Chinesesimp>
+        <Portuguese>Ram 1500 (VAMPIRE/AA)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_mrl">
+        <Original>Ram 1500 (MRL)</Original>
+        <English>Ram 1500 (MRL)</English>
+        <French>Pick-up (MRL)</French>
+        <Polish>Ram 1500 (WWR)</Polish>
+        <German>Ram 1500 (MRL)</German>
+        <Spanish>Camioneta (lanzacohetes múltiple)</Spanish>
+        <Russian>Пикап (РСЗО)</Russian>
+        <Chinesesimp>皮卡（多管火箭炮）</Chinesesimp>
+        <Portuguese>Picape (LMF)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_service">
+        <Original>Ram 1500 (Services)</Original>
+        <English>Ram 1500 (Services)</English>
+        <French>Pick-up (maintenance)</French>
+        <Polish>Ram 1500 (służby)</Polish>
+        <German>Ram 1500 (Services)</German>
+        <Spanish>Camioneta (servicios)</Spanish>
+        <Russian>Пикап (служебный)</Russian>
+        <Chinesesimp>皮卡（后勤）</Chinesesimp>
+        <Portuguese>Picape (Serviços)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_comms">
+        <Original>Ram 1500 (Comms)</Original>
+        <English>Ram 1500 (Comms)</English>
+        <French>Pick-up (communication)</French>
+        <Polish>Ram 1500 (komunikacja)</Polish>
+        <German>Ram 1500 (Kommunikation)</German>
+        <Spanish>Camioneta (comunicaciones)</Spanish>
+        <Russian>Пикап (связь)</Russian>
+        <Chinesesimp>皮卡（通讯）</Chinesesimp>
+        <Portuguese>Picape (Comunicação)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_covered">
+        <Original>Ram 1500 (Covered)</Original>
+        <English>Ram 1500 (Covered)</English>
+        <French>Pick-up (couvert)</French>
+        <Polish>Ram 1500 (obudowany)</Polish>
+        <German>Ram 1500 (Abgedeckt)</German>
+        <Spanish>Camioneta (cubierta)</Spanish>
+        <Russian>Пикап (крытый)</Russian>
+        <Chinesesimp>皮卡（有遮蓬）</Chinesesimp>
+        <Portuguese>Picape (Coberta)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_water">
+        <Original>Ram 1500 (Water)</Original>
+        <English>Ram 1500 (Water)</English>
+        <French>Pick-up (eau)</French>
+        <Polish>Ram 1500 (woda)</Polish>
+        <German>Ram 1500 (Wasser)</German>
+        <Spanish>Camioneta (agua)</Spanish>
+        <Russian>Пикап (водовоз)</Russian>
+        <Chinesesimp>皮卡（水）</Chinesesimp>
+        <Portuguese>Picape (Água)</Portuguese>
+    </Key>
     </Package>
 </Project>
