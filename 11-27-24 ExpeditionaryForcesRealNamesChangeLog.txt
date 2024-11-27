@@ -1,0 +1,49 @@
+11/27/24 EXPEDITIONARY FORCES CDLC SUPPORT ADDED (THANKS TO AXLE FOR THIS!!!)
+
+Added support for Expeditionary Forces CDLC:
+(PRIMARY WEAPONS)
+- MXAR > MXAR *Kept the same, like the MX series.
+- MXAR 3GL > MXAR 3GL
+- MXAR (Black) > MXAR (Black)
+- MXAR 3GL (Black) > MXAR 3GL (Black)
+- MXAR (Khaki) > MXAR (Khaki)
+- MXAR 3GL (Khaki) > MXAR 3GL (Khaki)
+- MXAR (Coyote) > MXAR (Coyote)
+- MXAR 3GL (Coyote) > MXAR 3GL (Coyote)
+- MXC (Coyote) > MXC (Coyote)
+- MX (Coyote) > MX (Coyote)
+- MX 3GL (Coyote) > MX 3GL (Coyote)
+- MX LSW (Coyote) > MX LSW (Coyote)
+- MXM (Coyote) > MXM (Coyote)
+
+(GEAR)
+- LPNVG > AN/PVS-21 (Black)
+- LPNVG-T > AN/PVS-21-T (Black)
+- LPNVG (Coyote) > AN/PVS-21 (Coyote)
+- LPNVG-T (Coyote) AN/PVS-21-T (Coyote)
+
+(SECONDARY WEAPONS)
+- 4-five (Coyote) > FNX-45 Tactical (Coyote)
+- P07 (Coyote) > P99 (Coyote)
+
+(PRIMARY ATTACHMENTS)
+- Mk17 Holosight (Coyote) > EOTech XPS3 (Coyote)
+- Mk17 Holosight SMG (Coyote) > EOTech XPS3 SMG (Coyote)
+
+(VEHICLES)
+(LAND)
+- Hunter (LAAD) > M-ATV (LAAD)
+- Hunter (FSV) > M-ATV (FSV)
+- Hunter (AT) > M-ATV (AT)
+- AAV9 > EFV
+- AAV9 (50mm) > EFVA1
+
+(SEA)
+- COMBAT BOAT (UNARMED) > CB90 HSM
+- COMBAT BOAT (HMG) > CB90 HSM (HMG)
+- COMBAT BOAT (AT) > CB90 HSM (AT)
+- LCC-1 > LCC-1 *Likely fictional
+- LCC-1 (SIDE LOAD) > LCC-1 (Side Load)
+
+(AIR)
+- AH99J > RAH-66J Comanche
