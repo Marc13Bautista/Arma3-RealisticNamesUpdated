@@ -36,8 +36,8 @@ Added support for Expeditionary Forces CDLC:
 - Hunter (LAAD) > M-ATV (LAAD)
 - Hunter (FSV) > M-ATV (FSV)
 - Hunter (AT) > M-ATV (AT)
-- AAV9 > EFV
-- AAV9 (50mm) > EFVA1
+- AAV9 > EFVP1
+- AAV9 (50mm) > EFVP1 (UP)
 
 (SEA)
 - COMBAT BOAT (UNARMED) > CB90 HSM
@@ -52,8 +52,12 @@ Added support for Expeditionary Forces CDLC:
 (TURRETS)
 - Mk66 50 mm Cannon > MK 46 (GWS)
 
-*HOTFIX 1 (Thanks again Axle!)
+*EXPEDITIONARY FORCES CDLC HOTFIX 1 (Thanks again Axle!)
 - LCC-1 is based off the real world L-CAT
 - Added turret rename for Mk66 to real world Mk 46 (GWS)
 - Added missing renames for Pickup Variants from Reaction Forces
 - Unknown if the MBS and MicroSights are based on real sights. Likely fictional like the MOS sight though.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 2
+- Renamed EFV to EFVP1 and the 50mm variant to (UP) as it has an upgraded 50mm gun
+- Forgot to add a missing LWMMG rename for RF Pickups
