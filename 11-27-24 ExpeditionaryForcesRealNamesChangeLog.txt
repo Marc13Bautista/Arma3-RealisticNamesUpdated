@@ -1,4 +1,5 @@
-11/27/24 EXPEDITIONARY FORCES CDLC SUPPORT ADDED (THANKS TO AXLE FOR THIS!!!)
+11/27/24 EXPEDITIONARY FORCES CDLC SUPPORT ADDED
+*Thanks to Axle for doing the renaming work!
 
 Added support for Expeditionary Forces CDLC:
 (PRIMARY WEAPONS)
