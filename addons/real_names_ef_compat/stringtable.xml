@@ -89,28 +89,28 @@
 			<Original>EOTech XPS3 SMG (Coyote)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs ">
-			<Original>ELCAN SpecterDS</Original>
+			<Original>ELCAN SpecterDR</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_remote">
-			<Original>ELCAN SpecterDS (Remote)</Original>
+			<Original>ELCAN SpecterDR (Remote)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_coy">
-			<Original>ELCAN SpecterDS (Coyote)</Original>
+			<Original>ELCAN SpecterDR (Coyote)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_remote_coy">
-			<Original>ELCAN SpecterDS (Remote, Coyote)</Original>
+			<Original>ELCAN SpecterDR (Remote, Coyote)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_khk">
-			<Original>ELCAN SpecterDS (Khaki)</Original>
+			<Original>ELCAN SpecterDR (Khaki)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_remote_khk">
-			<Original>ELCAN SpecterDS (Remote, Khaki)</Original>
+			<Original>ELCAN SpecterDR (Remote, Khaki)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_sand">
-			<Original>ELCAN SpecterDS (Sand)</Original>
+			<Original>ELCAN SpecterDR (Sand)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_remote_sand">
-			<Original>ELCAN SpecterDS (Remote, Sand)</Original>
+			<Original>ELCAN SpecterDR (Remote, Sand)</Original>
 		</Key>
 		<Key ID="STR_EF_optic_microsight">
 			<Original>Aimpoint ACRO P-2</Original>
