@@ -88,6 +88,54 @@
 		<Key ID="STR_EF_optic_Holosight_smg_coy">
 			<Original>EOTech XPS3 SMG (Coyote)</Original>
 		</Key>
+		<Key ID="STR_EF_optic_mbs ">
+			<Original>ELCAN SpecterDS</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_remote">
+			<Original>ELCAN SpecterDS (Remote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_coy">
+			<Original>ELCAN SpecterDS (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_remote_coy">
+			<Original>ELCAN SpecterDS (Remote, Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_khk">
+			<Original>ELCAN SpecterDS (Khaki)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_remote_khk">
+			<Original>ELCAN SpecterDS (Remote, Khaki)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_sand">
+			<Original>ELCAN SpecterDS (Sand)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_mbs_remote_sand">
+			<Original>ELCAN SpecterDS (Remote, Sand)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight">
+			<Original>Aimpoint ACRO P-2</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_pistol">
+			<Original>Aimpoint ACRO P-2 (Mount)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_coy">
+			<Original>Aimpoint ACRO P-2 (Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_pistol_coy">
+			<Original>Aimpoint ACRO P-2 (Mount, Coyote)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_khk">
+			<Original>Aimpoint ACRO P-2 (Khaki)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_pistol_khk">
+			<Original>Aimpoint ACRO P-2 (Mount, Khaki)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_sand">
+			<Original>Aimpoint ACRO P-2 (Sand)</Original>
+		</Key>
+		<Key ID="STR_EF_optic_microsight_pistol_sand">
+			<Original>Aimpoint ACRO P-2 (Mount, Sand)</Original>
+		</Key>
 		<Key ID="STR_EF_LPNVG_DN">
 			<Original>AN/PVS-21 (Black)</Original>
 		</Key>
