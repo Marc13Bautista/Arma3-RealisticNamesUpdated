@@ -70,3 +70,7 @@ Added support for Expeditionary Forces CDLC:
 - MicroSight > Aimpoint ACRO P-2
 - MicroSight (Pistol Mount) > Aimpoint ACRO P-2 (Mount)
 *Dedicated pistol mounted version.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 4
+- ELCAN SpecterDS > ELCAN SpecterDR
+*Typo. My bad.
