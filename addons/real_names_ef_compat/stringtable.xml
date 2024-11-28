@@ -23,10 +23,10 @@
 			<Original>L-CAT (Side Load)</Original>
 		</Key>
         <Key ID="STR_EF_Hunter_LAAD_DN">
-			<Original>M-ATV (LAAD)</Original>
+			<Original>M-ATV (X-MADIS)</Original>
 		</Key>
         <Key ID="STR_EF_Hunter_FSV_DN">
-			<Original>M-ATV (FSV)</Original>
+			<Original>M-ATV (M-LIDS)</Original>
 		</Key>
         <Key ID="STR_EF_Hunter_AT_DN">
 			<Original>M-ATV (AT)</Original>
