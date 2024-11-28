@@ -61,3 +61,12 @@ Added support for Expeditionary Forces CDLC:
 *EXPEDITIONARY FORCES CDLC HOTFIX 2
 - Renamed EFV to EFVP1 and the 50mm variant to (UP) as it has an upgraded 50mm gun
 - Forgot to add a missing LWMMG rename for RF Pickups
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 3 (Thanks NeroTheHero111 & Axle!)
+*Renamed the following weapon attachment variants:
+- MBS > ELCAN SpecterDS
+- MBS (Remote) > ELCAN SpecterDS (Remote)
+*Remote cosmetic version.
+- MicroSight > Aimpoint ACRO P-2
+- MicroSight (Pistol Mount) > Aimpoint ACRO P-2 (Mount)
+*Dedicated pistol mounted version.
