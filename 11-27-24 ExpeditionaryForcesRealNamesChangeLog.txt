@@ -74,3 +74,12 @@ Added support for Expeditionary Forces CDLC:
 *EXPEDITIONARY FORCES CDLC HOTFIX 4
 - ELCAN SpecterDS > ELCAN SpecterDR
 *Typo. My bad.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 5 (Thanks Axle!)
+*Renamed following vehicles:
+- M-ATV (LAAD) > M-ATV (X-MADIS)
+*Based specifically on the eXpeditionary Mobile Air Defense Integrated System.
+- M-ATV (FSV) > M-ATV (M-LIDS)
+*Based on the M-LIDS's kinetic package for the M-ATV.
+- M-ATV (AT) > M-ATV (AT)
+*Unchanged, due to Titan NLOS Launcher, probably to fit with the Vanilla GMG and HMG variants.
