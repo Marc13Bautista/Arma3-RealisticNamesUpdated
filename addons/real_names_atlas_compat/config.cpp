@@ -582,4 +582,93 @@ class cfgVehicles
 	{
 		displayname="Q7/F-150 Offroad (M2HB)";
 	}
+// Zamak Transport > KamAZ Transport
+// [BLUFOR- HIMF]
+	class Truck_02_transport_base_F;
+	class Atlas_B_H_Truck_02_transport_F: Truck_02_transport_base_F
+	{
+		displayname="KamAZ Transport";
+	}
+// Zamak Transport (Covered)> KamAZ Transport (Covered)
+// [BLUFOR- HIMF]
+	class Truck_02_base_F;
+	class Atlas_B_H_Truck_02_F: Truck_02_base_F
+	{
+		displayname="KamAZ Transport (Covered)";
+	}
+// Zamak Flatbed > KamAZ Transport Flatbed
+// [BLUFOR- HIMF]
+	class Truck_02_flatbed_base_lxWS;
+	class Atlas_B_H_Truck_02_flatbed_F: Truck_02_flatbed_base_lxWS
+	{
+		displayname="KamAZ Flatbed";
+	}
+// Zamak Fuel > KamAZ Fuel
+// [BLUFOR- HIMF]
+	class O_Truck_02_fuel_F;
+	class Atlas_B_H_Truck_02_fuel_F: O_Truck_02_fuel_F
+	{
+		displayname="KamAZ Fuel";
+	}
+// Zamak Medical > KamAZ Medical
+// [BLUFOR- HIMF]
+	class O_Truck_02_medical_F;
+	class Atlas_B_H_Truck_02_medical_F: O_Truck_02_medical_F
+	{
+		displayname="KamAZ Medical";
+	}
+// AH-9 Pawnee > AH-6 Little Bird
+// [BLUFOR- HIMF]
+	class Heli_Light_01_dynamicLoadout_base_F;
+	class Atlas_B_H_Heli_Light_01_dynamicLoadout_F: Heli_Light_01_dynamicLoadout_base_F
+	{
+		displayname="AH-6 Little Bird";
+	}
+// Caesar BTT  > Cessna TTx
+// [BLUFOR- HIMF]
+	class Plane_Civil_01_base_F;
+	class Plane_Civil_01_HIMF_F: Plane_Civil_01_base_F
+	{
+		displayname="Cessna TTx";
+	}
+// WY-55 Hellcat > AW159 Wildcat
+// [BLUFOR- Karzeghistan]
+	class Atlas_B_K_Heli_light_03_dynamicLoadout_F: Heli_light_03_dynamicLoadout_base_F
+	{
+		displayname="AW159 Wildcat";
+	}
+// WY-55 Hellcat (Unarmed) > AW159 Wildcat (Unarmed)
+// [BLUFOR- Karzeghistan]
+	class Atlas_B_K_Heli_light_03_unarmed_F: Heli_light_03_unarmed_base_F
+	{
+		displayname="AW159 Wildcat (Unarmed)";
+	}
+// RAI-350M Cougar > H225M Super Cougar HADR
+// [Independent- UNO]
+	class Heli_EC_01A_military_base_RF;
+	class Atlas_I_UNO_Heli_EC_01A_military_RF: Heli_EC_01A_military_base_RF
+	{
+		displayname="H225M Super Cougar HADR";
+	}
+// RAI-360M Cougar > H225M Super Cougar SOCAT
+// [Independent- UNO]
+	class Heli_EC_02_base_RF;
+	class Atlas_I_UNO_Heli_EC_02_RF: Heli_EC_02_base_RF
+	{
+		displayname="H225M Super Cougar SOCAT";
+	}
+// MH-245 Cougar > H225M Super Cougar CSAR
+// [BLUFOR- HIMF]
+	class Heli_EC_03_base_RF;
+	class Atlas_B_H_Heli_EC_03_RF: Heli_EC_03_base_RF
+	{
+		displayname="H225M Super Cougar CSAR";
+	}
+// MH-245 Cougar (Unarmed) > H225M Super Cougar SAR
+// [BLUFOR- HIMF]
+	class Heli_EC_04_military_base_RF;
+	class Atlas_B_H_Heli_EC_04_military_RF: Heli_EC_04_military_base_RF
+	{
+		displayname="H225M Super Cougar SAR";
+	}
 };

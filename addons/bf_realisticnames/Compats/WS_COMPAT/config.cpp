@@ -207,50 +207,90 @@ class cfgWeapons
 	{
 		displayName="XMS (Sand)";
 	}
+// "XMS 5.56 mm (Gray)" -> "XMS (Gray)"
+		class arifle_XMS_Gray_lxWS: arifle_XMS_Base_lxWS
+	{
+		displayName="XMS (Gray)";
+	}
+// "XMS 5.56 mm (Stripes)" -> "XMS (Stripes)"
+		class arifle_XMS_Camo_lxWS: arifle_XMS_Base_lxWS
+	{
+		displayName="XMS (Stripes)";
+	}
 // "XMS GL 5.56 mm" -> "XMS GL"
 	class arifle_XMS_GL_lxWS: arifle_XMS_Base_lxWS
 	{
 		displayName="XMS GL";
 	}
-// "XMS GL 5.56 mm" -> "XMS Gl (Khaki)"
+// "XMS GL 5.56 mm (Khaki)" -> "XMS Gl (Khaki)"
 	class arifle_XMS_GL_khk_lxWS: arifle_XMS_GL_lxWS
 	{
 		displayName="XMS GL (Khaki)";
 	}
-// "XMS GL 5.56 mm" -> "XMS GL (Sand)"
+// "XMS GL 5.56 mm (Sand)" -> "XMS GL (Sand)"
 	class arifle_XMS_GL_Sand_lxWS: arifle_XMS_GL_lxWS
 	{
 		displayName="XMS GL (Sand)";
+	}
+// "XMS GL 5.56 mm (Gray)" -> "XMS GL (Gray)"
+	class arifle_XMS_GL_Gray_lxWS: arifle_XMS_GL_lxWS
+	{
+		displayName="XMS GL (Gray)";
+	}
+// "XMS GL 5.56 mm (Stripes)" -> "XMS GL (Stripes)"
+	class arifle_XMS_GL_Camo_lxWS: arifle_XMS_GL_lxWS
+	{
+		displayName="XMS GL (Stripes)";
 	}
 // "XMS SG 5.56 mm" -> "XMS SG"
 	class arifle_XMS_Shot_lxWS: arifle_XMS_Base_lxWS
 	{
 		displayName="XMS SG";
 	}
-// "XMS SG 5.56 mm" -> "XMS SG (Khaki)"
+// "XMS SG 5.56 mm (Khaki)" -> "XMS SG (Khaki)"
 	class arifle_XMS_Shot_khk_lxWS: arifle_XMS_Shot_lxWS
 	{
 		displayName="XMS SG (Khaki)";
 	}
-// "XMS SG 5.56 mm" -> "XMS SG (Sand)"
+// "XMS SG 5.56 mm (Sand)" -> "XMS SG (Sand)"
 	class arifle_XMS_Shot_Sand_lxWS: arifle_XMS_Shot_lxWS
 	{
 		displayName="XMS SG (Sand)";
+	}
+// "XMS SG 5.56 mm (Gray)" -> "XMS SG (Gray)"
+		class arifle_XMS_Shot_Gray_lxWS: arifle_XMS_Shot_lxWS
+	{
+		displayName="XMS SG (Gray)";
+	}
+// "XMS SG 5.56 mm (Stripes)" -> "XMS SG (Stripes)"
+		class arifle_XMS_Shot_Camo_lxWS: arifle_XMS_Shot_lxWS
+	{
+		displayName="XMS SG (Stripes)";
 	}
 // "XMS SW 5.56 mm" -> "XMS SW"
 	class arifle_XMS_M_lxWS: arifle_XMS_Base_lxWS
 	{
 		displayName="XMS SW";
 	}
-// "XMS SW 5.56 mm" -> "XMS SW (Khaki)"
+// "XMS SW 5.56 mm (Khaki)" -> "XMS SW (Khaki)"
 	class arifle_XMS_M_khk_lxWS: arifle_XMS_M_lxWS
 	{
 		displayName="XMS SW (Khaki)";
 	}
-// "XMS SW 5.56 mm" -> "XMS SW (Sand)"
+// "XMS SW 5.56 mm (Sand)" -> "XMS SW (Sand)"
 	class arifle_XMS_M_Sand_lxWS: arifle_XMS_M_lxWS
 	{
 		displayName="XMS SW (Sand)";
+	}
+// "XMS SW 5.56 mm (Gray)" -> "XMS SW (Gray)"
+		class arifle_XMS_M_Gray_lxWS: arifle_XMS_M_lxWS
+	{
+		displayName="XMS SW (Gray)";
+	}
+// "XMS SW 5.56 mm (Stripes)" -> "XMS SW (Stripes)"
+		class arifle_XMS_M_Camo_lxWS: arifle_XMS_M_lxWS
+	{
+		displayName="XMS SW (Stripes)";
 	}
 // GM6 Lynx Snake camo variant introduced in WS Update 1.1.3.
 // "GM6 Lynx 12.7 mm (Snake)" -> "GM6 Lynx (Snake)"

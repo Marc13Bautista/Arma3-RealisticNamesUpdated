@@ -179,4 +179,18 @@ class cfgVehicles
 	{
 		displayname="Q7/F-150D Offroad (UP, M2HB)";
 	}
+// Pickup (Repair) > Ram 1500 (Repair)
+// [BLUFOR- Partisans]
+	class Pickup_repair_ig_base_rf;
+	class Opf_B_P_Pickup_repair_rf: Pickup_repair_ig_base_rf
+	{
+		displayname="Ram 1500 (Repair)";
+	}
+// BTR-100A Muharib > BTR-90A
+// [OPFOR- Paramilitary]
+	class APC_Wheeled_04_export_base_F;
+	class Opf_O_P_APC_Wheeled_04_export_F: APC_Wheeled_04_export_base_F
+	{
+		displayname="BTR-90A";
+	}
 };

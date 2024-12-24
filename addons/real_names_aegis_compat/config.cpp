@@ -41,6 +41,39 @@ class cfgWeapons
 	{
 		displayName="GLX 160 (Olive)";
 	}
+// M320 LRR .408 (Sand) > M200 Intervention (Sand)
+	class srifle_LRR_F;
+	class Aegis_srifle_LRR_sand_F: srifle_LRR_F
+	{
+		displayName="M200 Intervention (Sand)";
+	}
+// - M320 LRR .408 (Olive) > M200 Intervention (Olive)
+	class Aegis_srifle_LRR_olive_F: Aegis_srifle_LRR_sand_F
+	{
+		displayName="M200 Intervention (Olive)";
+	}
+// Velko R4 5.56 mm (Sand) > Vektor R4 (Sand)
+	class arifle_Velko_base_lxWS;
+	class Aegis_arifle_Velko_sand: arifle_Velko_base_lxWS
+	{
+		displayName="Vektor R4 (Sand)";
+	}
+// Velko R4 5.56 mm (Wood) > Vektor R4 (Wood)
+	class Aegis_arifle_Velko_oak: arifle_Velko_base_lxWS
+	{
+		displayName="Vektor R4 (Wood)";
+	}
+// Velko R5 5.56 mm (Sand) > Vektor R5 Carbine (Sand)
+	class arifle_VelkoR5_lxWS;
+	class Aegis_arifle_VelkoR5_sand: arifle_VelkoR5_lxWS
+	{
+		displayName="Vektor R5 Carbine (Sand)";
+	}
+// Velko R5 5.56 mm (Wood) > Vektor R5 Carbine (Wood)
+	class Aegis_arifle_VelkoR5_oak: arifle_VelkoR5_lxWS
+	{
+		displayName="Vektor R5 Carbine (Wood)";
+	}
 // WEAPON ATTACHMENTS
 // TWS Sniper > LILY-L TWS *The third member of the family, the LILY-L, is a cooled Thermal Imager for long range use for snipers.
 	class ItemCore;
@@ -673,5 +706,71 @@ class cfgVehicles
 	class O_R_MBT_04_command_ard_F: O_R_MBT_04_command_F
 	{
 		displayname="T-14K Armata";
+	}
+// Pickup (Minigun) > Ram 1500 (M134)
+// [BLUFOR- ION Services]
+	class Pickup_01_minigun_base_rf;
+	class Aegis_B_ION_Pickup_Minigun_RF: Pickup_01_minigun_base_rf
+	{
+		displayname="Ram 1500 (M134)";
+	}
+// BTR-100A Muharib > BTR-90A
+// [BLUFOR- Tura]
+// [OPFOR- Argana, SFIA, Tura]
+// [Independent- Tura]
+	class Aegis_O_SFIA_APC_Wheeled_04_export_F;
+	class Aegis_B_Tura_APC_Wheeled_04_export_F: Aegis_O_SFIA_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	}
+	class APC_Wheeled_04_export_base_F;
+	class Aegis_O_A_APC_Wheeled_04_export_F: APC_Wheeled_04_export_base_F
+	{
+		displayname="BTR-90A";
+	}
+	class Aegis_O_SFIA_APC_Wheeled_04_export_F: APC_Wheeled_04_export_base_F
+	{
+		displayname="BTR-90A";
+	}
+	class Aegis_O_Tura_APC_Wheeled_04_export_F: Aegis_B_Tura_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	}
+	class Aegis_I_Tura_APC_Wheeled_04_export_F: Aegis_B_Tura_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	}
+// RAI-350M Cougar > H225M Super Cougar HADR
+// [OPFOR- Argana]
+	class Heli_EC_01A_military_base_RF;
+	class Aegis_O_A_Heli_EC_01A_military_RF: Heli_EC_01A_military_base_RF
+	{
+		displayname="H225M Super Cougar HADR";
+	}
+// RAI-360M Cougar > H225M Super Cougar SOCAT
+// [OPFOR- Argana]
+	class Heli_EC_02_base_RF;
+	class Aegis_O_A_Heli_EC_02_RF: Heli_EC_02_base_RF
+	{
+		displayname="H225M Super Cougar SOCAT";
+	}
+// Van (Ambulance) -> Sprinter Transit (Ambulance)
+// [Civilian- Civilians (Argana), Civilians (Horizion Islands), Civilians (Livonia), Civilians (Malden)]
+	class C_Van_02_medevac_F;
+	class Aegis_C_Van_02_medevac_Argana_F: C_Van_02_medevac_F
+	{
+		displayname="Sprinter Transit (Ambulance)";
+	}
+	class Aegis_C_Van_02_medevac_Tanoa_F: C_Van_02_medevac_F
+	{
+		displayname="Sprinter Transit (Ambulance)";
+	}
+	class Aegis_C_Van_02_medevac_Livonia_F: C_Van_02_medevac_F
+	{
+		displayname="Sprinter Transit (Ambulance)";
+	}
+	class Aegis_C_Van_02_medevac_Malden_F: C_Van_02_medevac_F
+	{
+		displayname="Sprinter Transit (Ambulance)";
 	}
 };

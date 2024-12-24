@@ -198,6 +198,11 @@ class cfgWeapons
 	{
 		displayName="Desert Eagle Mark XIX L5 (Gold)";
 	}
+// "Mk26 L5 .50 AE (Stripes)" -> "Desert Eagle Mark XIX L5 (Stripes)"
+		class hgun_DEagle_camo_RF: hgun_DEagle_RF
+	{
+		displayName="Desert Eagle Mark XIX L5 (Stripes)";
+	}
 // PRIMARY ATTACHMENTS
 // Camo variants of the C-More Railway.
 // "ACO (Green, Desert)" -> "C-More Railway (Green, Desert)"
@@ -211,6 +216,11 @@ class cfgWeapons
 	{
 		displayName="C-More Railway (Green, Wood)";
 	}
+// "ACO (Green, Stripes)" -> "C-More Railway (Green, Stripes)"
+		class optic_ACO_grn_camo_lxWS: optic_ACO_grn
+	{
+		displayName="C-More Railway (Green, Stripes)";
+	}
 // "ACO (Red, Desert)" -> "C-More Railway (Red, Desert)"
 	class optic_Aco;
 	class optic_ACO_desert_RF: optic_Aco
@@ -221,6 +231,11 @@ class cfgWeapons
 	class optic_ACO_wood_RF: optic_Aco
 	{
 		displayName="C-More Railway (Red, Wood)";
+	}
+// "ACO (Red, Stripes)" -> "C-More Railway (Green, Stripes)"
+		class optic_ACO_camo_lxWS: optic_Aco
+	{
+		displayName="C-More Railway (Green, Stripes)";
 	}
 // Appears to be based on the Spitfire prism scopes designed by Vortex Optics.
 // Renamed "Vortex Spitfire 3x Prism" to "Vortex Spitfire Prism". Has model of the "Vortex Spitfire 3x Prism" but it oddly has a magnification of 2x in-game.
@@ -627,6 +642,58 @@ class B_Heli_EC_02_RF: Heli_EC_02_base_RF
 	class C_Pickup_repair_rf: Pickup_repair_base_rf
 	{
 		displayname="Ram 1500 (Services)";
+	}
+// "Pickup (RCWS)" -> "Ram 1500 (M134/RCWS)" [OPFOR - CSAT, China / Independent- AAF]
+	class Pickup_01_rcws_base_rf;
+	class O_Pickup_rcws_rf: Pickup_01_rcws_base_rf
+	{
+		displayname="Ram 1500 (M134/RCWS)";
+	}
+	class O_T_Pickup_rcws_rf: O_Pickup_rcws_rf
+	{
+		displayname="Ram 1500 (M134/RCWS)";
+	}
+	class I_Pickup_rcws_rf: Pickup_01_rcws_base_rf
+	{
+		displayname="Ram 1500 (M134/RCWS)";
+	}
+// "Pickup (Rocket)" -> "Ram 1500 (S-8)" [BLUFOR- FIA / OPFOR- FIA / Independent- FIA]
+	class Pickup_01_Rocket_base_rf;
+	class B_G_Pickup_Rocket_rf: Pickup_01_Rocket_base_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
+	class O_G_Pickup_Rocket_rf: B_G_Pickup_Rocket_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
+	class I_G_Pickup_Rocket_rf: B_G_Pickup_Rocket_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
+// "Tempest (Cargo)" -> "Typhoon (Cargo)" [OPFOR- CSAT, China]
+	class O_Truck_03_transport_F;
+	class O_Truck_03_cargo_RF: O_Truck_03_transport_F
+	{
+		displayname="Typhoon (Cargo)";
+	}
+	class O_T_Truck_03_cargo_RF: O_Truck_03_cargo_RF
+	{
+		displayname="Typhoon (Cargo)";
+	}
+// "HEMTT Firetruck" -> "HEMTT Firetruck" [BLUFOR- NATO, NATO (Pacific) / Civilians- Civilian]
+	class C_Truck_01_water_rf;
+	class C_Truck_01_FFT_rf: C_Truck_01_water_rf
+	{
+		displayname="HEMTT Firetruck";
+	}
+	class B_Truck_01_FFT_rf: C_Truck_01_FFT_rf
+	{
+		displayname="HEMTT Firetruck";
+	}
+	class B_T_Truck_01_FFT_rf: C_Truck_01_FFT_rf
+	{
+		displayname="HEMTT Firetruck";
 	}
 // DRONES
 // Renamed "RC40" variants to "Drone40" (Scout, HE, Smoke). The RC40 drones are modelled after DefendTex's Drone40.

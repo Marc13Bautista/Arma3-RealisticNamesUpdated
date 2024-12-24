@@ -88,7 +88,7 @@
 		<Key ID="STR_EF_optic_Holosight_smg_coy">
 			<Original>EOTech XPS3 SMG (Coyote)</Original>
 		</Key>
-		<Key ID="STR_EF_optic_mbs ">
+		<Key ID="STR_EF_optic_mbs">
 			<Original>ELCAN SpecterDR</Original>
 		</Key>
 		<Key ID="STR_EF_optic_mbs_remote">
@@ -196,7 +196,7 @@
         <Original>Ram 1500 (MRL)</Original>
         <English>Ram 1500 (MRL)</English>
         <French>Ram 1500 (MRL)</French>
-        <Polish>Ram 1500 (WWR)</Polish>
+        <Polish>Ram 1500 (MRL)</Polish>
         <German>Ram 1500 (MRL)</German>
         <Spanish>Ram 1500 (MRL)</Spanish>
         <Russian>Ram 1500 (MRL)</Russian>
@@ -258,5 +258,70 @@
         <Chinesesimp>Ram 1500 (LWMMG)</Chinesesimp>
         <Portuguese>Ram 1500 (LWMMG)</Portuguese>
     </Key>
+    <Key ID="STR_LXRF_Pickup_AT">
+        <Original>Ram 1500 (S-8)</Original>
+        <English>Ram 1500 (S-8)</English>
+        <French>Ram 1500 (S-8)</French>
+        <Polish>Ram 1500 (S-8)</Polish>
+        <German>Ram 1500 (S-8)</German>
+        <Spanish>Ram 1500 (S-8)</Spanish>
+        <Russian>Ram 1500 (S-8)</Russian>
+        <Chinesesimp>Ram 1500（S-8）</Chinesesimp>
+        <Portuguese>Ram 1500 (S-8)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Pickup_RCWS">
+        <Original>Ram 1500 (M134/RCWS)</Original>
+        <English>Ram 1500 (M134/RCWS)</English>
+        <French>PRam 1500 (M134/RCWS)</French>
+        <Polish>Ram 1500 (M134/RCWS)</Polish>
+        <German>Ram 1500 (M134/RCWS)</German>
+        <Spanish>Ram 1500 (M134/RCWS)</Spanish>
+        <Russian>Ram 1500 (M134/RCWS)</Russian>
+        <Chinesesimp>Ram 1500（M134/RCWS）</Chinesesimp>
+        <Portuguese>Ram 1500 (M134/RCWS)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_LMG_Minigun_Transport">
+        <Original>RCWS M134 6.5 mm</Original>
+        <English>RCWS M134 6.5 mm</English>
+        <French>M134 RCWS 6,5 mm</French>
+        <Polish>M134 ZSMU 6,5 mm</Polish>
+        <German>RCWS-M134 6,5 mm</German>
+        <Spanish>M134 RCWS de 6,5 mm</Spanish>
+        <Russian>M134 RCWS, 6,5 мм</Russian>
+        <Chinesesimp>6.5 毫米 RCWS M134</Chinesesimp>
+        <Portuguese>M134 RCWS 6,5 mm</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_C_Truck_03_water">
+        <Original>Typhoon (Water)</Original>
+        <English>Typhoon (Water)</English>
+        <French>Typhoon (eau)</French>
+        <Polish>Typhoon (woda)</Polish>
+        <German>Typhoon (Wasser)</German>
+        <Spanish>Typhoon (agua)</Spanish>
+        <Russian>(Водовоз) Typhoon</Russian>
+        <Chinesesimp>Typhoon（水）</Chinesesimp>
+        <Portuguese>Typhoon (Água)</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_C_Truck_01_water">
+        <Original>HEMTT Fire Truck</Original>
+        <English>HEMTT Fire Truck</English>
+        <French>HEMTT anti-incendie</French>
+        <Polish>HEMTT (wersja pożarnicza)</Polish>
+        <German>HEMTT-Löschfahrzeug</German>
+        <Spanish>HEMTT (camión de bomberos)</Spanish>
+        <Russian>Пожарная машина HEMTT</Russian>
+        <Chinesesimp>HEMTT 消防卡车</Chinesesimp>
+        <Portuguese>HEMTT contra incêndio</Portuguese>
+    </Key>
+    <Key ID="STR_LXRF_Truck_03_cargo">
+        <Original>Typhoon (Cargo)</Original>
+        <English>Typhoon (Cargo)</English>
+        <French>Typhoon (cargaison)</French>
+        <Polish>Typhoon (ładunek)</Polish>
+        <German>Typhoon (Fracht)</German>
+        <Spanish>Typhoon (carga)</Spanish>
+        <Russian>Typhoon (груз)</Russian>
+        <Chinesesimp>Typhoon（货车）</Chinesesimp>
+        <Portuguese>Typhoon (Carga)</Portuguese>
     </Package>
 </Project>

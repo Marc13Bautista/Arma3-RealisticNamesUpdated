@@ -110,4 +110,24 @@ class cfgVehicles
 	{
 		displayName="Ram 1500";
 	}
+// "Pickup (RCWS)" -> "Ram 1500 (M134/RCWS)" [BLUFOR- ION Services]
+	class Pickup_01_rcws_base_rf;
+	class B_ION_Pickup_rcws_rf: Pickup_01_rcws_base_rf
+	{
+		displayname="Ram 1500 (M134/RCWS)";
+	}
+// "Pickup (Rocket)" -> "Ram 1500 (S-8)" [BLUFOR- Tura / OPFOR- Tura / Independent- Tura]
+	class Pickup_01_Rocket_base_rf;
+	class I_Tura_Pickup_01_Rocket_rf: Pickup_01_Rocket_base_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
+	class B_Tura_Pickup_01_Rocket_rf: I_Tura_Pickup_01_Rocket_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
+	class O_Tura_Pickup_01_Rocket_rf: I_Tura_Pickup_01_Rocket_rf
+	{
+		displayname="Ram 1500 (S-8)";
+	}
 };

@@ -155,7 +155,7 @@ class cfgVehicles
 	class O_R_APC_Wheeled_04_cannon_F;
 	class Rev_O_VZ_APC_Wheeled_04_cannon_F: O_R_APC_Wheeled_04_cannon_F
 	{
-		displayname="BTR-90 (Bumerange-BM)";
+		displayname="BTR-90 (Bumerang-BM)";
 	};
 	class Boat_Armed_01_base_F;
 	class Rev_O_VZ_Boat_Armed_01_hmg_F: Boat_Armed_01_base_F
