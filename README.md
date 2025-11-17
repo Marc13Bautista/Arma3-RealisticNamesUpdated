@@ -1,4 +1,4 @@
-WESTERN SAHARA & REACTION FORCES CDLC COMPATIBILTY UPDATE!!!
+AEGIS, EXPEDITIONARY FORCES, WESTERN SAHARA & REACTION FORCES CDLC COMPATIBILTY UPDATE!!!
 If you own the Western Sahara CDLC and/or Reaction Forces CDLC, compatibility configs will be auto-loaded and my real name changes will take into effect.
 Github Repo for the full changelog and un-binarized files can be found here:
 - https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
@@ -21,18 +21,6 @@ Special Thanks to all [ACE3 Contributors](https://github.com/acemod/ACE3/blob/ma
 
 # License
 [ACE3](https://github.com/acemod/ACE3) is licensed under the GNU General Public License [(GPLv2)](LICENSE). This also applies to this project.
-In accordance with the license, every modified file has a disclaimer added. The following files are an exact copy from ACE3 (addons/realisticnames) and are thus not containing a disclaimer:
-
-- addons/bf_realisticnames/CfgWeapons.hpp
-- addons/bf_realisticnames/CfgVehicles.hpp
-- addons/bf_realisticnames/CfgMagazines.hpp
-
-*All builds will be done manually by me (Marc) whenever the ace3team officially updates something related to the realisticnames module from Ace3.
-- Updated (as of May 15, 2024):
-- [CfgMagazines.hpp], unchanged
-- [CfgVehicles.hpp], unchanged
-- [CfgWeapons.hpp], => added missing M134 Minigun and new ace3 capitlization fixes
-- [stringtable.xml], => added new translations and latest CUP compat fix
 
 # Notes
 - This mod also renames content in the following mods: JCA M320, Ravage, O&T Expansion, ANZACSAS Napalm and WP Smoke marker rockets, Arma 3 Aegis Collection
