@@ -4,7 +4,7 @@ Github Repo for the full changelog and un-binarized files can be found here:
 - https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
 
 # Arma 3 Realistic Names UPDATED
-This project aims to provide a small mod that changes the names of Weapons, Vehicles and Gear in Arma 3 to their real life names. Since this is a feature of [ACE3](https://github.com/acemod/ACE3) already, this mod makes use of it by simply stripping it out and distributing it standalone. The difference is that this will be a more up-to-date version than from the Standalone [realisticnames module](https://github.com/acemod/ACE3/tree/master/addons/realisticnames) module from [ACE3](https://github.com/acemod/ACE3) as this version includes my own additions to support other mods as well.
+This project aims to provide a small mod that changes the names of Weapons, Vehicles and Gear in Arma 3 to their real life names. Since this is a feature of [ACE3](https://github.com/acemod/ACE3) already, this mod makes use of it by simply stripping it out and distributing it standalone. The difference is that this will be a more up-to-date version than from the Standalone [realisticnames module](https://github.com/acemod/ACE3/tree/master/addons/realisticnames) from [ACE3](https://github.com/acemod/ACE3) as this version includes my own additions to support other mods as well.
 This mod requires Arma 3 and the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>.
 
 # Disclaimer
