@@ -23,7 +23,7 @@ Special Thanks to all [ACE3 Contributors](https://github.com/acemod/ACE3/blob/ma
 [ACE3](https://github.com/acemod/ACE3) is licensed under the GNU General Public License [(GPLv2)](LICENSE). This also applies to this project.
 
 # Notes
-- This mod also renames content in the following mods: JCA M320, Ravage, O&T Expansion, ANZACSAS Napalm and WP Smoke marker rockets, Arma 3 Aegis Collection
+- This mod also renames content in the following mods: JCA M320, Ravage, O&T Expansion, ANZACSAS Napalm and WP Smoke marker rockets, Arma 3 Aegis Collection, KapitanSWAT's Unused Content, Drongos Spooks and Anomalies,  [CYTECH] Guns, Uniforms, and Vehicles, JAM Project - Asian Escalation [DEV], Russia 2035, Arma 3 EF & Aegis Expeditionary Expansion, Aegis Russia Alternate Loadouts, Aegis US Alternate Loadouts, Aegis Iran Alternate Loadouts, Arma 3 Aegis & AE Asian Surplus, Burn 'Em Redux
 - Axle has already created Real Names mods for SOG Prairie Fire, Global Mobilization, and CSLA:
 > SOG PF: https://steamcommunity.com/sharedfiles/filedetails/?id=3197933562
 > GM: https://steamcommunity.com/sharedfiles/filedetails/?id=3197921323
