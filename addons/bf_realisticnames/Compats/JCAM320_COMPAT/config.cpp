@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class real_names_2035_jcam320_compat
 	{
-		addonRootClass="real_names_2035_base"; //Replace this with fisch's config name
+		addonRootClass="real_names_2035_base";
 		units[]={};
 		weapons[]={};
 		requiredAddons[]=
@@ -13,10 +13,7 @@ class CfgPatches
 		skipWhenMissingDependencies=1;
 	};
 };
-
 class cfgWeapons
-// PRIMARY WEAPONS
-// "M320 LRR .408 (Sand)" -> "M200 Intervention (Sand)"
 {
 	class srifle_LRR_camo_F;
 	class srifle_LRR_sand_F: srifle_LRR_camo_F
@@ -24,10 +21,8 @@ class cfgWeapons
 		displayName="M200 Intervention (Sand)";
 	};
 };
-
 class cfgVehicles
 {
-// "M320 LRR .408 (Sand)" -> "M200 Intervention (Sand)"
 	class Weapon_Base_F;
 	class weapon_srifle_LRR_sand_F: Weapon_Base_F
 	{
@@ -38,10 +33,8 @@ class cfgVehicles
 		displayName="M200 Intervention (Sand, Attachments)";
 	};
 };
-
 class CfgMagazines
 {
-// "M320 LRR .408 (Sand)" -> "M200 Intervention (Sand)"
 	class 7Rnd_408_Mag;
 	class 12Rnd_408_Mag: 7Rnd_408_Mag
 	{

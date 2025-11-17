@@ -11902,89 +11902,89 @@
 						<Turkish>Negev NG7 NATO (Black)</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMAS_F0">
-						<Original>FAMAS G2</Original>
-						<Chinese>FAMAS G2</Chinese>
-						<French>FAMAS G2</French>
-						<Spanish>FAMAS G2</Spanish>
-						<Italian>FAMAS G2</Italian>
-						<Polish>FAMAS G2</Polish>
-						<Russian>FAMAS G2</Russian>
-						<German>FAMAS G2</German>
-						<Czech>FAMAS G2</Czech>
-						<English>FAMAS G2</English>
-						<Portuguese>FAMAS G2</Portuguese>
-						<Korean>FAMAS G2</Korean>
-						<Chinesesimp>FAMAS G2</Chinesesimp>
-						<Japanese>FAMAS G2</Japanese>
-						<Turkish>FAMAS G2</Turkish>
+						<Original>FAMAS G2 RIS</Original>
+						<Chinese>FAMAS G2 RIS</Chinese>
+						<French>FAMAS G2 RIS</French>
+						<Spanish>FAMAS G2 RIS</Spanish>
+						<Italian>FAMAS G2 RIS</Italian>
+						<Polish>FAMAS G2 RIS</Polish>
+						<Russian>FAMAS G2 RIS</Russian>
+						<German>FAMAS G2 RIS</German>
+						<Czech>FAMAS G2 RIS</Czech>
+						<English>FAMAS G2 RIS</English>
+						<Portuguese>FAMAS G2 RIS</Portuguese>
+						<Korean>FAMAS G2 RIS</Korean>
+						<Chinesesimp>FAMAS G2 RIS</Chinesesimp>
+						<Japanese>FAMAS G2 RIS</Japanese>
+						<Turkish>FAMAS G2 RIS</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMAS_Grip_F0">
-						<Original>FAMAS G2 FG</Original>
-						<Chinese>FAMAS G2 FG</Chinese>
-						<French>FAMAS G2 FG</French>
-						<Spanish>FAMAS G2 FG</Spanish>
-						<Italian>FAMAS G2 FG</Italian>
-						<Polish>FAMAS G2 FG</Polish>
-						<Russian>FAMAS G2 FG</Russian>
-						<German>FAMAS G2 FG</German>
-						<Czech>FAMAS G2 FG</Czech>
-						<English>FAMAS G2 FG</English>
-						<Portuguese>FAMAS G2 FG</Portuguese>
-						<Korean>FAMAS G2 FG</Korean>
-						<Chinesesimp>FAMAS G2 FG</Chinesesimp>
-						<Japanese>FAMAS G2 FG</Japanese>
-						<Turkish>FAMAS G2 FG</Turkish>
+						<Original>FAMAS G2 RIS/FG</Original>
+						<Chinese>FAMAS G2 RIS/FG</Chinese>
+						<French>FAMAS G2 RIS/FG</French>
+						<Spanish>FAMAS G2 RIS/FG</Spanish>
+						<Italian>FAMAS G2 RIS/FG</Italian>
+						<Polish>FAMAS G2 RIS/FG</Polish>
+						<Russian>FAMAS G2 RIS/FG</Russian>
+						<German>FAMAS G2 RIS/FG</German>
+						<Czech>FAMAS G2 RIS/FG</Czech>
+						<English>FAMAS G2 RIS/FG</English>
+						<Portuguese>FAMAS G2 RIS/FG</Portuguese>
+						<Korean>FAMAS G2 RIS/FG</Korean>
+						<Chinesesimp>FAMAS G2 RIS/FG</Chinesesimp>
+						<Japanese>FAMAS G2 RIS/FG</Japanese>
+						<Turkish>FAMAS G2 RIS/FG</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMAS_GL_F0">
-						<Original>FAMAS G2 GL</Original>
-						<Chinese>FAMAS G2 GL</Chinese>
-						<French>FAMAS G2 GL</French>
-						<Spanish>FAMAS G2 GL</Spanish>
-						<Italian>FAMAS G2 GL</Italian>
-						<Polish>FAMAS G2 GL</Polish>
-						<Russian>FAMAS G2 GL</Russian>
-						<German>FAMAS G2 GL</German>
-						<Czech>FAMAS G2 GL</Czech>
-						<English>FAMAS G2 GL</English>
-						<Portuguese>FAMAS G2 GL</Portuguese>
-						<Korean>FAMAS G2 GL</Korean>
-						<Chinesesimp>FAMAS G2 GL</Chinesesimp>
-						<Japanese>FAMAS G2 GL</Japanese>
-						<Turkish>FAMAS G2 GL</Turkish>
+						<Original>FAMAS G2 RIS/GL</Original>
+						<Chinese>FAMAS G2 RIS/GL</Chinese>
+						<French>FAMAS G2 RIS/GL</French>
+						<Spanish>FAMAS G2 RIS/GL</Spanish>
+						<Italian>FAMAS G2 RIS/GL</Italian>
+						<Polish>FAMAS G2 RIS/GL</Polish>
+						<Russian>FAMAS G2 RIS/GL</Russian>
+						<German>FAMAS G2 RIS/GL</German>
+						<Czech>FAMAS G2 RIS/GL</Czech>
+						<English>FAMAS G2 RIS/GL</English>
+						<Portuguese>FAMAS G2 RIS/GL</Portuguese>
+						<Korean>FAMAS G2 RIS/GL</Korean>
+						<Chinesesimp>FAMAS G2 RIS/GL</Chinesesimp>
+						<Japanese>FAMAS G2 RIS/GL</Japanese>
+						<Turkish>FAMAS G2 RIS/GL</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASG4_F0">
-						<Original>FAMAS G2 CL</Original>
-						<Chinese>FAMAS G2 CL</Chinese>
-						<French>FAMAS G2 CL</French>
-						<Spanish>FAMAS G2 CL</Spanish>
-						<Italian>FAMAS G2 CL</Italian>
-						<Polish>FAMAS G2 CL</Polish>
-						<Russian>FAMAS G2 CL</Russian>
-						<German>FAMAS G2 CL</German>
-						<Czech>FAMAS G2 CL</Czech>
-						<English>FAMAS G2 CL</English>
-						<Portuguese>FAMAS G2 CL</Portuguese>
-						<Korean>FAMAS G2 CL</Korean>
-						<Chinesesimp>FAMAS G2 CL</Chinesesimp>
-						<Japanese>FAMAS G2 CL</Japanese>
-						<Turkish>FAMAS G2 CL</Turkish>
+						<Original>FAMAS G2 CL/RIS/FG</Original>
+						<Chinese>FAMAS G2 CL/RIS/FG</Chinese>
+						<French>FAMAS G2 CL/RIS/FG</French>
+						<Spanish>FAMAS G2 CL/RIS/FG</Spanish>
+						<Italian>FAMAS G2 CL/RIS/FG</Italian>
+						<Polish>FAMAS G2 CL/RIS/FG</Polish>
+						<Russian>FAMAS G2 CL/RIS/FG</Russian>
+						<German>FAMAS G2 CL/RIS/FG</German>
+						<Czech>FAMAS G2 CL/RIS/FG</Czech>
+						<English>FAMAS G2 CL/RIS/FG</English>
+						<Portuguese>FAMAS G2 CL/RIS/FG</Portuguese>
+						<Korean>FAMAS G2 CL/RIS/FG</Korean>
+						<Chinesesimp>FAMAS G2 CL/RIS/FG</Chinesesimp>
+						<Japanese>FAMAS G2 CL/RIS/FG</Japanese>
+						<Turkish>FAMAS G2 CL/RIS/FG</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASG4_GL_F0">
-						<Original>FAMAS G2 CL/GL</Original>
-						<Chinese>FAMAS G2 CL/GL</Chinese>
-						<French>FAMAS G2 CL/GL</French>
-						<Spanish>FAMAS G2 CL/GL</Spanish>
-						<Italian>FAMAS G2 CL/GL</Italian>
-						<Polish>FAMAS G2 CL/GL</Polish>
-						<Russian>FAMAS G2 CL/GL</Russian>
-						<German>FAMAS G2 CL/GL</German>
-						<Czech>FAMAS G2 CL/GL</Czech>
-						<English>FAMAS G2 CL/GL</English>
-						<Portuguese>FAMAS G2 CL/GL</Portuguese>
-						<Korean>FAMAS G2 CL/GL</Korean>
-						<Chinesesimp>FAMAS G2 CL/GL</Chinesesimp>
-						<Japanese>FAMAS G2 CL/GL</Japanese>
-						<Turkish>FAMAS G2 CL/GL</Turkish>
+						<Original>FAMAS G2 CL/RIS/GL</Original>
+						<Chinese>FAMAS G2 CL/RIS/GL</Chinese>
+						<French>FAMAS G2 CL/RIS/GL</French>
+						<Spanish>FAMAS G2 CL/RIS/GL</Spanish>
+						<Italian>FAMAS G2 CL/RIS/GL</Italian>
+						<Polish>FAMAS G2 CL/RIS/GL</Polish>
+						<Russian>FAMAS G2 CL/RIS/GL</Russian>
+						<German>FAMAS G2 CL/RIS/GL</German>
+						<Czech>FAMAS G2 CL/RIS/GL</Czech>
+						<English>FAMAS G2 CL/RIS/GL</English>
+						<Portuguese>FAMAS G2 CL/RIS/GL</Portuguese>
+						<Korean>FAMAS G2 CL/RIS/GL</Korean>
+						<Chinesesimp>FAMAS G2 CL/RIS/GL</Chinesesimp>
+						<Japanese>FAMAS G2 CL/RIS/GL</Japanese>
+						<Turkish>FAMAS G2 CL/RIS/GL</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASF1_F0">
 						<Original>FAMAS F1</Original>
@@ -12004,21 +12004,21 @@
 						<Turkish>FAMAS F1</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASF1_Grip_F0">
-						<Original>FAMAS F1 FG</Original>
-						<Chinese>FAMAS F1 FG</Chinese>
-						<French>FAMAS F1 FG</French>
-						<Spanish>FAMAS F1 FG</Spanish>
-						<Italian>FAMAS F1 FG</Italian>
-						<Polish>FAMAS F1 FG</Polish>
-						<Russian>FAMAS F1 FG</Russian>
-						<German>FAMAS F1 FG</German>
-						<Czech>FAMAS F1 FG</Czech>
-						<English>FAMAS F1 FG</English>
-						<Portuguese>FAMAS F1 FG</Portuguese>
-						<Korean>FAMAS F1 FG</Korean>
-						<Chinesesimp>FAMAS F1 FG</Chinesesimp>
-						<Japanese>FAMAS F1 FG</Japanese>
-						<Turkish>FAMAS F1 FG</Turkish>
+						<Original>FAMAS F1 RIS/FG</Original>
+						<Chinese>FAMAS F1 RIS/FG</Chinese>
+						<French>FAMAS F1 RIS/FG</French>
+						<Spanish>FAMAS F1 RIS/FG</Spanish>
+						<Italian>FAMAS F1 RIS/FG</Italian>
+						<Polish>FAMAS F1 RIS/FG</Polish>
+						<Russian>FAMAS F1 RIS/FG</Russian>
+						<German>FAMAS F1 RIS/FG</German>
+						<Czech>FAMAS F1 RIS/FG</Czech>
+						<English>FAMAS F1 RIS/FG</English>
+						<Portuguese>FAMAS F1 RIS/FG</Portuguese>
+						<Korean>FAMAS F1 RIS/FG</Korean>
+						<Chinesesimp>FAMAS F1 RIS/FG</Chinesesimp>
+						<Japanese>FAMAS F1 RIS/FG</Japanese>
+						<Turkish>FAMAS F1 RIS/FG</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASF1_Rail_F0">
 						<Original>FAMAS F1 RIS</Original>
@@ -12038,21 +12038,21 @@
 						<Turkish>FAMAS F1 RIS</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_atlas_arifle_FAMASF1_GL_F0">
-						<Original>FAMAS F1 GL</Original>
-						<Chinese>FAMAS F1 GL</Chinese>
-						<French>FAMAS F1 GL</French>
-						<Spanish>FAMAS F1 GL</Spanish>
-						<Italian>FAMAS F1 GL</Italian>
-						<Polish>FAMAS F1 GL</Polish>
-						<Russian>FAMAS F1 GL</Russian>
-						<German>FAMAS F1 GL</German>
-						<Czech>FAMAS F1 GL</Czech>
-						<English>FAMAS F1 GL</English>
-						<Portuguese>FAMAS F1 GL</Portuguese>
-						<Korean>FAMAS F1 GL</Korean>
-						<Chinesesimp>FAMAS F1 GL</Chinesesimp>
-						<Japanese>FAMAS F1 GL</Japanese>
-						<Turkish>FAMAS F1 GL</Turkish>
+						<Original>FAMAS F1 RIS/GL</Original>
+						<Chinese>FAMAS F1 RIS/GL</Chinese>
+						<French>FAMAS F1 RIS/GL</French>
+						<Spanish>FAMAS F1 RIS/GL</Spanish>
+						<Italian>FAMAS F1 RIS/GL</Italian>
+						<Polish>FAMAS F1 RIS/GL</Polish>
+						<Russian>FAMAS F1 RIS/GL</Russian>
+						<German>FAMAS F1 RIS/GL</German>
+						<Czech>FAMAS F1 RIS/GL</Czech>
+						<English>FAMAS F1 RIS/GL</English>
+						<Portuguese>FAMAS F1 RIS/GL</Portuguese>
+						<Korean>FAMAS F1 RIS/GL</Korean>
+						<Chinesesimp>FAMAS F1 RIS/GL</Chinesesimp>
+						<Japanese>FAMAS F1 RIS/GL</Japanese>
+						<Turkish>FAMAS F1 RIS/GL</Turkish>
 					</Key>
 				</Container>
 				<Container name="Library">
