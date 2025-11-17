@@ -10,8 +10,10 @@ This mod requires Arma 3 and the latest version of <a href="https://github.com/C
 # Disclaimer
 I am not the original author of this mod (blackfisch is). However, the Original RealisticNames mod by blackfisch is no longer being updated as the repository has been archived by the owner on Jul 3, 2022 and there still isn't an automated build system.
 - https://github.com/blackfisch/Arma3-RealisticNames
+
 So I've taken the reins where all future builds and additions to the mod will be done by me.
 This project basically is a (personally updated) Standalone of the [realisticnames module](https://github.com/acemod/ACE3/tree/master/addons/realisticnames) from [ACE3](https://github.com/acemod/ACE3).
+
 Special Thanks to all [ACE3 Contributors](https://github.com/acemod/ACE3/blob/master/AUTHORS.txt) who made this project possible in the first place.
 [ACE3](https://github.com/acemod/ACE3) is licensed under the GNU General Public License [(GPLv2)](LICENSE). This also applies to this project.
 
