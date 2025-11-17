@@ -15,7 +15,7 @@ I am not the original author of this mod (blackfisch is). However, the Original 
 - https://github.com/blackfisch/Arma3-RealisticNames
 So I've taken the reins where all future builds and additions to the mod will be done by me.
 
-This project basically is a Standalone of the [realisticnames module](https://github.com/acemod/ACE3/tree/master/addons/realisticnames) from [ACE3](https://github.com/acemod/ACE3).
+This project basically is a (personally updated) Standalone of the [realisticnames module](https://github.com/acemod/ACE3/tree/master/addons/realisticnames) from [ACE3](https://github.com/acemod/ACE3).
 
 Special Thanks to all [ACE3 Contributors](https://github.com/acemod/ACE3/blob/master/AUTHORS.txt) who made this project possible in the first place.
 
