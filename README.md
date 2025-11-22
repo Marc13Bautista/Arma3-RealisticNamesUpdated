@@ -1,4 +1,4 @@
-WESTERN SAHARA & REACTION FORCES CDLC COMPATIBILTY UPDATE!!!
+AEGIS, EXPEDITIONARY FORCES, WESTERN SAHARA & REACTION FORCES CDLC COMPATIBILTY UPDATE!!!
 If you own the Western Sahara CDLC and/or Reaction Forces CDLC, compatibility configs will be auto-loaded and my real name changes will take into effect.
 Github Repo for the full changelog and un-binarized files can be found here:
 - https://github.com/Marc13Bautista/Arma3-RealisticNamesUpdated
