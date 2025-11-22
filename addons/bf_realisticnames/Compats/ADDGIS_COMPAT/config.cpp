@@ -189,4 +189,40 @@ class cfgVehicles
 	{
 		displayName="BTR-90A";
 	};
+	class HMG_02_base_F;
+	class AddGis_B_G_D_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	};
+	class AddGis_I_I_A_HMG_02_F: HMG_02_base_F
+	{
+		displayName="M2HB";
+	};
+	class HMG_02_high_base_F;
+	class AddGis_B_G_D_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	};
+	class AddGis_I_I_A_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayName="M2HB (Raised)";
+	};
+	class I_Heli_EC_02_RF;
+	class AddGis_O_R_Heli_EC_02_F: I_Heli_EC_02_RF
+	{
+		displayName="H225M Super Cougar SOCAT";
+	};
+	class AddGis_O_R_ard_Heli_EC_02_F: I_Heli_EC_02_RF
+	{
+		displayName="H225M Super Cougar SOCAT";
+	};
+	class I_Heli_EC_01A_military_RF;
+	class AddGis_O_R_Heli_EC_01A_military_F: I_Heli_EC_01A_military_RF
+	{
+		displayName="H225M Super Cougar HADR";
+	};
+	class AddGis_O_R_ard_Heli_EC_01A_military_F: I_Heli_EC_01A_military_RF
+	{
+		displayName="H225M Super Cougar HADR";
+	};
 };

@@ -18,6 +18,6 @@ class cfgWeapons
 	class srifle_DMR_04_F;
 	class srifle_DMR_04_green_F: srifle_DMR_04_F
 	{
-		displayName="ASP-1 Kir (Green)";
+		displayName="ASP-1 Kir (Lush)";
 	};
 };

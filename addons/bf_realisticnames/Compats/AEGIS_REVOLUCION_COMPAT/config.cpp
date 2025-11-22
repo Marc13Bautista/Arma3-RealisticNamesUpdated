@@ -202,4 +202,31 @@ class cfgVehicles
 	{
 		displayname="Yak-130";
 	};
+	class O_T_APC_Tracked_02_30mm_lxWS;
+	class Rev_O_VZ_APC_Tracked_02_30mm_lxWS: O_T_APC_Tracked_02_30mm_lxWS
+	{
+		displayname="BM-2T Stalker (Bumerang-BM)";
+	};
+	class APC_Wheeled_04_export_base_F;
+	class Rev_B_FDB_APC_Wheeled_04_export_F: APC_Wheeled_04_export_base_F
+	{
+		displayname="BTR-90A";
+	};
+	class Rev_O_FASR_APC_Wheeled_04_export_F: APC_Wheeled_04_export_base_F
+	{
+		displayname="BTR-90A";
+	};
+	class Aegis_I_APC_Wheeled_04_export_F;
+	class Rev_B_FRR_APC_Wheeled_04_export_F: Aegis_I_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	};
+	class Rev_O_FRR_APC_Wheeled_04_export_F: Rev_B_FRR_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	};
+	class Rev_I_FRR_APC_Wheeled_04_export_F: Rev_B_FRR_APC_Wheeled_04_export_F
+	{
+		displayname="BTR-90A";
+	};
 };

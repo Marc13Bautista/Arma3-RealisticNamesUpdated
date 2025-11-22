@@ -75,6 +75,10 @@ class cfgVehicles
 	{
 		displayname="M2HB";
 	};
+	class Atlas_B_K_HMG_02_ard_F: HMG_02_base_F
+	{
+		displayname="M2HB";
+	};
 	class HMG_02_high_base_F;
 	class Atlas_B_A_HMG_02_high_F: HMG_02_high_base_F
 	{
@@ -109,6 +113,10 @@ class cfgVehicles
 		displayname="M2HB (Raised)";
 	};
 	class Atlas_I_I_HMG_02_high_F: HMG_02_high_base_F
+	{
+		displayname="M2HB (Raised)";
+	};
+	class Atlas_B_K_HMG_02_high_ard_F: HMG_02_high_base_F
 	{
 		displayname="M2HB (Raised)";
 	};
