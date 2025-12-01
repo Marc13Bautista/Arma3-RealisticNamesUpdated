@@ -323,5 +323,127 @@
         <Russian>Typhoon (груз)</Russian>
         <Chinesesimp>Typhoon（货车）</Chinesesimp>
         <Portuguese>Typhoon (Carga)</Portuguese>
+    </Key>
+    <Key ID="STR_EF_Gyra_DN">
+        <Original>Iveco Puma</Original>
+        <English>Iveco Puma</English>
+        <German>Iveco Puma</German>
+        <Spanish>Iveco Puma</Spanish>
+        <French>Iveco Puma</French>
+        <Polish>Iveco Puma</Polish>
+        <Portuguese>Iveco Puma</Portuguese>
+        <Russian>Iveco Puma</Russian>
+        <Chinesesimp>Iveco Puma</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Armed_DN">
+        <Original>Iveco Puma (RCWS/AT)</Original>
+        <English>Iveco Puma (RCWS/AT)</English>
+        <German>Iveco Puma (RCWS/AT)</German>
+        <Spanish>Iveco Puma (RCWS/AT)</Spanish>
+        <French>Iveco Puma (RCWS/AT)</French>
+        <Polish>Iveco Puma (RCWS/AT)</Polish>
+        <Portuguese>Iveco Puma (RCWS/AT)</Portuguese>
+        <Russian>Iveco Puma (RCWS/AT)</Russian>
+        <Chinesesimp>Iveco Puma (RCWS/AT)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Antiair_DN">
+        <Original>Iveco Puma (RCWS/AA)</Original>
+        <English>Iveco Puma (RCWS/AA)</English>
+        <German>Iveco Puma (RCWS/AA)</German>
+        <Spanish>Iveco Puma (RCWS/AA)</Spanish>
+        <French>Iveco Puma (RCWS/AA)</French>
+        <Polish>Iveco Puma (RCWS/AA)</Polish>
+        <Portuguese>Iveco Puma (RCWS/AA)</Portuguese>
+        <Russian>Iveco Puma (RCWS/AA)</Russian>
+        <Chinesesimp>Iveco Puma (RCWS/AA)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_Mortar_DN">
+        <Original>Iveco Puma (RCWS/Mortar)</Original>
+        <English>Iveco Puma (RCWS/Mortar)</English>
+        <German>Iveco Puma (RCWS/Mortar)</German>
+        <Spanish>Iveco Puma (RCWS/Mortar)</Spanish>
+        <French>Iveco Puma (RCWS/Mortar)</French>
+        <Polish>Iveco Puma (RCWS/Mortar)</Polish>
+        <Portuguese>Iveco Puma (RCWS/Mortar)</Portuguese>
+        <Russian>Iveco Puma (RCWS/Mortar)</Russian>
+        <Chinesesimp>Iveco Puma (RCWS/Mortar)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_Gyra_HMG_DN">
+        <Original>Iveco Puma (XM312)</Original>
+        <English>Iveco Puma (XM312)</English>
+        <German>Iveco Puma (XM312)</German>
+        <Spanish>Iveco Puma (XM312)</Spanish>
+        <French>Iveco Puma (XM312)</French>
+        <Polish>Iveco Puma (XM312)</Polish>
+        <Portuguese>Iveco Puma (XM312)</Portuguese>
+        <Russian>Iveco Puma (XM312)</Russian>
+        <Chinesesimp>Iveco Puma (XM312)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_snds_diplomat">
+        <Original>SQD Suppressor (9 mm)</Original>
+        <English>SQD Suppressor (9 mm)</English>
+        <German>SQD Suppressor (9 mm)</German>
+        <Spanish>SQD Suppressor (9 mm)</Spanish>
+        <French>SQD Suppressor (9 mm)</French>
+        <Polish>SQD Suppressor (9 mm)</Polish>
+        <Portuguese>SQD Suppressor (9 mm)</Portuguese>
+        <Russian>SQD Suppressor (9 мм)</Russian>
+        <Chinesesimp>SQD Suppressor（9 毫米）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_snds_diplomat_coy">
+        <Original>SQD Suppressor (9 mm, Coyote)</Original>
+        <English>SQD Suppressor (9 mm, Coyote)</English>
+        <German>SQD Suppressor (9 mm, Coyote)</German>
+        <Spanish>SQD Suppressor (9 mm, coyote)</Spanish>
+        <French>SQD Suppressor (9 mm, coyote)</French>
+        <Polish>SQD Suppressor (9 mm, coyote)</Polish>
+        <Portuguese>SQD Suppressor (9 mm, coiote)</Portuguese>
+        <Russian>SQD Suppressor (9 мм, койот)</Russian>
+        <Chinesesimp>SQD Suppressor（9 毫米，棕褐色）</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_DN">
+        <Original>KH9 Covert</Original>
+        <English>KH9 Covert</English>
+        <German>KH9 Covert</German>
+        <Spanish>KH9 Covert</Spanish>
+        <French>KH9 Covert</French>
+        <Polish>KH9 Covert</Polish>
+        <Portuguese>KH9 Covert</Portuguese>
+        <Russian>KH9 Covert</Russian>
+        <Chinesesimp>KH9 Covert</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Coy_DN">
+        <Original>KH9 Covert (Coyote)</Original>
+        <English>KH9 Covert (Coyote)</English>
+        <German>KH9 Covert (Coyote)</German>
+        <Spanish>KH9 Covert (Coyote)</Spanish>
+        <French>KH9 Covert (Coyote)</French>
+        <Polish>KH9 Covert (Coyote)</Polish>
+        <Portuguese>KH9 Covert (Coyote)</Portuguese>
+        <Russian>KH9 Covert (Coyote)</Russian>
+        <Chinesesimp>KH9 Covert (Coyote)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Hex_DN">
+        <Original>KH9 Covert (Hex)</Original>
+        <English>KH9 Covert (Hex)</English>
+        <German>KH9 Covert (Hex)</German>
+        <Spanish>KH9 Covert (Hex)</Spanish>
+        <French>KH9 Covert (Hex)</French>
+        <Polish>KH9 Covert (Hex)</Polish>
+        <Portuguese>KH9 Covert (Hex)</Portuguese>
+        <Russian>KH9 Covert (Hex)</Russian>
+        <Chinesesimp>KH9 Covert (Hex)</Chinesesimp>
+    </Key>
+    <Key ID="STR_EF_smg_Diplomat_Ghex_DN">
+        <Original>KH9 Covert (Green Hex)</Original>
+        <English>KH9 Covert (Green Hex)</English>
+        <German>KH9 Covert (Green Hex)</German>
+        <Spanish>KH9 Covert (Green Hex)</Spanish>
+        <French>KH9 Covert (Green Hex)</French>
+        <Polish>KH9 Covert (Green Hex)</Polish>
+        <Portuguese>KH9 Covert (Green Hex)</Portuguese>
+        <Russian>KH9 Covert (Green Hex)</Russian>
+        <Chinesesimp>KH9 Covert (Green Hex)</Chinesesimp>
+    </Key>
     </Package>
 </Project>

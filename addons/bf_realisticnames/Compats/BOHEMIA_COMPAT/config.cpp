@@ -855,4 +855,9 @@ class cfgVehicles
 	{
 		displayName="M2HB (Raised)";
 	};
+	class Heli_Attack_01_pylons_dynamicLoadout_base_F;
+	class B_Heli_Attack_01_pylons_dynamicLoadout_F: Heli_Attack_01_pylons_dynamicLoadout_base_F
+	{
+		displayName="RAH-66 Comanche (Stub Wings)";
+	};
 };

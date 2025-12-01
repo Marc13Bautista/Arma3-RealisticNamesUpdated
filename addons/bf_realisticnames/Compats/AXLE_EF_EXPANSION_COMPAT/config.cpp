@@ -34,6 +34,10 @@ class cfgWeapons
 	{
 		displayName="Stone 99 LMG (Coyote)";
 	};
+	class AX_LMG_Mk200_spray_F: LMG_Mk200_F
+	{
+		displayName="Stone 99 LMG (Spray)";
+	};
 	class srifle_DMR_03_tan_F;
 	class AX_srifle_DMR_03_coy_F: srifle_DMR_03_tan_F
 	{
@@ -131,6 +135,10 @@ class cfgWeapons
 	{
 		displayName="FN SCAR-L CL (Spray)";
 	};
+	class AX_arifle_SCAR_M_F: arifle_SCAR_M_base_F
+	{
+		displayName="FN SCAR-L CL";
+	};
 	class arifle_SCAR_M_grip_base_F: arifle_SCAR_L_grip_black_base_F
 	{
 		displayName="FN SCAR-L CL/FG";
@@ -150,6 +158,10 @@ class cfgWeapons
 	class AX_arifle_SCAR_M_grip_spray_F: arifle_SCAR_M_grip_base_F
 	{
 		displayName="FN SCAR-L CL/FG (Spray)";
+	};
+	class AX_arifle_SCAR_M_grip_F: arifle_SCAR_M_grip_base_F
+	{
+		displayName="FN SCAR-L CL/FG";
 	};
 	class arifle_SCAR_M_short_base_F;
 	class AX_arifle_SCAR_M_short_F: arifle_SCAR_M_short_base_F
@@ -212,6 +224,10 @@ class cfgWeapons
 	class AX_arifle_SCAR_M_GL_spray_F: arifle_SCAR_M_GL_base_F
 	{
 		displayName="FN SCAR-L CQC CL/GLM (Spray)";
+	};
+	class AX_arifle_SCAR_M_GL_F: arifle_SCAR_M_GL_base_F
+	{
+		displayName="FN SCAR-L CQC CL/GLM";
 	};
 	class ef_arifle_mx_gl_coy;
 	class AX_arifle_mx_gl_coy_tt: ef_arifle_mx_gl_coy
@@ -325,6 +341,10 @@ class cfgWeapons
 	class AX_MMG_02_coy_F: MMG_02_sand_F
 	{
 		displayName="LWMMG (Coyote)";
+	};
+	class AX_MMG_02_spray_F: MMG_02_sand_F
+	{
+		displayName="LWMMG (Spray)";
 	};
 	class Aegis_hgun_P320_sand_F;
 	class AX_hgun_P320_coy_F: Aegis_hgun_P320_sand_F

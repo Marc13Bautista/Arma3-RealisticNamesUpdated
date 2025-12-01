@@ -105,4 +105,9 @@ class cfgVehicles
 	{
 		displayname="UH-80 Ghost Hawk";
 	};
+	class C_Heli_EC_04_rescue_RF;
+	class Athena_B_G_Heli_EC_04_rescue_RF: C_Heli_EC_04_rescue_RF
+	{
+		displayname="H225M Super Cougar SAR/MEDEVAC";
+	};
 };
