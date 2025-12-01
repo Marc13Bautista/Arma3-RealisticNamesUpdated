@@ -1,0 +1,36 @@
+12/1/25 EXPEDITIONARY FORCES UPDATE 1.1
+*Added new renames for content added with the EF 1.1 update.
+
+(Changes to Expeditionary Forces CDLC)
+(VEHICLES)
+- Gyra -> Iveco Puma
+- Gyra HMG -> Iveco Puma (XM312)
+- Gyra IFV -> Iveco Puma (RCWS/AT)
+- Gyra AA -> Iveco Puma (RCWS/AA)
+- Gyra Mortar -> Iveco Puma (RCWS/Mortar)
+*Fictional RCWS turrets (according to EF dev) for the Iveco Puma 6x6.
+
+(PRIMARY WEAPONS)
+- Diplomat 9mm -> KH9 Covert
+- Diplomat 9mm (Coyote) -> KH9 Covert (Coyote)
+- Diplomat 9mm (Green Hex) -> KH9 Covert (Green Hex)
+- Diplomat 9mm (Hex) -> KH9 Covert (Hex)
+- Diplomat Sound Suppressor (9 mm) -> SQD Suppressor (9 mm)
+- Diplomat Sound Suppressor (9 mm, Coyote) -> SQD Suppressor (9 mm, Coyote)
+
+(Arma 3 EF & Aegis Expeditionary Expansion)
+(PRIMARY WEAPONS)
+- M200 6.5 mm (Spray) -> Stoner 99 LMG (Spray)
+- Mk24 6.5 mm -> FN SCAR-L CL
+- Mk24 FG 6.5 mm -> FN SCAR-L CL/FG
+- Mk24C GL 6.5 mm -> FN SCAR-L CQC CL/GLM
+- SPMG .338 (Spray) -> LWMMG (Spray)
+
+(Changes to Arma 3 Athena)
+(VEHICLES)
+- H245 Cougar SAR -> H225M Super Cougar SAR/MEDEVAC
+*Special Cougar heli with medbay that's unique from the other Cougar helis.
+
+(Changes to Arma 3 Vanilla)
+(VEHICLES)
+- AH-99 Blackfoot (Stub Wings) -> RAH-66 Comanche (Stub Wings)
