@@ -69,6 +69,10 @@ class cfgWeapons
 	{
 		displayName="QJY-88";
 	};
+	class JAM_AE_LMG_QJY88_1_blk: LMG_03_F
+	{
+		displayName="QJY-88 RIS";
+	};
 	class arifle_SPAR_01_blk_F;
 	class JAM_AE_ARifle_T91_blk: arifle_SPAR_01_blk_F
 	{
