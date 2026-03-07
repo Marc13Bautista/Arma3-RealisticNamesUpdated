@@ -1,0 +1,85 @@
+11/27/24 EXPEDITIONARY FORCES CDLC SUPPORT ADDED
+*Thanks to Axle for doing the renaming work!
+
+Added support for Expeditionary Forces CDLC:
+(PRIMARY WEAPONS)
+- MXAR > MXAR *Kept the same, like the MX series.
+- MXAR 3GL > MXAR 3GL
+- MXAR (Black) > MXAR (Black)
+- MXAR 3GL (Black) > MXAR 3GL (Black)
+- MXAR (Khaki) > MXAR (Khaki)
+- MXAR 3GL (Khaki) > MXAR 3GL (Khaki)
+- MXAR (Coyote) > MXAR (Coyote)
+- MXAR 3GL (Coyote) > MXAR 3GL (Coyote)
+- MXC (Coyote) > MXC (Coyote)
+- MX (Coyote) > MX (Coyote)
+- MX 3GL (Coyote) > MX 3GL (Coyote)
+- MX LSW (Coyote) > MX LSW (Coyote)
+- MXM (Coyote) > MXM (Coyote)
+
+(GEAR)
+- LPNVG > AN/PVS-21 (Black)
+- LPNVG-T > AN/PVS-21-T (Black)
+- LPNVG (Coyote) > AN/PVS-21 (Coyote)
+- LPNVG-T (Coyote) AN/PVS-21-T (Coyote)
+
+(SECONDARY WEAPONS)
+- 4-five (Coyote) > FNX-45 Tactical (Coyote)
+- P07 (Coyote) > P99 (Coyote)
+
+(PRIMARY ATTACHMENTS)
+- Mk17 Holosight (Coyote) > EOTech XPS3 (Coyote)
+- Mk17 Holosight SMG (Coyote) > EOTech XPS3 SMG (Coyote)
+
+(VEHICLES)
+(LAND)
+- Hunter (LAAD) > M-ATV (LAAD)
+- Hunter (FSV) > M-ATV (FSV)
+- Hunter (AT) > M-ATV (AT)
+- AAV9 > EFVP1
+- AAV9 (50mm) > EFVP1 (UP)
+
+(SEA)
+- COMBAT BOAT (UNARMED) > CB90 HSM
+- COMBAT BOAT (HMG) > CB90 HSM (HMG)
+- COMBAT BOAT (AT) > CB90 HSM (AT)
+- LCC-1 > L-CAT
+- LCC-1 (SIDE LOAD) > L-CAT (Side Load)
+
+(AIR)
+- AH99J > RAH-66J Comanche
+
+(TURRETS)
+- Mk66 50 mm Cannon > MK 46 (GWS)
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 1 (Thanks again Axle!)
+- LCC-1 is based off the real world L-CAT
+- Added turret rename for Mk66 to real world Mk 46 (GWS)
+- Added missing renames for Pickup Variants from Reaction Forces
+- Unknown if the MBS and MicroSights are based on real sights. Likely fictional like the MOS sight though.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 2
+- Renamed EFV to EFVP1 and the 50mm variant to (UP) as it has an upgraded 50mm gun
+- Forgot to add a missing LWMMG rename for RF Pickups
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 3 (Thanks NeroTheHero111 & Axle!)
+*Renamed the following weapon attachment variants:
+- MBS > ELCAN SpecterDS
+- MBS (Remote) > ELCAN SpecterDS (Remote)
+*Remote cosmetic version.
+- MicroSight > Aimpoint ACRO P-2
+- MicroSight (Pistol Mount) > Aimpoint ACRO P-2 (Mount)
+*Dedicated pistol mounted version.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 4
+- ELCAN SpecterDS > ELCAN SpecterDR
+*Typo. My bad.
+
+*EXPEDITIONARY FORCES CDLC HOTFIX 5 (Thanks Axle!)
+*Renamed following vehicles:
+- M-ATV (LAAD) > M-ATV (X-MADIS)
+*Based specifically on the eXpeditionary Mobile Air Defense Integrated System.
+- M-ATV (FSV) > M-ATV (M-LIDS)
+*Based on the M-LIDS's kinetic package for the M-ATV.
+- M-ATV (AT) > M-ATV (AT)
+*Unchanged, due to Titan NLOS Launcher, probably to fit with the Vanilla GMG and HMG variants.
