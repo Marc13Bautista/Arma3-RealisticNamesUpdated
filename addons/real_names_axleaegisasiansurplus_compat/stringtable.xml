@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3GroundedFutura">
+	<Package name="Language_GRFU">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_ghex_F0">
+                    <English>CBRN Suit (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_dhex_F0">
+                    <English>CBRN Suit (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_sahex_F0">
+                    <English>CBRN Suit (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_mhex_F0">
+                    <English>CBRN Suit (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_vhex_F0">
+                    <English>CBRN Suit (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_thex_F0">
+                    <English>CBRN Suit [Turkiye]</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_hex_01_F0">
+                    <English>Type 21 Uniform (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_ghex_01_F0">
+                    <English>Type 21 Uniform (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_dhex_01_F0">
+                    <English>Type 21 Uniform (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_mhex_01_F0">
+                    <English>Type 21 Uniform (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_mhex_blk_01_F0">
+                    <English>Type 21 Uniform (Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_blk_mhex_01_F0">
+                    <English>Type 21 Uniform (Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_sahex_01_F0">
+                    <English>Type 21 Uniform (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_whex_01_F0">
+                    <English>Type 21 Uniform (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_vhex_01_F0">
+                    <English>Type 21 Uniform (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_vhex_vz_01_F0">
+                    <English>Type 21 Uniform [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_oli_01_F0">
+                    <English>Type 21 Uniform (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_grn_01_F0">
+                    <English>Type 21 Uniform (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_khk_01_F0">
+                    <English>Type 21 Uniform (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_blk_01_F0">
+                    <English>Type 21 Uniform (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_hex_02_F0">
+                    <English>Type 21 Uniform (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_ghex_02_F0">
+                    <English>Type 21 Uniform (Green Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_dhex_02_F0">
+                    <English>Type 21 Uniform (Desert Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_mhex_02_F0">
+                    <English>Type 21 Uniform (Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_mhex_blk_02_F0">
+                    <English>Type 21 Uniform (Oceanic Hex/Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_blk_mhex_02_F0">
+                    <English>Type 21 Uniform (Black/Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_sahex_02_F0">
+                    <English>Type 21 Uniform (Semi-Arid Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_whex_02_F0">
+                    <English>Type 21 Uniform (Woodland Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_vhex_02_F0">
+                    <English>Type 21 Uniform (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_vhex_vz_02_F0">
+                    <English>Type 21 Uniform [Venezuela] (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_oli_02_F0">
+                    <English>Type 21 Uniform (Olive, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_grn_02_F0">
+                    <English>Type 21 Uniform (Green, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_khk_02_F0">
+                    <English>Type 21 Uniform (Khaki, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T21_T07_blk_02_F0">
+                    <English>Type 21 Uniform (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_hex_01_F0">
+                    <English>Type 07 Uniform (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_ghex_01_F0">
+                    <English>Type 07 Uniform (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_dhex_01_F0">
+                    <English>Type 07 Uniform (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_mhex_01_F0">
+                    <English>Type 07 Uniform (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_sahex_01_F0">
+                    <English>Type 07 Uniform (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_whex_01_F0">
+                    <English>Type 07 Uniform (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_vhex_01_F0">
+                    <English>Type 07 Uniform (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_vhex_01_F0">
+                    <English>Type 07 Uniform [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_oli_01_F0">
+                    <English>Type 07 Uniform (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_grn_01_F0">
+                    <English>Type 07 Uniform (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_blk_01_F0">
+                    <English>Type 07 Uniform (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_khk_01_F0">
+                    <English>Type 07 Uniform (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_hex_02_F0">
+                    <English>Type 07 Uniform (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_ghex_02_F0">
+                    <English>Type 07 Uniform (Green Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_dhex_02_F0">
+                    <English>Type 07 Uniform (Desert Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_mhex_02_F0">
+                    <English>Type 07 Uniform (Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_sahex_02_F0">
+                    <English>Type 07 Uniform (Semi-Arid Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_whex_02_F0">
+                    <English>Type 07 Uniform (Woodland Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_vhex_02_F0">
+                    <English>Type 07 Uniform (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_vhex_vz_02_F0">
+                    <English>Type 07 Uniform [Venezuela] (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_oli_02_F0">
+                    <English>Type 07 Uniform (Olive, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_grn_02_F0">
+                    <English>Type 07 Uniform (Green, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_blk_02_F0">
+                    <English>Type 07 Uniform (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_Uniform_T07_khk_02_F0">
+                    <English>Type 07 Uniform (Khaki, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_hex_01_F0">
+                    <English>Type 07 Combat Uniform (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_ghex_01_F0">
+                    <English>Type 07 Combat Uniform (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_dhex_01_F0">
+                    <English>Type 07 Combat Uniform (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_mhex_01_F0">
+                    <English>Type 07 Combat Uniform (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_sahex_01_F0">
+                    <English>Type 07 Combat Uniform (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_whex_01_F0">
+                    <English>Type 07 Combat Uniform (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_vhex_01_F0">
+                    <English>Type 07 Combat Uniform (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_vhex_vz_01_F0">
+                    <English>Type 07 Combat Uniform [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_oli_01_F0">
+                    <English>Type 07 Combat Uniform (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_grn_01_F0">
+                    <English>Type 07 Combat Uniform (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_blk_01_F0">
+                    <English>Type 07 Combat Uniform (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_khk_01_F0">
+                    <English>Type 07 Combat Uniform (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_hex_02_F0">
+                    <English>Type 07 Combat Uniform (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_ghex_02_F0">
+                    <English>Type 07 Combat Uniform (Green Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_dhex_02_F0">
+                    <English>Type 07 Combat Uniform (Desert Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_mhex_02_F0">
+                    <English>Type 07 Combat Uniform (Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_sahex_02_F0">
+                    <English>Type 07 Combat Uniform (Semi-Arid Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_whex_02_F0">
+                    <English>Type 07 Combat Uniform (Woodland Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_vhex_02_F0">
+                    <English>Type 07 Combat Uniform (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_vhex_vz_02_F0">
+                    <English>Type 07 Combat Uniform [Venezuela] (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_oli_02_F0">
+                    <English>Type 07 Combat Uniform (Olive, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_grn_02_F0">
+                    <English>Type 07 Combat Uniform (Green, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_blk_02_F0">
+                    <English>Type 07 Combat Uniform (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CombatUniform_T07_khk_02_F0">
+                    <English>Type 07 Combat Uniform (Khaki, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_hex_01_F0">
+                    <English>Type 07 Officer Uniform (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_ghex_01_F0">
+                    <English>Type 07 Officer Uniform (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_dhex_01_F0">
+                    <English>Type 07 Officer Uniform (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_mhex_01_F0">
+                    <English>Type 07 Officer Uniform (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_sahex_01_F0">
+                    <English>Type 07 Officer Uniform (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_whex_01_F0">
+                    <English>Type 07 Officer Uniform (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_vhex_01_F0">
+                    <English>Type 07 Officer Uniform (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_vhex_vz_01_F0">
+                    <English>Type 07 Officer Uniform [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_oli_01_F0">
+                    <English>Type 07 Officer Uniform (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_grn_01_F0">
+                    <English>Type 07 Officer Uniform (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_blk_01_F0">
+                    <English>Type 07 Officer Uniform (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_khk_01_F0">
+                    <English>Type 07 Officer Uniform (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_hex_02_F0">
+                    <English>Type 07 Officer Uniform (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_ghex_02_F0">
+                    <English>Type 07 Officer Uniform (Green Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_dhex_02_F0">
+                    <English>Type 07 Officer Uniform (Desert Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_mhex_02_F0">
+                    <English>Type 07 Officer Uniform (Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_sahex_02_F0">
+                    <English>Type 07 Officer Uniform (Semi-Arid Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_whex_02_F0">
+                    <English>Type 07 Officer Uniform (Woodland Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_vhex_02_F0">
+                    <English>Type 07 Officer Uniform (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_oli_02_F0">
+                    <English>Type 07 Officer Uniform (Olive, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_grn_02_F0">
+                    <English>Type 07 Officer Uniform (Green, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_blk_02_F0">
+                    <English>Type 07 Officer Uniform (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_khk_02_F0">
+                    <English>Type 07 Officer Uniform (Khaki, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_hex_01_F0">
+                    <English>Type 03 Parka (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_01_F0">
+                    <English>Type 03 Parka (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_01_F0">
+                    <English>Type 03 Parka (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_01_F0">
+                    <English>Type 03 Parka (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_01_F0">
+                    <English>Type 03 Parka (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_whex_01_F0">
+                    <English>Type 03 Parka (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_01_F0">
+                    <English>Type 03 Parka (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_01_F0">
+                    <English>Type 03 Parka [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_oli_01_F0">
+                    <English>Type 03 Parka (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_grn_01_F0">
+                    <English>Type 03 Parka (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_blk_01_F0">
+                    <English>Type 03 Parka (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_khk_01_F0">
+                    <English>Type 03 Parka (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_hex_02_F0">
+                    <English>Type 03 Parka (Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_02_F0">
+                    <English>Type 03 Parka (Green Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_02_F0">
+                    <English>Type 03 Parka (Desert Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_02_F0">
+                    <English>Type 03 Parka (Oceanic Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_02_F0">
+                    <English>Type 03 Parka (Semi-Arid Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_whex_02_F0">
+                    <English>Type 03 Parka (Woodland Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_02_F0">
+                    <English>Type 03 Parka (Dark Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_02_F0">
+                    <English>Type 03 Parka [Venezuela] (Dark Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_oli_02_F0">
+                    <English>Type 03 Parka (Olive, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_grn_02_F0">
+                    <English>Type 03 Parka (Green, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_blk_02_F0">
+                    <English>Type 03 Parka (Black, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_khk_02_F0">
+                    <English>Type 03 Parka (Khaki, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_blk0">
+                    <English>Special Fatigues [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_hex0">
+                    <English>Special Fatigues [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_ghex0">
+                    <English>Special Fatigues [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_dhex0">
+                    <English>Special Fatigues [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_mhex0">
+                    <English>Special Fatigues [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_mhex_blk0">
+                    <English>Special Fatigues [CSAT] (Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_blk_mhex0">
+                    <English>Special Fatigues [CSAT] (Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_uhex0">
+                    <English>Special Fatigues [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_sahex0">
+                    <English>Special Fatigues [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_whex0">
+                    <English>Special Fatigues [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_vhex0">
+                    <English>Special Fatigues [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_vhex_vz0">
+                    <English>Special Fatigues [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_blk0">
+                    <English>Special Fatigues [CSAT] (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_hex0">
+                    <English>Special Fatigues [CSAT] (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_ghex0">
+                    <English>Special Fatigues [CSAT] (Green Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_dhex0">
+                    <English>Special Fatigues [CSAT] (Desert Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_mhex0">
+                    <English>Special Fatigues [CSAT] (Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_mhex_blk0">
+                    <English>Special Fatigues [CSAT] (Oceanic Hex/Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_blk_mhex0">
+                    <English>Special Fatigues [CSAT] (Black/Oceanic Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_uhex0">
+                    <English>Special Fatigues [CSAT] (Urban Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_sahex0">
+                    <English>Special Fatigues [CSAT] (Semi-Arid Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_whex0">
+                    <English>Special Fatigues [CSAT] (Woodland Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_vhex0">
+                    <English>Special Fatigues [CSAT] (Dark Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_SFFatigues_Shortsleeve_vhex_vz0">
+                    <English>Special Fatigues [Venezuela] (Dark Hex, Rolled-Up)</English>
+                </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_hex_F0">
+                    <English>Avenger Helmet (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_ghex_F0">
+                    <English>Avenger Helmet (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_dhex_F0">
+                    <English>Avenger Helmet (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_mhex_F0">
+                    <English>Avenger Helmet (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_sahex_F0">
+                    <English>Avenger Helmet (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_uhex_F0">
+                    <English>Avenger Helmet (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_whex_F0">
+                    <English>Avenger Helmet (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_hex_F0">
+                    <English>Avenger Helmet (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_ghex_F0">
+                    <English>Avenger Helmet (Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_dhex_F0">
+                    <English>Avenger Helmet (Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_mhex_F0">
+                    <English>Avenger Helmet (Cover, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_sahex_F0">
+                    <English>Avenger Helmet (Cover, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_uhex_F0">
+                    <English>Avenger Helmet (Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_whex_F0">
+                    <English>Avenger Helmet (Cover, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hex_01_F0">
+                    <English>Field Cap [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_ghex_01_F0">
+                    <English>Field Cap [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_dhex_01_F0">
+                    <English>Field Cap [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_mhex_01_F0">
+                    <English>Field Cap [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_sahex_01_F0">
+                    <English>Field Cap [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_uhex_01_F0">
+                    <English>Field Cap [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_whex_01_F0">
+                    <English>Field Cap [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_vhex_01_F0">
+                    <English>Field Cap [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_oli_01_F0">
+                    <English>Field Cap [CSAT] (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_grn_01_F0">
+                    <English>Field Cap [CSAT] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_blk_01_F0">
+                    <English>Field Cap [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_khk_01_F0">
+                    <English>Field Cap [CSAT] (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_ghex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_dhex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_mhex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_sahex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_uhex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_whex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_vhex_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_oli_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_grn_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_blk_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_khk_02_F0">
+                    <English>Field Cap [CSAT] (Goggles, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_PLA_Cap_t07_hs0">
+                    <English>Field Cap [PLA] (Type 07, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_PLA_Cap_t07_des_hs0">
+                    <English>Field Cap [PLA] (Type 07 Desert, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_PLA_Cap_t03_hs0">
+                    <English>Field Cap [PLA] (Type 03 Tibet, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_hex_01_F0">
+                    <English>Field Cap [CSAT] (Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_ghex_01_F0">
+                    <English>Field Cap [CSAT] (Green Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_dhex_01_F0">
+                    <English>Field Cap [CSAT] (Desert Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_mhex_01_F0">
+                    <English>Field Cap [CSAT] (Oceanic Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_sahex_01_F0">
+                    <English>Field Cap [CSAT] (Semi-Arid Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_uhex_01_F0">
+                    <English>Field Cap [CSAT] (Urban Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_whex_01_F0">
+                    <English>Field Cap [CSAT] (Woodland Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_vhex_01_F0">
+                    <English>Field Cap [CSAT] (Dark Hex, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_oli_01_F0">
+                    <English>Field Cap [CSAT] (Olive, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_grn_01_F0">
+                    <English>Field Cap [CSAT] (Green, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_blk_01_F0">
+                    <English>Field Cap [CSAT] (Black, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_FieldCap_hs_khk_01_F0">
+                    <English>Field Cap [CSAT] (Khaki, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Cap_t99_hs0">
+                    <English>Field Cap [PLA] (Type 99, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Cap_t99_hs_oli0">
+                    <English>Field Cap [PLA] (Type 99, Olive, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_red_F0">
+                    <English>Beret [CSAT] (Red)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_oli_F0">
+                    <English>Beret [CSAT] (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_grn_F0">
+                    <English>Beret [CSAT] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_blk_F0">
+                    <English>Beret [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_khk_F0">
+                    <English>Beret [CSAT] (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_PLA_un_F0">
+                    <English>Beret [UN] (Alt)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_hex_01_F0">
+                    <English>Booniehat [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_ghex_01_F0">
+                    <English>Booniehat [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_dhex_01_F0">
+                    <English>Booniehat [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_mhex_01_F0">
+                    <English>Booniehat [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_sahex_01_F0">
+                    <English>Booniehat [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_uhex_01_F0">
+                    <English>Booniehat [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_whex_01_F0">
+                    <English>Booniehat [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_vhex_01_F0">
+                    <English>Booniehat [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_oli_01_F0">
+                    <English>Booniehat [CSAT] (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_grn_01_F0">
+                    <English>Booniehat [CSAT] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_blk_01_F0">
+                    <English>Booniehat [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_khk_01_F0">
+                    <English>Booniehat [CSAT] (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_un_01_F0">
+                    <English>Booniehat [UN] (Alt)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_hex_02_F0">
+                    <English>Booniehat [CSAT] (Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_ghex_02_F0">
+                    <English>Booniehat [CSAT] (Green Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_dhex_02_F0">
+                    <English>Booniehat [CSAT] (Desert Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_mhex_02_F0">
+                    <English>Booniehat [CSAT] (Oceanic Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_sahex_02_F0">
+                    <English>Booniehat [CSAT] (Semi-Arid Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_hex_02_F0">
+                    <English>Booniehat [CSAT] (Urban Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_whex_02_F0">
+                    <English>Booniehat [CSAT] (Woodland Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_vhex_02_F0">
+                    <English>Booniehat [CSAT] (Dark Hex, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_oli_02_F0">
+                    <English>Booniehat [CSAT] (Olive, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_grn_02_F0">
+                    <English>Booniehat [CSAT] (Green, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_blk_02_F0">
+                    <English>Booniehat [CSAT] (Black, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_khk_02_F0">
+                    <English>Booniehat [CSAT] (Khaki, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Boonie_un_02_F0">
+                    <English>Booniehat [UN] (Alt, Folded)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_oli_F0">
+                    <English>QGF-03 Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_grn_F0">
+                    <English>QGF-03 Helmet (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_blk_F0">
+                    <English>QGF-03 Helmet (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_khk_F0">
+                    <English>QGF-03 Helmet (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_hex_F0">
+                    <English>QGF-03 Helmet (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_ghex_F0">
+                    <English>QGF-03 Helmet (Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_dhex_F0">
+                    <English>QGF-03 Helmet (Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_mhex_F0">
+                    <English>QGF-03 Helmet (Cover, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_sahex_F0">
+                    <English>QGF-03 Helmet (Cover, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_uhex_F0">
+                    <English>QGF-03 Helmet (Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_whex_F0">
+                    <English>QGF-03 Helmet (Cover, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_vhex_F0">
+                    <English>QGF-03 Helmet (Cover, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_cover_un_F0">
+                    <English>QGF-03 Helmet (Cover, UN)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_hex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_ghex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_dhex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_mhex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_sahex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_uhex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_whex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_vhex_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_hex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_ghex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_dhex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_mhex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_sahex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_uhex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_whex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_vhex_02_F0">
+                    <English>QGF-03 Helmet (Goggles, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_un_01_F0">
+                    <English>QGF-03 Helmet (Goggle-Cover, UN)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_goggles_un_02_F0">
+                    <English>QGF-03 Helmet (Goggles, UN)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_hex_F0">
+                    <English>QGF-03 Helmet (Headset, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_ghex_F0">
+                    <English>QGF-03 Helmet (Headset, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_dhex_F0">
+                    <English>QGF-03 Helmet (Headset, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_mhex_F0">
+                    <English>QGF-03 Helmet (Headset, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_sahex_F0">
+                    <English>QGF-03 Helmet (Headset, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_uhex_F0">
+                    <English>QGF-03 Helmet (Headset, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_whex_F0">
+                    <English>QGF-03 Helmet (Headset, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_vhex_F0">
+                    <English>QGF-03 Helmet (Headset, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet_qgf03_hs_un_F0">
+                    <English>QGF-03 Helmet (Headset, UN)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_hex0">
+                    <English>Attacker Helmet (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_ghex0">
+                    <English>Attacker Helmet (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_dhex0">
+                    <English>Attacker Helmet (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_mhex0">
+                    <English>Attacker Helmet (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_sahex0">
+                    <English>Attacker Helmet (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_uhex0">
+                    <English>Attacker Helmet (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_whex0">
+                    <English>Attacker Helmet (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_vhex0">
+                    <English>Attacker Helmet (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_hex0">
+                    <English>Attacker Helmet (Visor, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_ghex0">
+                    <English>Attacker Helmet (Visor, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_dhex0">
+                    <English>Attacker Helmet (Visor, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_mhex0">
+                    <English>Attacker Helmet (Visor, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_sahex0">
+                    <English>Attacker Helmet (Visor, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_uhex0">
+                    <English>Attacker Helmet (Visor, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_whex0">
+                    <English>Attacker Helmet (Visor, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_vhex0">
+                    <English>Attacker Helmet (Visor, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_hex0">
+                    <English>Attacker Helmet (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_ghex0">
+                    <English>Attacker Helmet (Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_dhex0">
+                    <English>Attacker Helmet (Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_mhex0">
+                    <English>Attacker Helmet (Cover, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_sahex0">
+                    <English>Attacker Helmet (Cover, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_uhex0">
+                    <English>Attacker Helmet (Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_whex0">
+                    <English>Attacker Helmet (Cover, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttacker_Cover_vhex0">
+                    <English>Attacker Helmet (Cover, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_hex0">
+                    <English>Attacker Helmet (Cover/Visor, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_ghex0">
+                    <English>Attacker Helmet (Cover/Visor, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_dhex0">
+                    <English>Attacker Helmet (Cover/Visor, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_mhex0">
+                    <English>Attacker Helmet (Cover/Visor, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_sahex0">
+                    <English>Attacker Helmet (Cover/Visor, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_uhex0">
+                    <English>Attacker Helmet (Cover/Visor, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_whex0">
+                    <English>Attacker Helmet (Cover/Visor, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerSpec_Cover_vhex0">
+                    <English>Attacker Helmet (Cover/Visor, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_hex0">
+                    <English>Attacker Helmet (Cover/Scrim, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_ghex0">
+                    <English>Attacker Helmet (Cover/Scrim, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_dhex0">
+                    <English>Attacker Helmet (Cover/Scrim, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_mhex0">
+                    <English>Attacker Helmet (Cover/Scrim, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_sahex0">
+                    <English>Attacker Helmet (Cover/Scrim, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_uhex0">
+                    <English>Attacker Helmet (Cover/Scrim, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_whex0">
+                    <English>Attacker Helmet (Cover/Scrim, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAttackerScrim_Cover_vhex0">
+                    <English>Attacker Helmet (Cover/Scrim, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_blk0">
+                    <English>Light Combat Helmet [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_grn0">
+                    <English>Light Combat Helmet [CSAT] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_khk0">
+                    <English>Light Combat Helmet [CSAT] (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_tan0">
+                    <English>Light Combat Helmet [CSAT] (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_hex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_ghex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_dhex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_mhex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_sahex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_whex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_vhex0">
+                    <English>Light Combat Helmet [CSAT] (Cover, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_vhex_vz0">
+                    <English>Light Combat Helmet [Venezuela] (Cover, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_Cover_thex0">
+                    <English>Light Combat Helmet [Turkiye] (Cover)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_hex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_ghex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_dhex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_mhex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_sahex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_whex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_vhex0">
+                    <English>Light Combat Helmet [CSAT] (Scrim, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_vhex_vz0">
+                    <English>Light Combat Helmet [Venezuela] (Scrim, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCSAT_Light_CoverScrim_thex0">
+                    <English>Light Combat Helmet [Turkiye] (Scrim)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCrew_dhex_F0">
+                    <English>Modular Crew Helmet (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCrew_mhex_F0">
+                    <English>Modular Crew Helmet (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCrew_sahex_F0">
+                    <English>Modular Crew Helmet (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_blk0">
+                    <English>Ballistic Mask [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_grn0">
+                    <English>Ballistic Mask [CSAT] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_tan0">
+                    <English>Ballistic Mask [CSAT] (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_khk0">
+                    <English>Ballistic Mask [CSAT] (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_Up_blk0">
+                    <English>Ballistic Mask [CSAT] (Black, Lifted-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_Up_grn0">
+                    <English>Ballistic Mask [CSAT] (Green, Lifted-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_Up_tan0">
+                    <English>Ballistic Mask [CSAT] (Tan, Lifted-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Ballstic_Mask_Up_khk0">
+                    <English>Ballistic Mask [CSAT] (Khaki, Lifted-Up)</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_GRFU_V_ORigLBV_MHex_F0">
+                    <English>Type 25 LBV Harness (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_ORigLBV_VHex_F0">
+                    <English>Type 25 LBV Harness (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_MHex_F0">
+                    <English>Type 27 Carrier CQB Rig (LBV, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_MHex_blk_F0">
+                    <English>Type 27 Carrier CQB Rig (LBV, Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_blk_MHex_F0">
+                    <English>Type 27 Carrier CQB Rig (LBV, Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_VHex_F0">
+                    <English>Type 27 Carrier CQB Rig (LBV, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_MHex_F0">
+                    <English>Type 27 Carrier GL Rig (LBV, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_MHex_blk_F0">
+                    <English>Type 27 Carrier GL Rig (LBV, Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_blk_MHex_F0">
+                    <English>Type 27 Carrier GL Rig (LBV, Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_VHex_F0">
+                    <English>Type 27 Carrier GL Rig (LBV, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_MHex_F0">
+                    <English>Type 27 Carrier Vest (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_MHex_blk_F0">
+                    <English>Type 27 Carrier Vest (Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_blk_MHex_F0">
+                    <English>Type 27 Carrier Vest (Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_VHex_F0">
+                    <English>Type 27 Carrier Vest (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_MHex_F0">
+                    <English>Type 27 Carrier Lite (LBV, Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_MHex_blk_F0">
+                    <English>Type 27 Carrier Lite (LBV, Oceanic Hex/Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_blk_MHex_F0">
+                    <English>Type 27 Carrier Lite (LBV, Black/Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_VHex_F0">
+                    <English>Type 27 Carrier Lite (LBV, Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_hex_F0">
+                    <English>Type 04B Carrier Vest (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_ghex_F0">
+                    <English>Type 04B Carrier Vest (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_dhex_F0">
+                    <English>Type 04B Carrier Vest (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_mhex_F0">
+                    <English>Type 04B Carrier Vest (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_sahex_F0">
+                    <English>Type 04B Carrier Vest (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_uhex_F0">
+                    <English>Type 04B Carrier Vest (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_whex_F0">
+                    <English>Type 04B Carrier Vest (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_vhex_F0">
+                    <English>Type 04B Carrier Vest (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_oli_F0">
+                    <English>Type 04B Carrier Vest (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_grn_F0">
+                    <English>Type 04B Carrier Vest (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_blk_F0">
+                    <English>Type 04B Carrier Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_khk_F0">
+                    <English>Type 04B Carrier Vest (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_hex_F0">
+                    <English>Type 04B Carrier Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_ghex_F0">
+                    <English>Type 04B Carrier Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_dhex_F0">
+                    <English>Type 04B Carrier Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_mhex_F0">
+                    <English>Type 04B Carrier Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_sahex_F0">
+                    <English>Type 04B Carrier Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_uhex_F0">
+                    <English>Type 04B Carrier Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_whex_F0">
+                    <English>Type 04B Carrier Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_vhex_F0">
+                    <English>Type 04B Carrier Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_oli_F0">
+                    <English>Type 04B Carrier Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_grn_F0">
+                    <English>Type 04B Carrier Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_blk_F0">
+                    <English>Type 04B Carrier Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_lite_khk_F0">
+                    <English>Type 04B Carrier Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_hex_F0">
+                    <English>Type 04B Carrier CQB Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_ghex_F0">
+                    <English>Type 04B Carrier CQB Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_dhex_F0">
+                    <English>Type 04B Carrier CQB Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_mhex_F0">
+                    <English>Type 04B Carrier CQB Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_sahex_F0">
+                    <English>Type 04B Carrier CQB Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_uhex_F0">
+                    <English>Type 04B Carrier CQB Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_whex_F0">
+                    <English>Type 04B Carrier CQB Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_vhex_F0">
+                    <English>Type 04B Carrier CQB Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_oli_F0">
+                    <English>Type 04B Carrier CQB Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_grn_F0">
+                    <English>Type 04B Carrier CQB Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_blk_F0">
+                    <English>Type 04B Carrier CQB Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_cqb_khk_F0">
+                    <English>Type 04B Carrier CQB Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_hex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_ghex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_dhex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_mhex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_sahex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_uhex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_whex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_vhex_F0">
+                    <English>Type 04B Carrier Chicom Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_oli_F0">
+                    <English>Type 04B Carrier Chicom Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_grn_F0">
+                    <English>Type 04B Carrier Chicom Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_blk_F0">
+                    <English>Type 04B Carrier Chicom Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t04b_chicom_khk_F0">
+                    <English>Type 04B Carrier Chicom Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_hex_F0">
+                    <English>Type 06 Carrier Vest (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_ghex_F0">
+                    <English>Type 06 Carrier Vest (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_dhex_F0">
+                    <English>Type 06 Carrier Vest (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mhex_F0">
+                    <English>Type 06 Carrier Vest (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_sahex_F0">
+                    <English>Type 06 Carrier Vest (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_uhex_F0">
+                    <English>Type 06 Carrier Vest (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_whex_F0">
+                    <English>Type 06 Carrier Vest (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_vhex_F0">
+                    <English>Type 06 Carrier Vest (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_oli_F0">
+                    <English>Type 06 Carrier Vest (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_grn_F0">
+                    <English>Type 06 Carrier Vest (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_blk_F0">
+                    <English>Type 06 Carrier Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_khk_F0">
+                    <English>Type 06 Carrier Vest (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_hex_F0">
+                    <English>Type 06 Carrier Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_ghex_F0">
+                    <English>Type 06 Carrier Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_dhex_F0">
+                    <English>Type 06 Carrier Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_mhex_F0">
+                    <English>Type 06 Carrier Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_sahex_F0">
+                    <English>Type 06 Carrier Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_uhex_F0">
+                    <English>Type 06 Carrier Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_whex_F0">
+                    <English>Type 06 Carrier Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_vhex_F0">
+                    <English>Type 06 Carrier Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_oli_F0">
+                    <English>Type 06 Carrier Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_grn_F0">
+                    <English>Type 06 Carrier Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_blk_F0">
+                    <English>Type 06 Carrier Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lite_khk_F0">
+                    <English>Type 06 Carrier Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_hex_F0">
+                    <English>Type 06 Carrier MG Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_ghex_F0">
+                    <English>Type 06 Carrier MG Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_dhex_F0">
+                    <English>Type 06 Carrier MG Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_mhex_F0">
+                    <English>Type 06 Carrier MG Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_sahex_F0">
+                    <English>Type 06 Carrier MG Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_uhex_F0">
+                    <English>Type 06 Carrier MG Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_whex_F0">
+                    <English>Type 06 Carrier MG Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_vhex_F0">
+                    <English>Type 06 Carrier MG Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_oli_F0">
+                    <English>Type 06 Carrier MG Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_grn_F0">
+                    <English>Type 06 Carrier MG Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_blk_F0">
+                    <English>Type 06 Carrier MG Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_mg_khk_F0">
+                    <English>Type 06 Carrier MG Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_hex_F0">
+                    <English>Type 06 Carrier Special Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_ghex_F0">
+                    <English>Type 06 Carrier Special Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_dhex_F0">
+                    <English>Type 06 Carrier Special Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_mhex_F0">
+                    <English>Type 06 Carrier Special Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_sahex_F0">
+                    <English>Type 06 Carrier Special Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_uhex_F0">
+                    <English>Type 06 Carrier Special Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_whex_F0">
+                    <English>Type 06 Carrier Special Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_vhex_F0">
+                    <English>Type 06 Carrier Special Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_oli_F0">
+                    <English>Type 06 Carrier Special Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_grn_F0">
+                    <English>Type 06 Carrier Special Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_blk_F0">
+                    <English>Type 06 Carrier Special Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_spec_khk_F0">
+                    <English>Type 06 Carrier Special Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_hex_F0">
+                    <English>Type 06 Carrier Leader Rig (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_ghex_F0">
+                    <English>Type 06 Carrier Leader Rig (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_dhex_F0">
+                    <English>Type 06 Carrier Leader Rig (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_mhex_F0">
+                    <English>Type 06 Carrier Leader Rig (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_sahex_F0">
+                    <English>Type 06 Carrier Leader Rig (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_uhex_F0">
+                    <English>Type 06 Carrier Leader Rig (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_whex_F0">
+                    <English>Type 06 Carrier Leader Rig (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_vhex_F0">
+                    <English>Type 06 Carrier Leader Rig (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_oli_F0">
+                    <English>Type 06 Carrier Leader Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_grn_F0">
+                    <English>Type 06 Carrier Leader Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_blk_F0">
+                    <English>Type 06 Carrier Leader Rig (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_Vest_t06_lead_khk_F0">
+                    <English>Type 06 Carrier Leader Rig (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_hex_F0">
+                    <English>Type 95 LBV Harness (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_ghex_F0">
+                    <English>Type 95 LBV Harness (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_dhex_F0">
+                    <English>Type 95 LBV Harness (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_mhex_F0">
+                    <English>Type 95 LBV Harness (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_sahex_F0">
+                    <English>Type 95 LBV Harness (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_uhex_F0">
+                    <English>Type 95 LBV Harness (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_whex_F0">
+                    <English>Type 95 LBV Harness (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_vhex_F0">
+                    <English>Type 95 LBV Harness (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_oli_F0">
+                    <English>Type 95 LBV Harness (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_grn_F0">
+                    <English>Type 95 LBV Harness (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_blk_F0">
+                    <English>Type 95 LBV Harness (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_LBV_t95_khk_F0">
+                    <English>Type 95 LBV Harness (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_hex0">
+                    <English>Plate Carrier Lite [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_ghex0">
+                    <English>Plate Carrier Lite [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_dhex0">
+                    <English>Plate Carrier Lite [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_mhex0">
+                    <English>Plate Carrier Lite [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_sahex0">
+                    <English>Plate Carrier Lite [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_uhex0">
+                    <English>Plate Carrier Lite [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_whex0">
+                    <English>Plate Carrier Lite [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_vhex0">
+                    <English>Plate Carrier Lite [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_vhex_vz0">
+                    <English>Plate Carrier Lite [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Lite_thex0">
+                    <English>Plate Carrier Lite [Turkiye]</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_hex0">
+                    <English>Plate Carrier Rig [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_ghex0">
+                    <English>Plate Carrier Rig [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_dhex0">
+                    <English>Plate Carrier Rig [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_mhex0">
+                    <English>Plate Carrier Rig [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_sahex0">
+                    <English>Plate Carrier Rig [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_uhex0">
+                    <English>Plate Carrier Rig [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_whex0">
+                    <English>Plate Carrier Rig [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_vhex0">
+                    <English>Plate Carrier Rig [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_vhex_vz0">
+                    <English>Plate Carrier Rig [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_CHPCCarrier_Rig_thex0">
+                    <English>Plate Carrier Rig [Turkiye]</English>
+                </Key>
+            </Container>
+            <Container name="Backpacks">
+                <Key ID="STR_A3_GRFU_B_RadioBag_01_mhex_F0">
+                    <English>Radio Pack (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_hex_F0">
+                    <English>Type 07 Combat Pack (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_ghex_F0">
+                    <English>Type 07 Combat Pack (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_dhex_F0">
+                    <English>Type 07 Combat Pack (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_mhex_F0">
+                    <English>Type 07 Combat Pack (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_sahex_F0">
+                    <English>Type 07 Combat Pack (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_uhex_F0">
+                    <English>Type 07 Combat Pack (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_whex_F0">
+                    <English>Type 07 Combat Pack (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_vhex_F0">
+                    <English>Type 07 Combat Pack (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_oli_F0">
+                    <English>Type 07 Combat Pack (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_grn_F0">
+                    <English>Type 07 Combat Pack (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_blk_F0">
+                    <English>Type 07 Combat Pack (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_CombatPack_t07_khk_F0">
+                    <English>Type 07 Combat Pack (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_hex_F0">
+                    <English>Type 03 Radio Pack (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_ghex_F0">
+                    <English>Type 03 Radio Pack (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_dhex_F0">
+                    <English>Type 03 Radio Pack (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_mhex_F0">
+                    <English>Type 03 Radio Pack (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_sahex_F0">
+                    <English>Type 03 Radio Pack (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_uhex_F0">
+                    <English>Type 03 Radio Pack (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_whex_F0">
+                    <English>Type 03 Radio Pack (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_vhex_F0">
+                    <English>Type 03 Radio Pack (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_oli_F0">
+                    <English>Type 03 Radio Pack (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_grn_F0">
+                    <English>Type 03 Radio Pack (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_blk_F0">
+                    <English>Type 03 Radio Pack (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioPack_t03_khk_F0">
+                    <English>Type 03 Radio Pack (Khaki)</English>
+                </Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_GRFU_G_Goggles_blk_F0">
+                    <English>Combat Goggles (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Goggles_oli_F0">
+                    <English>Combat Goggles (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Goggles_grn_F0">
+                    <English>Combat Goggles (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Goggles_khk_F0">
+                    <English>Combat Goggles (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_blk_F0">
+                    <English>Balaclava (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_oli_F0">
+                    <English>Balaclava (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_grn_F0">
+                    <English>Balaclava (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_khk_F0">
+                    <English>Balaclava (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_blk_F0">
+                    <English>Balaclava (Black, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_oli_F0">
+                    <English>Balaclava (Olive, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_grn_F0">
+                    <English>Balaclava (Green, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_oli_F0">
+                    <English>Balaclava (Khaki, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_pla_snd_F0">
+                    <English>Headset [PLA] (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_blk_F0">
+                    <English>Headset (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_oli_F0">
+                    <English>Headset (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_snd_F0">
+                    <English>Headset (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_grn_F0">
+                    <English>Headset (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_khk_F0">
+                    <English>Headset (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_Up_blk_F0">
+                    <English>Balaclava (Goggles-Up, Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_Up_oli_F0">
+                    <English>Balaclava (Goggles-Up, Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_Up_grn_F0">
+                    <English>Balaclava (Goggles-Up, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_Goggles_Up_oli_F0">
+                    <English>Balaclava (Goggles-Up, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_blk_F0">
+                    <English>Headset (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_oli_F0">
+                    <English>Headset (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_grn_F0">
+                    <English>Headset (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Headset_khk_F0">
+                    <English>Headset (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Sport_Black_F0">
+                    <English>Sport Shades (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_AX_G_Squares_F0">
+                    <English>Square Glasses</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="LongRangeRifles">
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_khk_F0">
+                    <English>QBU-88 (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_grn_F0">
+                    <English>QBU-88 (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_tan_F0">
+                    <English>QBU-88 (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_mhex_F0">
+                    <English>QBU-88 (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_poly_blk_F0">
+                    <English>QBU-88 (Polymer)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_poly_snd_F0">
+                    <English>QBU-88 (Polymer, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_poly_khk_F0">
+                    <English>QBU-88 (Polymer, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_srifle_DMR_07_poly_grn_F0">
+                    <English>QBU-88 (Polymer, Green)</English>
+                </Key>
+            </Container>
+            <Container name="Rifles">
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_snd0">
+                    <English>QBZ-95 5.8 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_tan0">
+                    <English>QBZ-95 5.8 mm (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_khk0">
+                    <English>QBZ-95 5.8 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_grn0">
+                    <English>QBZ-95 5.8 mm (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_hex0">
+                    <English>QBZ-95 5.8 mm (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_ghex0">
+                    <English>QBZ-95 5.8 mm (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_mhex0">
+                    <English>QBZ-95 5.8 mm (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL0">
+                    <English>QBZ-95 GL 5.8 mm</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_snd0">
+                    <English>QBZ-95 GL 5.8 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_tan0">
+                    <English>QBZ-95 GL 5.8 mm (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_khk0">
+                    <English>QBZ-95 GL 5.8 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_grn0">
+                    <English>QBZ-95 GL 5.8 mm (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_hex0">
+                    <English>QBZ-95 GL 5.8 mm (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_ghex0">
+                    <English>QBZ-95 GL 5.8 mm (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_GL_mhex0">
+                    <English>QBZ-95 GL 5.8 mm (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_snd0">
+                    <English>QBZ-95 RIS (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_tan0">
+                    <English>QBZ-95 RIS (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_khk0">
+                    <English>QBZ-95 RIS (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_grn0">
+                    <English>QBZ-95 RIS (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_hex0">
+                    <English>QBZ-95 RIS (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_ghex0">
+                    <English>QBZ-95 RIS (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_mhex0">
+                    <English>QBZ-95 RIS (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_snd0">
+                    <English>QBZ-95 RIS/FG (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_tan0">
+                    <English>QBZ-95 RIS/FG (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_khk0">
+                    <English>QBZ-95 RIS/FG (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_grn0">
+                    <English>QBZ-95 RIS/FG (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_hex0">
+                    <English>QBZ-95 RIS/FG (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_ghex0">
+                    <English>QBZ-95 RIS/FG (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_FG_mhex0">
+                    <English>QBZ-95 RIS/FG (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL0">
+                    <English>QBZ-95 RIS/GL</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_snd0">
+                    <English>QBZ-95 RIS/GL (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_tan0">
+                    <English>QBZ-95 RIS/GL (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_khk0">
+                    <English>QBZ-95 RIS/GL (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_grn0">
+                    <English>QBZ-95 RIS/GL (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_hex0">
+                    <English>QBZ-95 RIS/GL (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_ghex0">
+                    <English>QBZ-95 RIS/GL (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_RIS_GL_mhex0">
+                    <English>QBZ-95 RIS/GL (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_snd0">
+                    <English>QBZ-95 G2 FG (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_tan0">
+                    <English>QBZ-95 G2 FG (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_khk0">
+                    <English>QBZ-95 G2 FG (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_grn0">
+                    <English>QBZ-95 G2 FG (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_hex0">
+                    <English>QBZ-95 G2 FG (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_ghex0">
+                    <English>QBZ-95 G2 FG (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_FG_mhex0">
+                    <English>QBZ-95 G2 FG (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_snd0">
+                    <English>QBZ-95 G2 AFG (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_tan0">
+                    <English>QBZ-95 G2 AFG (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_khk0">
+                    <English>QBZ-95 G2 AFG (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_grn0">
+                    <English>QBZ-95 G2 AFG (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_hex0">
+                    <English>QBZ-95 G2 AFG (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_ghex0">
+                    <English>QBZ-95 G2 AFG (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_AFG_mhex0">
+                    <English>QBZ-95 G2 AFG (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_snd0">
+                    <English>QBZ-95 G2 GL (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_tan0">
+                    <English>QBZ-95 G2 GL (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_khk0">
+                    <English>QBZ-95 G2 GL (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_grn0">
+                    <English>QBZ-95 G2 GL (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_hex0">
+                    <English>QBZ-95 G2 GL (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_ghex0">
+                    <English>QBZ-95 G2 GL (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ95_1_GL_mhex0">
+                    <English>QBZ-95 G2 GL (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_snd0">
+                    <English>QJB-95 LSW (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_tan0">
+                    <English>QJB-95 LSW (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_khk0">
+                    <English>QJB-95 LSW (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_grn0">
+                    <English>QJB-95 LSW (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_hex0">
+                    <English>QJB-95 LSW (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_ghex0">
+                    <English>QJB-95 LSW (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QJB95_mhex0">
+                    <English>QJB-95 LSW (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_snd0">
+                    <English>QBZ-97 5.8 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_tan0">
+                    <English>QBZ-97 5.8 mm (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_khk0">
+                    <English>QBZ-97 5.8 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_grn0">
+                    <English>QBZ-97 5.8 mm (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_hex0">
+                    <English>QBZ-97 5.8 mm (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_ghex0">
+                    <English>QBZ-97 5.8 mm (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_mhex0">
+                    <English>QBZ-97 5.8 mm (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL0">
+                    <English>QBZ-97 GL 5.8 mm</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_snd0">
+                    <English>QBZ-97 GL 5.8 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_tan0">
+                    <English>QBZ-97 GL 5.8 mm (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_khk0">
+                    <English>QBZ-97 GL 5.8 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_grn0">
+                    <English>QBZ-97 GL 5.8 mm (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_hex0">
+                    <English>QBZ-97 GL 5.8 mm (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_ghex0">
+                    <English>QBZ-97 GL 5.8 mm (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_QBZ97_GL_mhex0">
+                    <English>QBZ-97 GL 5.8 mm (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_grn_F0">
+                    <English>QBZ-95-1 (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_khk_F0">
+                    <English>QBZ-95-1 (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_oli_F0">
+                    <English>QBZ-95-1 (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_mhex_F0">
+                    <English>QBZ-95-1 (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_poly_blk_F0">
+                    <English>QBZ-95-1 (Polymer)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_poly_snd_F0">
+                    <English>QBZ-95-1 (Polymer, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_poly_khk_F0">
+                    <English>QBZ-95-1 (Polymer, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_poly_grn_F0">
+                    <English>QBZ-95-1 (Polymer, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_grn_F0">
+                    <English>QBZ-95-1 GL (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_khk_F0">
+                    <English>QBZ-95-1 GL (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_oli_F0">
+                    <English>QBZ-95-1 GL (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_mhex_F0">
+                    <English>QBZ-95-1 GL (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_poly_blk_F0">
+                    <English>QBZ-95-1 GL (Polymer)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_poly_snd_F0">
+                    <English>QBZ-95-1 GL (Polymer, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_poly_khk_F0">
+                    <English>QBZ-95-1 GL (Polymer, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTAR_GL_poly_grn_F0">
+                    <English>QBZ-95-1 GL (Polymer, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_grn_F0">
+                    <English>QBZ-95-1 LSW (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_khk_F0">
+                    <English>QBZ-95-1 LSW (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_oli_F0">
+                    <English>QBZ-95-1 LSW (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_mhex_F0">
+                    <English>QBZ-95-1 LSW (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_poly_blk_F0">
+                    <English>QBZ-95-1 LSW (Polymer)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_poly_snd_F0">
+                    <English>QBZ-95-1 LSW (Polymer, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_poly_khk_F0">
+                    <English>QBZ-95-1 LSW (Polymer, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_arifle_CTARS_poly_grn_F0">
+                    <English>QBZ-95-1 LSW (Polymer, Green)</English>
+                </Key>
+            </Container>
+            <Container name="Pistols">
+                <Key ID="STR_A3_GRFU_hgun_QSZ92_F0">
+                    <English>CF-98A</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_ds_hgun_QSZ92_F0">
+                    <Original>Handgun&lt;br /&gt;Caliber: 9x19 mm</Original>
+                    <Chinese>手槍&lt;br /&gt;口徑：9x19 mm</Chinese>
+                    <French>Arme de poing&lt;br /&gt;Calibre : 9x19 mm</French>
+                    <Spanish>Pistola&lt;br /&gt;Calibre: 9x19 mm</Spanish>
+                    <Italian>Pistola&lt;br /&gt;Calibro: 9x19 mm</Italian>
+                    <Polish>Pistolet&lt;br /&gt;Kaliber: 9x19 mm</Polish>
+                    <Russian>Пистолет&lt;br /&gt;Калибр: 9x19 мм</Russian>
+                    <German>Handfeuerwaffe&lt;br /&gt;Kaliber: 9x19 mm</German>
+                    <Czech>Pistole&lt;br /&gt;Ráže: 9x19 mm</Czech>
+                    <English>Handgun&lt;br /&gt;Caliber: 9x19 mm</English>
+                    <Portuguese>Pistola&lt;br /&gt;Calibre: 9 x 19 mm</Portuguese>
+                    <Korean>권총&lt;br /&gt;구경: 9x19mm</Korean>
+                    <Chinesesimp>手枪&lt;br /&gt;口径：9x19 毫米</Chinesesimp>
+                    <Japanese>拳銃&lt;br /&gt;口径：9x19 mm</Japanese>
+                    <Turkish>Tabanca&lt;br /&gt;Kalibre: 9x19 mm</Turkish>
+                </Key>
+				<Key ID="STR_A3_A_CfgMagazines_17Rnd_9x21_Mag1">
+					<Original>Caliber: 9x19 mm&lt;br /&gt;Rounds: 17&lt;br /&gt;Used in: G17, Rook-40, P320, CF-98A</Original>
+					<Chinese>口徑：9x19 mm&lt;br /&gt;個數：17&lt;br /&gt;用於：G17，Rook-40，P320，CF-98A</Chinese>
+					<French>Calibre : 9x19 mm&lt;br /&gt;Munitions : 17&lt;br /&gt;Application : G17, Rook-40, P320, CF-98A</French>
+					<Spanish>Calibre: 9x19 mm&lt;br /&gt;Cargas: 17&lt;br /&gt;Se usa en: G17, Rook-40, P320, CF-98A</Spanish>
+					<Italian>Calibro: 9x19 mm&lt;br /&gt;Munizioni: 17&lt;br /&gt;Si usa in: G17, Rook-40, P320, CF-98A</Italian>
+					<Polish>Kaliber: 9x19 mm&lt;br /&gt;Magazynki: 17&lt;br /&gt;Używane w: G17, Rook-40, P320, CF-98A</Polish>
+					<Russian>Калибр: 9x19 мм&lt;br /&gt;Кол-во: 17&lt;br /&gt;Применение: G17, Rook-40, P320, CF-98A</Russian>
+					<German>Kaliber: 9x19 mm&lt;br /&gt;Patronen: 17 &lt;br /&gt;Eingesetzt von: G17, Rook-40, P320, CF-98A</German>
+					<Czech>Ráže: 9x19 mm&lt;br /&gt;Munice: 17&lt;br /&gt;Použití: G17, Rook-40, P320, CF-98A</Czech>
+					<English>Caliber: 9x19 mm&lt;br /&gt;Rounds: 17&lt;br /&gt;Used in: G17, Rook-40, P320, CF-98A</English>
+					<Portuguese>Calibre: 9x19 mm&lt;br /&gt;Balas: 17&lt;br /&gt;Usada em: G17, Rook-40, P320, CF-98A</Portuguese>
+					<Korean>구경: 9x19mm&lt;br /&gt;탄 수: 17&lt;br /&gt;사용 가능: G17, 루크-40, P320, CF-98A</Korean>
+					<Chinesesimp>类型：9x19 毫米&lt;br /&gt;容弹量：17&lt;br /&gt;用于：G17、Rook-40、P320、CF-98A</Chinesesimp>
+					<Japanese>口径：9x19 mm&lt;br /&gt;弾薬：17&lt;br /&gt;使用：G17、Rook-40、P320、CF-98A</Japanese>
+					<Turkish>Kalibre: 9x19 mm&lt;br /&gt;Mermi: 17&lt;br /&gt;Kullanıldığı Yer: G17, Rook-40, P320, CF-98A</Turkish>
+				</Key>
+            </Container>
+            <Container name="Launchers">
+                <Key ID="STR_A3_GRFU_launch_RPG32_drkgrn_F0">
+                    <English>RPG-32 (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_RPG32_tan_F0">
+                    <English>RPG-32 (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_Titan_grn_F0">
+                    <English>Titan MPRL (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_Titan_short_grn_F0">
+                    <English>Titan MPRL Compact (Green)</English>
+                </Key>
+            </Container>
+            <Container name="Magazines">
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+            </Container>
+            <Container name="Helicopters">
+            </Container>
+            <Container name="Cars">
+            </Container>
+            <Container name="APCs">
+            </Container>
+            <Container name="Tanks">
+            </Container>
+            <Container name="Misc">
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_hex_F0">
+                    <English>Rally Point [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_ghex_F0">
+                    <English>Rally Point [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_dhex_F0">
+                    <English>Rally Point [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_mhex_F0">
+                    <English>Rally Point [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_sahex_F0">
+                    <English>Rally Point [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_uhex_F0">
+                    <English>Rally Point [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_whex_F0">
+                    <English>Rally Point [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_RallyPoint_CSAT_vhex_F0">
+                    <English>Rally Point [CSAT] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_hex_F0">
+                    <English>Medical Point [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_ghex_F0">
+                    <English>Medical Point [CSAT] (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_dhex_F0">
+                    <English>Medical Point [CSAT] (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_mhex_F0">
+                    <English>Medical Point [CSAT] (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_sahex_F0">
+                    <English>Medical Point [CSAT] (Semi-Arid Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_uhex_F0">
+                    <English>Medical Point [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_whex_F0">
+                    <English>Medical Point [CSAT] (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Land_Prop_MedicalPoint_CSAT_vhex_F0">
+                    <English>Medical Point [CSAT] (Dark Hex)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_GRFU_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Jamie">
+                    <English>OokamiJamie</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Charms">
+                    <English>CommanderCharms</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>
