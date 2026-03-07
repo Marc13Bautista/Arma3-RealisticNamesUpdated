@@ -1,0 +1,30 @@
+3/7/26 JAM Project - Asian Escalation [DEV] Mar 5 @ 8:23pm Patch & Arma 3 Aegis & AE Asian Surplus Mar 6 @ 11:13pm Patch
+
+(Changes to JAM Asian Escalation)
+- HJ-8 ATGM -> HJ-8 ATGM *Kept same. Static weapon w/ real name.
+- YMA-95 -> YMA-95 *Kept same. Real name of the scope itself.
+- QBZ-95-1 GL 5.8 mm (QLG-10) -> QBZ-95 G2 GL
+- QBZ-95 RIS GL 5.8 mm (QLG-10) -> QBZ-95 G2 RIS/GL
+*Model differs massively from the existing APEX DLC QBZ-95-1 models.
+- QBZ-95-1 (series) -> QBZ-95 G2 (series)
+*Appearance of the series is the Type 97 NSR Gen 2 - .223 Remington, but still uses 5.8x42, so logic follows it is a "QBZ-95 Gen 2". Following same naming conventions of the FAMAS weapons family.
+- QBJ-95 LSW -> QJB-95 LSW
+*Corrected the actual designation for the QJB-95 light support weapon.
+
+(Changes to Aegis & AE Asian Surplus)
+*I swapped from using config.cpp to stringtable.xml for my sanity.
+- CAR-95-1 5.8 mm (Color) -> QBZ-95-1 LSW (Color) 
+- CAR-95-1 5.8 mm (Polymer, Color) -> QBZ-95-1 LSW (Polymer, Color) 
+- CAR-95 5.8 mm (Color) -> QBZ-95-1 (Color)
+- CAR-95 5.8 mm (Polymer, Color) -> QBZ-95-1 (Polymer, Color)
+- CAR-95 GL 5.8 mm (Color) -> QBZ-95-1 GL (Color)
+- CAR-95 GL 5.8 mm (Polymer, Color) -> QBZ-95-1 GL (Polymer, Color)
+- CMR-76 6.5 mm (Polymer) -> QBU-88 (Polymer, Black)
+- QBZ-95-1 AFG 5.8 mm (Color) -> QBZ-95 G2 AFG (Color)
+- QBZ-95-1 FG 5.8 mm (Color) -> QBZ-95 G2 FG (Color)
+- QBZ-95-1 GL 5.8 mm (Color) -> QBZ-95 G2 GL (Color)
+- QBZ-95 RIS 5.8 mm (Color) -> QBZ-95 RIS
+- QBZ-95 RIS/FG 5.8 mm (Color) -> QBZ-95 RIS/FG
+- QBZ-95 RIS/GL 5.8 mm (Color) -> QBZ-95 RIS/GL
+- QJB-95 LSW 5.8 mm (Color) -> QJB-95 LSW (Color)
+*If changes don't appear to apply, be sure to load Arma 3 Realistic Names [UPDATED (WS & RF)], last in MODS > A3 launcher!
